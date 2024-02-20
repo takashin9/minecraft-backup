@@ -2,7 +2,7 @@
 
 DATE=`date '+%Y-%m-%d %H:%M:%S %z'`
 
-cd ~/minecraftServer
+cd ~/minecraft
 
 git add -A
 git commit -m "$DATE"
