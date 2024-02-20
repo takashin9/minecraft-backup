@@ -130,3 +130,171 @@
 [20Feb2024 07:48:32.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
 [20Feb2024 08:00:01.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [20Feb2024 08:00:01.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[20Feb2024 08:07:58.705] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player souta21054 is d16a56eb-4bde-4352-8b69-4bc9cc4e8923
+[20Feb2024 08:08:00.637] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4668a432
+[20Feb2024 08:08:00.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: souta21054[/110.134.160.253:49335] logged in with entity id 15896 at (247.20849529590822, 63.0, 39.1878625849359)
+[20Feb2024 08:08:00.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 joined the game
+[20Feb2024 08:08:36.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Stone Age]
+[20Feb2024 08:08:40.888] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=245, y=55, z=39}) is not Tags.Blocks.ORES.
+[20Feb2024 08:08:58.839] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=256, y=53, z=39}) is Tags.Blocks.ORES.
+[20Feb2024 08:09:52.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Getting an Upgrade]
+[20Feb2024 08:14:00.688] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:copper_ore}(pos=BlockPos{x=254, y=51, z=37}) is Tags.Blocks.ORES.
+[20Feb2024 08:14:26.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Sweet Dreams]
+[20Feb2024 08:22:00.906] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[20Feb2024 08:22:02.855] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4550d1f8
+[20Feb2024 08:22:02.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:18808] logged in with entity id 22296 at (-1316.5073724082938, 71.0, 56.5859902201386)
+[20Feb2024 08:22:02.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[20Feb2024 08:22:17.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> nanisiteru?
+[20Feb2024 08:22:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> 村に来ただけ
+[20Feb2024 08:22:35.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> ok
+[20Feb2024 08:23:44.407] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1382, y=64, z=-35}) is Tags.Blocks.ORES.
+[20Feb2024 08:23:53.749] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:andesite}(pos=BlockPos{x=-1383, y=62, z=-27}) is not Tags.Blocks.ORES.
+[20Feb2024 08:24:09.006] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1380, y=58, z=-32}) is Tags.Blocks.ORES.
+[20Feb2024 08:24:22.248] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1376, y=55, z=-35}) is not Tags.Blocks.ORES.
+[20Feb2024 08:24:28.402] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1376, y=54, z=-33}) is not Tags.Blocks.ORES.
+[20Feb2024 08:24:28.655] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1516, y=70, z=392}) is Tags.Blocks.ORES.
+[20Feb2024 08:24:32.399] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1380, y=56, z=-35}) is not Tags.Blocks.ORES.
+[20Feb2024 08:24:33.853] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1378, y=56, z=-36}) is not Tags.Blocks.ORES.
+[20Feb2024 08:24:35.500] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1379, y=55, z=-35}) is not Tags.Blocks.ORES.
+[20Feb2024 08:25:10.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[20Feb2024 08:25:10.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[20Feb2024 08:25:20.676] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[20Feb2024 08:25:22.603] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ff5e98e
+[20Feb2024 08:25:22.611] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:41045] logged in with entity id 25422 at (-1381.4654191308944, 63.0, -29.398896979863675)
+[20Feb2024 08:25:22.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[20Feb2024 08:25:52.453] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1379, y=62, z=-31}) is not Tags.Blocks.ORES.
+[20Feb2024 08:26:04.556] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1381, y=62, z=-27}) is not Tags.Blocks.ORES.
+[20Feb2024 08:26:48.455] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=-1394, y=73, z=436}) is not Tags.Blocks.ORES.
+[20Feb2024 08:26:55.200] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1391, y=70, z=430}) is Tags.Blocks.ORES.
+[20Feb2024 08:26:59.200] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:copper_ore}(pos=BlockPos{x=-1394, y=70, z=426}) is Tags.Blocks.ORES.
+[20Feb2024 08:27:05.502] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1389, y=56, z=-14}) is Tags.Blocks.ORES.
+[20Feb2024 08:27:21.555] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:copper_ore}(pos=BlockPos{x=-1386, y=57, z=-19}) is Tags.Blocks.ORES.
+[20Feb2024 08:27:26.802] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1395, y=73, z=429}) is Tags.Blocks.ORES.
+[20Feb2024 08:27:39.851] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1385, y=56, z=-18}) is Tags.Blocks.ORES.
+[20Feb2024 08:27:51.100] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:copper_ore}(pos=BlockPos{x=-1382, y=55, z=-24}) is Tags.Blocks.ORES.
+[20Feb2024 08:28:28.292] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[20Feb2024 08:28:28.391] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [mekanism:mekanism,mekanismgenerators:mekanismgenerators,refinedstorage:main_channel] rejected their client side version number
+[20Feb2024 08:28:28.395] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[20Feb2024 08:28:28.413] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@277be6e5[id=a051f73f-2684-4905-8e29-3a7a35d9fdf0,name=Signiturere,properties={textures=[com.mojang.authlib.properties.Property@4b7c827e]},legacy=false] (/116.64.76.171:50726) lost connection: Connection closed - mismatched mod channel list
+[20Feb2024 08:29:11.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> 閃緑岩も削るのえぐくね？
+[20Feb2024 08:29:20.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> それ
+[20Feb2024 08:29:47.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> 一瞬何起きたかわからなかった
+[20Feb2024 08:30:05.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> 一応削れないようにもできるはずだけど
+[20Feb2024 08:30:07.550] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[20Feb2024 08:30:07.628] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [mekanism:mekanism,mekanismgenerators:mekanismgenerators,refinedstorage:main_channel] rejected their client side version number
+[20Feb2024 08:30:07.629] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[20Feb2024 08:30:07.655] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7246910a[id=a051f73f-2684-4905-8e29-3a7a35d9fdf0,name=Signiturere,properties={textures=[com.mojang.authlib.properties.Property@2fbead97]},legacy=false] (/116.64.76.171:50772) lost connection: Connection closed - mismatched mod channel list
+[20Feb2024 08:30:44.447] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[20Feb2024 08:30:44.530] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [mekanism:mekanism,mekanismgenerators:mekanismgenerators,refinedstorage:main_channel] rejected their client side version number
+[20Feb2024 08:30:44.530] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[20Feb2024 08:30:44.554] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7cd4ec2b[id=a051f73f-2684-4905-8e29-3a7a35d9fdf0,name=Signiturere,properties={textures=[com.mojang.authlib.properties.Property@6cbb2b68]},legacy=false] (/116.64.76.171:50783) lost connection: Connection closed - mismatched mod channel list
+[20Feb2024 08:32:22.764] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:copper_ore}(pos=BlockPos{x=-1523, y=64, z=332}) is Tags.Blocks.ORES.
+[20Feb2024 08:32:31.357] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:copper_ore}(pos=BlockPos{x=-1528, y=66, z=338}) is Tags.Blocks.ORES.
+[20Feb2024 08:32:33.101] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1529, y=65, z=337}) is Tags.Blocks.ORES.
+[20Feb2024 08:32:34.902] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1530, y=66, z=337}) is Tags.Blocks.ORES.
+[20Feb2024 08:32:46.954] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1528, y=67, z=326}) is Tags.Blocks.ORES.
+[20Feb2024 08:33:16.848] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1537, y=76, z=340}) is Tags.Blocks.ORES.
+[20Feb2024 08:34:05.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> 平原って言ってもそんなに平らじゃないなぁ
+[20Feb2024 08:34:29.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> 普通に整地くそダルそう
+[20Feb2024 08:34:47.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> ね
+[20Feb2024 08:35:37.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> なんか俺が入ってるときいつも雨降ってるんだけど
+[20Feb2024 08:35:37.765] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player fail_device is 34ff9984-16b0-4e69-89bb-e41497962b63
+[20Feb2024 08:35:40.305] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@48716c71
+[20Feb2024 08:35:40.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fail_device[/118.241.113.240:64997] logged in with entity id 30559 at (219.97440408005951, 64.0, 70.3958881653044)
+[20Feb2024 08:35:40.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fail_device joined the game
+[20Feb2024 08:36:16.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> 最悪、丸石と土も削れるようにすればすぐ終わるけど()
+[20Feb2024 08:36:21.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Monster Hunter]
+[20Feb2024 08:36:34.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> サーバー死んでしまいそう
+[20Feb2024 08:36:47.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> 範囲指定できたはず
+[20Feb2024 08:36:50.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Acquire Hardware]
+[20Feb2024 08:37:00.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <fail_device> 3人でやばいんか
+[20Feb2024 08:37:02.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> それならいいのか
+[20Feb2024 08:37:20.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> いや、今の話ではない
+[20Feb2024 08:38:15.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> modで土とか一括で掘れるようにしたらやばいねという話
+[20Feb2024 08:38:22.265] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[20Feb2024 08:38:24.260] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@514124f7
+[20Feb2024 08:38:24.264] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:50898] logged in with entity id 31782 at (239.5, 63.0, 14.5)
+[20Feb2024 08:38:24.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[20Feb2024 08:38:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <fail_device> あー
+[20Feb2024 08:38:36.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> みんな急に来るじゃん
+[20Feb2024 08:38:48.706] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1497, y=48, z=336}) is Tags.Blocks.ORES.
+[20Feb2024 08:38:51.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <fail_device> 4人大丈夫なん？
+[20Feb2024 08:38:51.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> おはようございます
+[20Feb2024 08:38:57.659] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1490, y=51, z=331}) is Tags.Blocks.ORES.
+[20Feb2024 08:38:59.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <fail_device> おは
+[20Feb2024 08:39:09.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> いまのところいけてるね
+[20Feb2024 08:39:23.959] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1480, y=45, z=321}) is Tags.Blocks.ORES.
+[20Feb2024 08:39:26.805] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1481, y=45, z=320}) is Tags.Blocks.ORES.
+[20Feb2024 08:39:29.704] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1483, y=46, z=320}) is Tags.Blocks.ORES.
+[20Feb2024 08:39:33.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fail_device was slain by Signiturere
+[20Feb2024 08:39:43.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> e?
+[20Feb2024 08:39:46.304] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1493, y=35, z=324}) is Tags.Blocks.ORES.
+[20Feb2024 08:40:31.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> なんか知らない鉱石ばっかなんだけど
+[20Feb2024 08:40:33.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <fail_device> HP1でしぐになぐりかかったら負けた
+[20Feb2024 08:40:44.558] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1487, y=30, z=316}) is Tags.Blocks.ORES.
+[20Feb2024 08:40:51.206] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1499, y=26, z=317}) is Tags.Blocks.ORES.
+[20Feb2024 08:40:54.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> 他のゲームやりながらなので定期的に停止します
+[20Feb2024 08:40:54.906] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1499, y=21, z=312}) is Tags.Blocks.ORES.
+[20Feb2024 08:41:02.559] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1499, y=20, z=311}) is Tags.Blocks.ORES.
+[20Feb2024 08:41:08.304] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1500, y=19, z=313}) is Tags.Blocks.ORES.
+[20Feb2024 08:41:11.112] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1498, y=20, z=311}) is Tags.Blocks.ORES.
+[20Feb2024 08:41:17.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <fail_device> 木こりMOD試す
+[20Feb2024 08:41:18.506] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1490, y=24, z=311}) is Tags.Blocks.ORES.
+[20Feb2024 08:41:18.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> mekanismで追加される鉱石ですかね
+[20Feb2024 08:41:31.958] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:fluorite_ore}(pos=BlockPos{x=-1491, y=18, z=306}) is Tags.Blocks.ORES.
+[20Feb2024 08:41:52.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <fail_device> あれ
+[20Feb2024 08:41:54.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> 蛍石とか何に使うのこれ
+[20Feb2024 08:42:13.807] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1494, y=11, z=300}) is Tags.Blocks.ORES.
+[20Feb2024 08:42:15.706] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1495, y=11, z=300}) is Tags.Blocks.ORES.
+[20Feb2024 08:42:25.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> 大学入試化学
+[20Feb2024 08:43:21.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> mineall使うとき、閃緑岩とかも一気にいけるので気を付けてください
+[20Feb2024 08:43:33.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> 洞窟でやらかしかけた
+[20Feb2024 08:43:57.959] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1481, y=25, z=303}) is Tags.Blocks.ORES.
+[20Feb2024 08:43:59.758] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:copper_ore}(pos=BlockPos{x=-1481, y=26, z=303}) is Tags.Blocks.ORES.
+[20Feb2024 08:44:02.758] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:copper_ore}(pos=BlockPos{x=-1480, y=24, z=302}) is Tags.Blocks.ORES.
+[20Feb2024 08:44:26.906] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1488, y=29, z=315}) is not Tags.Blocks.ORES.
+[20Feb2024 08:44:33.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere has made the advancement [Stone Age]
+[20Feb2024 08:44:35.807] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1489, y=28, z=323}) is Tags.Blocks.ORES.
+[20Feb2024 08:44:38.660] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:copper_ore}(pos=BlockPos{x=-1489, y=29, z=325}) is Tags.Blocks.ORES.
+[20Feb2024 08:45:10.759] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1505, y=22, z=310}) is Tags.Blocks.ORES.
+[20Feb2024 08:45:12.506] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1504, y=21, z=310}) is Tags.Blocks.ORES.
+[20Feb2024 08:45:31.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fail_device lost connection: Disconnected
+[20Feb2024 08:45:31.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fail_device left the game
+[20Feb2024 08:46:09.601] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1499, y=4, z=294}) is Tags.Blocks.ORES.
+[20Feb2024 08:46:12.052] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1498, y=4, z=295}) is Tags.Blocks.ORES.
+[20Feb2024 08:46:40.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[20Feb2024 08:46:40.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[20Feb2024 08:47:34.419] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[20Feb2024 08:47:36.352] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7e23c56a
+[20Feb2024 08:47:36.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:50913] logged in with entity id 35982 at (275.41602019687616, 59.0, 23.27325562715016)
+[20Feb2024 08:47:36.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[20Feb2024 08:48:54.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere has made the advancement [Getting an Upgrade]
+[20Feb2024 08:53:29.723] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player fail_device is 34ff9984-16b0-4e69-89bb-e41497962b63
+[20Feb2024 08:53:32.257] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e295081
+[20Feb2024 08:53:32.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fail_device[/118.241.113.240:49291] logged in with entity id 39472 at (225.63435500476325, 63.0, 66.52415378922234)
+[20Feb2024 08:53:32.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fail_device joined the game
+[20Feb2024 08:54:23.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fail_device lost connection: Disconnected
+[20Feb2024 08:54:23.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fail_device left the game
+[20Feb2024 08:54:33.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Isn't It Iron Pick]
+[20Feb2024 08:55:04.815] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1461, y=-23, z=261}) is Tags.Blocks.ORES.
+[20Feb2024 08:55:17.713] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1452, y=-22, z=257}) is Tags.Blocks.ORES.
+[20Feb2024 08:55:35.513] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_diamond_ore}(pos=BlockPos{x=-1449, y=-24, z=259}) is Tags.Blocks.ORES.
+[20Feb2024 08:55:35.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Diamonds!]
+[20Feb2024 08:56:08.753] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1447, y=-25, z=258}) is Tags.Blocks.ORES.
+[20Feb2024 08:56:37.647] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1455, y=-26, z=254}) is Tags.Blocks.ORES.
+[20Feb2024 08:57:10.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[20Feb2024 08:57:10.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[20Feb2024 08:57:18.505] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[20Feb2024 08:57:20.452] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1a686320
+[20Feb2024 08:57:20.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:50925] logged in with entity id 41754 at (-1316.3153972025434, 70.0, 63.99605112393401)
+[20Feb2024 08:57:20.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[20Feb2024 08:57:34.006] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_fluorite_ore}(pos=BlockPos{x=-1418, y=-12, z=256}) is Tags.Blocks.ORES.
+[20Feb2024 08:58:25.403] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1452, y=-48, z=290}) is Tags.Blocks.ORES.
+[20Feb2024 08:58:43.648] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1455, y=-47, z=287}) is Tags.Blocks.ORES.
+[20Feb2024 08:58:55.847] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1457, y=-41, z=282}) is Tags.Blocks.ORES.
+[20Feb2024 08:59:02.201] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_fluorite_ore}(pos=BlockPos{x=-1458, y=-40, z=281}) is Tags.Blocks.ORES.
+[20Feb2024 08:59:12.607] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1510, y=73, z=286}) is Tags.Blocks.ORES.
+[20Feb2024 08:59:16.546] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1508, y=74, z=287}) is Tags.Blocks.ORES.
+[20Feb2024 09:00:01.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[20Feb2024 09:00:01.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[20Feb2024 09:00:24.849] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1455, y=-41, z=227}) is Tags.Blocks.ORES.
