@@ -2095,3 +2095,451 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Feb2024 11:00:10.828] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1424, y=-2, z=486}) is Tags.Blocks.ORES.
 [20Feb2024 11:00:21.727] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_fluorite_ore}(pos=BlockPos{x=-1413, y=-13, z=487}) is Tags.Blocks.ORES.
 [20Feb2024 11:00:23.173] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_fluorite_ore}(pos=BlockPos{x=-1414, y=-13, z=488}) is Tags.Blocks.ORES.
+[20Feb2024 11:01:39.175] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1433, y=-25, z=527}) is Tags.Blocks.ORES.
+[20Feb2024 11:02:06.220] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1462, y=-38, z=512}) is Tags.Blocks.ORES.
+[20Feb2024 11:02:15.070] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1478, y=-42, z=524}) is Tags.Blocks.ORES.
+[20Feb2024 11:02:18.270] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1482, y=-45, z=523}) is Tags.Blocks.ORES.
+[20Feb2024 11:02:19.220] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1525, y=80, z=377}) is Tags.Blocks.ORES.
+[20Feb2024 11:03:30.120] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_diamond_ore}(pos=BlockPos{x=-1456, y=-39, z=508}) is Tags.Blocks.ORES.
+[20Feb2024 11:03:50.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2024 11:03:50.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2024 11:04:48.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere has made the advancement [What a Deal!]
+[20Feb2024 11:05:11.221] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1443, y=-37, z=505}) is Tags.Blocks.ORES.
+[20Feb2024 11:05:14.470] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1449, y=-34, z=504}) is Tags.Blocks.ORES.
+[20Feb2024 11:05:35.970] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1449, y=-33, z=505}) is Tags.Blocks.ORES.
+[20Feb2024 11:05:37.970] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1448, y=-32, z=505}) is Tags.Blocks.ORES.
+[20Feb2024 11:05:43.921] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1444, y=-38, z=502}) is Tags.Blocks.ORES.
+[20Feb2024 11:05:47.570] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1446, y=-38, z=500}) is Tags.Blocks.ORES.
+[20Feb2024 11:06:08.175] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1444, y=-34, z=503}) is Tags.Blocks.ORES.
+[20Feb2024 11:06:10.920] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1445, y=-34, z=501}) is Tags.Blocks.ORES.
+[20Feb2024 11:06:13.021] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_fluorite_ore}(pos=BlockPos{x=-1448, y=-34, z=501}) is Tags.Blocks.ORES.
+[20Feb2024 11:06:15.620] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1449, y=-35, z=501}) is Tags.Blocks.ORES.
+[20Feb2024 11:06:17.520] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1448, y=-36, z=499}) is Tags.Blocks.ORES.
+[20Feb2024 11:06:19.377] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1450, y=-38, z=499}) is Tags.Blocks.ORES.
+[20Feb2024 11:06:34.420] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1447, y=-37, z=497}) is Tags.Blocks.ORES.
+[20Feb2024 11:06:47.171] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1446, y=-39, z=496}) is Tags.Blocks.ORES.
+[20Feb2024 11:07:04.770] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1448, y=-40, z=495}) is Tags.Blocks.ORES.
+[20Feb2024 11:07:15.691] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1449, y=-38, z=497}) is Tags.Blocks.ORES.
+[20Feb2024 11:07:31.421] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1446, y=-40, z=495}) is Tags.Blocks.ORES.
+[20Feb2024 11:07:33.970] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1447, y=-39, z=493}) is Tags.Blocks.ORES.
+[20Feb2024 11:07:40.920] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1446, y=-41, z=493}) is Tags.Blocks.ORES.
+[20Feb2024 11:07:59.219] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1449, y=-40, z=492}) is Tags.Blocks.ORES.
+[20Feb2024 11:08:40.569] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1449, y=-42, z=493}) is Tags.Blocks.ORES.
+[20Feb2024 11:08:51.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2024 11:08:51.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2024 11:10:08.970] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1443, y=-41, z=493}) is Tags.Blocks.ORES.
+[20Feb2024 11:10:10.830] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1443, y=-40, z=495}) is Tags.Blocks.ORES.
+[20Feb2024 11:10:12.970] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1442, y=-40, z=493}) is Tags.Blocks.ORES.
+[20Feb2024 11:10:18.870] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1442, y=-41, z=492}) is Tags.Blocks.ORES.
+[20Feb2024 11:10:20.430] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1443, y=-43, z=492}) is Tags.Blocks.ORES.
+[20Feb2024 11:10:22.970] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1444, y=-42, z=491}) is Tags.Blocks.ORES.
+[20Feb2024 11:10:28.271] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_diamond_ore}(pos=BlockPos{x=-1444, y=-44, z=492}) is Tags.Blocks.ORES.
+[20Feb2024 11:10:30.771] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1445, y=-44, z=492}) is Tags.Blocks.ORES.
+[20Feb2024 11:10:34.272] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_diamond_ore}(pos=BlockPos{x=-1445, y=-45, z=492}) is Tags.Blocks.ORES.
+[20Feb2024 11:10:38.470] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1442, y=-42, z=491}) is Tags.Blocks.ORES.
+[20Feb2024 11:11:09.070] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1440, y=-40, z=495}) is Tags.Blocks.ORES.
+[20Feb2024 11:11:12.730] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1442, y=-40, z=497}) is Tags.Blocks.ORES.
+[20Feb2024 11:11:14.270] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1442, y=-41, z=496}) is Tags.Blocks.ORES.
+[20Feb2024 11:11:26.933] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1439, y=-41, z=496}) is Tags.Blocks.ORES.
+[20Feb2024 11:11:28.369] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1438, y=-41, z=495}) is Tags.Blocks.ORES.
+[20Feb2024 11:11:33.832] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1438, y=-42, z=496}) is Tags.Blocks.ORES.
+[20Feb2024 11:11:36.670] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1438, y=-41, z=497}) is Tags.Blocks.ORES.
+[20Feb2024 11:11:43.329] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1440, y=-42, z=497}) is Tags.Blocks.ORES.
+[20Feb2024 11:11:50.570] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1437, y=-43, z=497}) is Tags.Blocks.ORES.
+[20Feb2024 11:13:06.971] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1450, y=-38, z=495}) is Tags.Blocks.ORES.
+[20Feb2024 11:13:38.130] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1449, y=-41, z=489}) is Tags.Blocks.ORES.
+[20Feb2024 11:13:45.531] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1450, y=-43, z=490}) is Tags.Blocks.ORES.
+[20Feb2024 11:13:50.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2024 11:13:50.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2024 11:14:04.770] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1448, y=-43, z=489}) is Tags.Blocks.ORES.
+[20Feb2024 11:14:06.271] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1446, y=-42, z=489}) is Tags.Blocks.ORES.
+[20Feb2024 11:14:33.072] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1445, y=-45, z=488}) is Tags.Blocks.ORES.
+[20Feb2024 11:14:40.571] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1443, y=-43, z=488}) is Tags.Blocks.ORES.
+[20Feb2024 11:14:42.771] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1442, y=-44, z=489}) is Tags.Blocks.ORES.
+[20Feb2024 11:14:44.331] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1443, y=-44, z=490}) is Tags.Blocks.ORES.
+[20Feb2024 11:14:52.130] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_lead_ore}(pos=BlockPos{x=-1444, y=-46, z=490}) is Tags.Blocks.ORES.
+[20Feb2024 11:15:52.629] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1452, y=-40, z=491}) is Tags.Blocks.ORES.
+[20Feb2024 11:15:58.435] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_diamond_ore}(pos=BlockPos{x=-1453, y=-40, z=492}) is Tags.Blocks.ORES.
+[20Feb2024 11:16:25.929] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1453, y=-40, z=489}) is Tags.Blocks.ORES.
+[20Feb2024 11:16:34.070] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1456, y=-41, z=501}) is Tags.Blocks.ORES.
+[20Feb2024 11:17:27.031] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1448, y=-34, z=493}) is Tags.Blocks.ORES.
+[20Feb2024 11:17:35.979] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1432, y=-32, z=481}) is Tags.Blocks.ORES.
+[20Feb2024 11:18:41.868] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1509, y=-29, z=483}) is Tags.Blocks.ORES.
+[20Feb2024 11:18:50.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2024 11:18:50.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2024 11:18:55.873] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_fluorite_ore}(pos=BlockPos{x=-1490, y=-29, z=454}) is Tags.Blocks.ORES.
+[20Feb2024 11:19:19.576] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1485, y=-30, z=457}) is Tags.Blocks.ORES.
+[20Feb2024 11:19:33.423] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1460, y=-30, z=480}) is Tags.Blocks.ORES.
+[20Feb2024 11:19:37.624] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1459, y=-30, z=469}) is Tags.Blocks.ORES.
+[20Feb2024 11:19:40.771] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1462, y=-29, z=468}) is Tags.Blocks.ORES.
+[20Feb2024 11:19:44.321] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1464, y=-28, z=472}) is Tags.Blocks.ORES.
+[20Feb2024 11:19:48.972] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1456, y=-29, z=462}) is Tags.Blocks.ORES.
+[20Feb2024 11:19:50.821] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1458, y=-29, z=461}) is Tags.Blocks.ORES.
+[20Feb2024 11:19:52.820] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1459, y=-28, z=460}) is Tags.Blocks.ORES.
+[20Feb2024 11:19:57.572] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1449, y=-27, z=452}) is Tags.Blocks.ORES.
+[20Feb2024 11:20:00.221] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_fluorite_ore}(pos=BlockPos{x=-1448, y=-27, z=450}) is Tags.Blocks.ORES.
+[20Feb2024 11:20:15.775] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_lead_ore}(pos=BlockPos{x=-1437, y=-29, z=455}) is Tags.Blocks.ORES.
+[20Feb2024 11:20:26.421] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1654, y=18, z=458}) is Tags.Blocks.ORES.
+[20Feb2024 11:20:31.472] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1413, y=-25, z=452}) is Tags.Blocks.ORES.
+[20Feb2024 11:20:37.672] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1402, y=-25, z=460}) is Tags.Blocks.ORES.
+[20Feb2024 11:20:42.322] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1405, y=-28, z=470}) is Tags.Blocks.ORES.
+[20Feb2024 11:20:57.722] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1443, y=-32, z=473}) is Tags.Blocks.ORES.
+[20Feb2024 11:21:03.271] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1664, y=26, z=427}) is Tags.Blocks.ORES.
+[20Feb2024 11:21:04.573] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1663, y=25, z=428}) is Tags.Blocks.ORES.
+[20Feb2024 11:21:08.872] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1453, y=-40, z=467}) is Tags.Blocks.ORES.
+[20Feb2024 11:21:11.222] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1666, y=19, z=433}) is Tags.Blocks.ORES.
+[20Feb2024 11:21:13.520] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:fluorite_ore}(pos=BlockPos{x=-1666, y=18, z=438}) is Tags.Blocks.ORES.
+[20Feb2024 11:21:15.471] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1665, y=18, z=440}) is Tags.Blocks.ORES.
+[20Feb2024 11:21:20.423] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1667, y=17, z=443}) is Tags.Blocks.ORES.
+[20Feb2024 11:21:22.871] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1666, y=14, z=446}) is Tags.Blocks.ORES.
+[20Feb2024 11:21:46.022] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_fluorite_ore}(pos=BlockPos{x=-1438, y=-46, z=463}) is Tags.Blocks.ORES.
+[20Feb2024 11:21:54.777] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1462, y=-39, z=458}) is Tags.Blocks.ORES.
+[20Feb2024 11:21:59.821] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1639, y=28, z=453}) is Tags.Blocks.ORES.
+[20Feb2024 11:22:15.471] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1667, y=31, z=459}) is Tags.Blocks.ORES.
+[20Feb2024 11:23:50.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2024 11:23:50.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2024 11:24:04.921] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_osmium_ore}(pos=BlockPos{x=-1646, y=1, z=498}) is Tags.Blocks.ORES.
+[20Feb2024 11:24:10.070] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1657, y=0, z=502}) is Tags.Blocks.ORES.
+[20Feb2024 11:24:47.221] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1505, y=-37, z=479}) is Tags.Blocks.ORES.
+[20Feb2024 11:24:58.121] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1495, y=-36, z=454}) is Tags.Blocks.ORES.
+[20Feb2024 11:25:14.521] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1476, y=-53, z=449}) is Tags.Blocks.ORES.
+[20Feb2024 11:25:16.871] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_diamond_ore}(pos=BlockPos{x=-1474, y=-53, z=448}) is Tags.Blocks.ORES.
+[20Feb2024 11:25:18.875] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_diamond_ore}(pos=BlockPos{x=-1473, y=-53, z=449}) is Tags.Blocks.ORES.
+[20Feb2024 11:25:44.770] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1670, y=-1, z=500}) is Tags.Blocks.ORES.
+[20Feb2024 11:25:50.475] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1484, y=-33, z=481}) is Tags.Blocks.ORES.
+[20Feb2024 11:25:57.120] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1478, y=-38, z=488}) is Tags.Blocks.ORES.
+[20Feb2024 11:26:52.171] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_lead_ore}(pos=BlockPos{x=-1485, y=-49, z=455}) is Tags.Blocks.ORES.
+[20Feb2024 11:26:58.422] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1478, y=-46, z=448}) is Tags.Blocks.ORES.
+[20Feb2024 11:27:02.171] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1474, y=-48, z=458}) is Tags.Blocks.ORES.
+[20Feb2024 11:27:18.871] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1434, y=-52, z=459}) is Tags.Blocks.ORES.
+[20Feb2024 11:27:20.773] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1433, y=-52, z=458}) is Tags.Blocks.ORES.
+[20Feb2024 11:27:36.672] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1413, y=-48, z=471}) is Tags.Blocks.ORES.
+[20Feb2024 11:27:55.572] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1431, y=-45, z=462}) is Tags.Blocks.ORES.
+[20Feb2024 11:28:27.024] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1450, y=-37, z=457}) is Tags.Blocks.ORES.
+[20Feb2024 11:28:30.721] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1450, y=-37, z=456}) is Tags.Blocks.ORES.
+[20Feb2024 11:28:33.623] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_fluorite_ore}(pos=BlockPos{x=-1450, y=-37, z=460}) is Tags.Blocks.ORES.
+[20Feb2024 11:28:40.079] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1452, y=-37, z=466}) is Tags.Blocks.ORES.
+[20Feb2024 11:28:50.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2024 11:28:50.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2024 11:30:11.481] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1456, y=-37, z=472}) is Tags.Blocks.ORES.
+[20Feb2024 11:30:15.877] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1696, y=-9, z=500}) is Tags.Blocks.ORES.
+[20Feb2024 11:30:25.477] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1705, y=-4, z=493}) is Tags.Blocks.ORES.
+[20Feb2024 11:30:33.222] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1710, y=-3, z=492}) is Tags.Blocks.ORES.
+[20Feb2024 11:30:56.486] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1457, y=-44, z=509}) is Tags.Blocks.ORES.
+[20Feb2024 11:30:59.779] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1698, y=-10, z=507}) is Tags.Blocks.ORES.
+[20Feb2024 11:31:04.622] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_osmium_ore}(pos=BlockPos{x=-1699, y=-12, z=517}) is Tags.Blocks.ORES.
+[20Feb2024 11:31:08.777] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_fluorite_ore}(pos=BlockPos{x=-1476, y=-45, z=502}) is Tags.Blocks.ORES.
+[20Feb2024 11:31:25.879] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1451, y=-48, z=502}) is Tags.Blocks.ORES.
+[20Feb2024 11:31:27.678] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1451, y=-47, z=503}) is Tags.Blocks.ORES.
+[20Feb2024 11:32:46.620] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_lapis_ore}(pos=BlockPos{x=-1695, y=-17, z=537}) is Tags.Blocks.ORES.
+[20Feb2024 11:32:49.478] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_fluorite_ore}(pos=BlockPos{x=-1694, y=-18, z=537}) is Tags.Blocks.ORES.
+[20Feb2024 11:32:52.978] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_diamond_ore}(pos=BlockPos{x=-1697, y=-17, z=537}) is Tags.Blocks.ORES.
+[20Feb2024 11:32:52.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere has made the advancement [Diamonds!]
+[20Feb2024 11:32:55.978] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_diamond_ore}(pos=BlockPos{x=-1698, y=-17, z=538}) is Tags.Blocks.ORES.
+[20Feb2024 11:33:02.480] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1699, y=-16, z=522}) is Tags.Blocks.ORES.
+[20Feb2024 11:33:17.378] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1467, y=-55, z=509}) is not Tags.Blocks.ORES.
+[20Feb2024 11:33:17.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Ice Bucket Challenge]
+[20Feb2024 11:33:35.024] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1466, y=-56, z=511}) is not Tags.Blocks.ORES.
+[20Feb2024 11:33:43.877] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1711, y=-7, z=491}) is Tags.Blocks.ORES.
+[20Feb2024 11:33:45.521] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1712, y=-7, z=490}) is Tags.Blocks.ORES.
+[20Feb2024 11:33:50.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2024 11:33:50.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2024 11:34:09.471] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1735, y=-5, z=486}) is Tags.Blocks.ORES.
+[20Feb2024 11:34:22.371] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1466, y=-57, z=511}) is not Tags.Blocks.ORES.
+[20Feb2024 11:34:36.622] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1464, y=-55, z=515}) is not Tags.Blocks.ORES.
+[20Feb2024 11:34:55.373] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_osmium_ore}(pos=BlockPos{x=-1727, y=-12, z=496}) is Tags.Blocks.ORES.
+[20Feb2024 11:34:59.281] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_diamond_ore}(pos=BlockPos{x=-1470, y=-57, z=512}) is Tags.Blocks.ORES.
+[20Feb2024 11:35:04.933] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_fluorite_ore}(pos=BlockPos{x=-1722, y=-5, z=489}) is Tags.Blocks.ORES.
+[20Feb2024 11:35:26.771] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1470, y=-55, z=515}) is not Tags.Blocks.ORES.
+[20Feb2024 11:35:42.722] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1463, y=-55, z=513}) is not Tags.Blocks.ORES.
+[20Feb2024 11:37:46.785] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:lead_ore}(pos=BlockPos{x=-1725, y=-2, z=471}) is Tags.Blocks.ORES.
+[20Feb2024 11:37:54.372] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1713, y=-3, z=476}) is Tags.Blocks.ORES.
+[20Feb2024 11:38:00.924] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1438, y=-27, z=525}) is Tags.Blocks.ORES.
+[20Feb2024 11:38:02.471] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1727, y=1, z=477}) is Tags.Blocks.ORES.
+[20Feb2024 11:38:03.174] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1437, y=-26, z=526}) is Tags.Blocks.ORES.
+[20Feb2024 11:38:04.923] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1436, y=-24, z=527}) is Tags.Blocks.ORES.
+[20Feb2024 11:38:06.125] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1727, y=2, z=477}) is Tags.Blocks.ORES.
+[20Feb2024 11:38:14.479] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_lapis_ore}(pos=BlockPos{x=-1418, y=-19, z=503}) is Tags.Blocks.ORES.
+[20Feb2024 11:38:20.582] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1721, y=-13, z=510}) is Tags.Blocks.ORES.
+[20Feb2024 11:38:22.178] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1722, y=-12, z=510}) is Tags.Blocks.ORES.
+[20Feb2024 11:38:31.080] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1429, y=9, z=495}) is Tags.Blocks.ORES.
+[20Feb2024 11:38:46.422] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1445, y=22, z=500}) is Tags.Blocks.ORES.
+[20Feb2024 11:38:50.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2024 11:38:50.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2024 11:38:55.423] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1440, y=24, z=497}) is Tags.Blocks.ORES.
+[20Feb2024 11:39:21.622] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1447, y=26, z=504}) is Tags.Blocks.ORES.
+[20Feb2024 11:39:54.222] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_osmium_ore}(pos=BlockPos{x=-1674, y=-13, z=530}) is Tags.Blocks.ORES.
+[20Feb2024 11:39:56.472] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1675, y=-11, z=531}) is Tags.Blocks.ORES.
+[20Feb2024 11:40:00.171] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1676, y=-13, z=532}) is Tags.Blocks.ORES.
+[20Feb2024 11:40:02.322] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1445, y=52, z=502}) is Tags.Blocks.ORES.
+[20Feb2024 11:40:03.970] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1446, y=53, z=501}) is Tags.Blocks.ORES.
+[20Feb2024 11:40:06.020] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1444, y=51, z=504}) is Tags.Blocks.ORES.
+[20Feb2024 11:40:15.472] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1658, y=-7, z=494}) is Tags.Blocks.ORES.
+[20Feb2024 11:41:10.573] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_lead_ore}(pos=BlockPos{x=-1635, y=-13, z=512}) is Tags.Blocks.ORES.
+[20Feb2024 11:41:46.922] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1631, y=-17, z=509}) is Tags.Blocks.ORES.
+[20Feb2024 11:41:51.621] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1635, y=-17, z=504}) is Tags.Blocks.ORES.
+[20Feb2024 11:42:34.021] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1595, y=-8, z=500}) is Tags.Blocks.ORES.
+[20Feb2024 11:43:24.670] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_osmium_ore}(pos=BlockPos{x=-1592, y=-10, z=492}) is Tags.Blocks.ORES.
+[20Feb2024 11:43:33.173] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1605, y=-17, z=488}) is Tags.Blocks.ORES.
+[20Feb2024 11:43:34.920] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1604, y=-17, z=487}) is Tags.Blocks.ORES.
+[20Feb2024 11:43:50.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2024 11:43:50.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2024 11:43:53.023] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1639, y=-7, z=489}) is Tags.Blocks.ORES.
+[20Feb2024 11:44:19.524] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1657, y=-13, z=535}) is Tags.Blocks.ORES.
+[20Feb2024 11:44:26.173] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1673, y=-18, z=546}) is Tags.Blocks.ORES.
+[20Feb2024 11:44:28.624] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1673, y=-20, z=546}) is Tags.Blocks.ORES.
+[20Feb2024 11:45:19.223] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_fluorite_ore}(pos=BlockPos{x=-1729, y=4, z=536}) is Tags.Blocks.ORES.
+[20Feb2024 11:45:35.173] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:fluorite_ore}(pos=BlockPos{x=-1734, y=3, z=547}) is Tags.Blocks.ORES.
+[20Feb2024 11:46:41.824] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1741, y=4, z=546}) is Tags.Blocks.ORES.
+[20Feb2024 11:46:43.073] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1740, y=5, z=545}) is Tags.Blocks.ORES.
+[20Feb2024 11:46:46.225] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1746, y=6, z=550}) is Tags.Blocks.ORES.
+[20Feb2024 11:48:00.622] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1742, y=8, z=558}) is Tags.Blocks.ORES.
+[20Feb2024 11:48:02.772] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1741, y=7, z=559}) is Tags.Blocks.ORES.
+[20Feb2024 11:48:03.923] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1741, y=8, z=560}) is Tags.Blocks.ORES.
+[20Feb2024 11:48:08.123] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1750, y=7, z=562}) is Tags.Blocks.ORES.
+[20Feb2024 11:48:09.371] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1751, y=6, z=561}) is Tags.Blocks.ORES.
+[20Feb2024 11:48:11.473] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1751, y=7, z=559}) is Tags.Blocks.ORES.
+[20Feb2024 11:48:13.622] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_osmium_ore}(pos=BlockPos{x=-1751, y=7, z=558}) is Tags.Blocks.ORES.
+[20Feb2024 11:48:17.272] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1750, y=6, z=558}) is Tags.Blocks.ORES.
+[20Feb2024 11:48:19.172] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1750, y=7, z=557}) is Tags.Blocks.ORES.
+[20Feb2024 11:48:28.322] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:redstone_ore}(pos=BlockPos{x=-1760, y=4, z=557}) is Tags.Blocks.ORES.
+[20Feb2024 11:48:30.322] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1760, y=3, z=557}) is Tags.Blocks.ORES.
+[20Feb2024 11:48:33.474] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:redstone_ore}(pos=BlockPos{x=-1761, y=3, z=557}) is Tags.Blocks.ORES.
+[20Feb2024 11:48:38.574] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1761, y=2, z=558}) is Tags.Blocks.ORES.
+[20Feb2024 11:48:50.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2024 11:48:50.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2024 11:49:15.825] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1729, y=3, z=532}) is Tags.Blocks.ORES.
+[20Feb2024 11:49:29.778] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1731, y=3, z=533}) is not Tags.Blocks.ORES.
+[20Feb2024 11:49:44.178] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1730, y=3, z=531}) is Tags.Blocks.ORES.
+[20Feb2024 11:50:33.420] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:lapis_ore}(pos=BlockPos{x=-1733, y=5, z=535}) is Tags.Blocks.ORES.
+[20Feb2024 11:50:37.177] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1736, y=6, z=532}) is Tags.Blocks.ORES.
+[20Feb2024 11:50:40.624] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:lead_ore}(pos=BlockPos{x=-1735, y=5, z=527}) is Tags.Blocks.ORES.
+[20Feb2024 11:51:05.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[20Feb2024 11:51:05.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[20Feb2024 11:52:20.002] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 37 messages to dispatch.
+[20Feb2024 11:52:20.869] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[20Feb2024 11:52:20.924] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[20Feb2024 11:52:20.967] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[20Feb2024 11:52:21.003] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[20Feb2024 11:52:21.003] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[20Feb2024 11:52:21.003] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, mineallsmp, digallsmp, mekanism, forge, cutallsmp, refinedstorage, mekanismgenerators]
+[20Feb2024 11:52:21.003] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:mod_mineall' : Version test of '0.1' from client : ACCEPTED
+[20Feb2024 11:52:21.003] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[20Feb2024 11:52:21.003] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[20Feb2024 11:52:21.003] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mekanismgenerators:mekanismgenerators' : Version test of '10.3.9' from client : ACCEPTED
+[20Feb2024 11:52:21.003] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[20Feb2024 11:52:21.003] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:mod_digall' : Version test of '0.1' from client : ACCEPTED
+[20Feb2024 11:52:21.003] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[20Feb2024 11:52:21.003] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mekanism:mekanism' : Version test of '10.3.9' from client : ACCEPTED
+[20Feb2024 11:52:21.003] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:mod_cutall' : Version test of '0.1' from client : ACCEPTED
+[20Feb2024 11:52:21.003] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[20Feb2024 11:52:21.003] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[20Feb2024 11:52:21.004] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[20Feb2024 11:52:21.004] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refinedstorage:main_channel' : Version test of '1' from client : ACCEPTED
+[20Feb2024 11:52:21.004] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[20Feb2024 11:52:21.004] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[20Feb2024 11:52:21.024] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[20Feb2024 11:52:21.052] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[20Feb2024 11:52:21.052] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.052] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.067] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[20Feb2024 11:52:21.098] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[20Feb2024 11:52:21.098] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.098] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.122] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[20Feb2024 11:52:21.167] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[20Feb2024 11:52:21.202] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[20Feb2024 11:52:21.202] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.202] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.202] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[20Feb2024 11:52:21.202] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.202] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.224] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[20Feb2024 11:52:21.251] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[20Feb2024 11:52:21.252] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.252] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.266] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[20Feb2024 11:52:21.308] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[20Feb2024 11:52:21.308] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.308] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.323] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[20Feb2024 11:52:21.346] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[20Feb2024 11:52:21.346] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.347] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.366] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[20Feb2024 11:52:21.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[20Feb2024 11:52:21.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.427] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[20Feb2024 11:52:21.448] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[20Feb2024 11:52:21.448] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.448] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.467] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[20Feb2024 11:52:21.491] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[20Feb2024 11:52:21.491] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.492] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.524] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[20Feb2024 11:52:21.556] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[20Feb2024 11:52:21.557] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.557] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.566] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[20Feb2024 11:52:21.593] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[20Feb2024 11:52:21.593] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.593] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.624] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:infuse_type' to 'fml:handshake' sequence 14
+[20Feb2024 11:52:21.646] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[20Feb2024 11:52:21.646] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.646] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.668] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:gas' to 'fml:handshake' sequence 15
+[20Feb2024 11:52:21.686] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[20Feb2024 11:52:21.686] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.686] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.723] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 16
+[20Feb2024 11:52:21.743] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[20Feb2024 11:52:21.743] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.743] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.766] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 17
+[20Feb2024 11:52:21.791] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[20Feb2024 11:52:21.792] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.792] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.823] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:module' to 'fml:handshake' sequence 18
+[20Feb2024 11:52:21.847] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[20Feb2024 11:52:21.847] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.847] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.867] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 19
+[20Feb2024 11:52:21.888] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[20Feb2024 11:52:21.888] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.888] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.923] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:pigment' to 'fml:handshake' sequence 20
+[20Feb2024 11:52:21.948] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[20Feb2024 11:52:21.948] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.948] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:21.966] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:robit_skin' to 'fml:handshake' sequence 21
+[20Feb2024 11:52:21.993] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[20Feb2024 11:52:21.993] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:21.993] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.023] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 22
+[20Feb2024 11:52:22.046] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[20Feb2024 11:52:22.047] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:22.047] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.067] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:slurry' to 'fml:handshake' sequence 23
+[20Feb2024 11:52:22.087] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[20Feb2024 11:52:22.087] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:22.088] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.123] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 24
+[20Feb2024 11:52:22.143] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[20Feb2024 11:52:22.143] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:22.143] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.166] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 25
+[20Feb2024 11:52:22.223] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/world.toml' to 'fml:handshake' sequence 26
+[20Feb2024 11:52:22.266] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config refinedstorage-server.toml' to 'fml:handshake' sequence 27
+[20Feb2024 11:52:22.323] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/generators-gear.toml' to 'fml:handshake' sequence 28
+[20Feb2024 11:52:22.367] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/general.toml' to 'fml:handshake' sequence 29
+[20Feb2024 11:52:22.423] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/gear.toml' to 'fml:handshake' sequence 30
+[20Feb2024 11:52:22.466] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/tiers.toml' to 'fml:handshake' sequence 31
+[20Feb2024 11:52:22.523] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/generators.toml' to 'fml:handshake' sequence 32
+[20Feb2024 11:52:22.567] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 33
+[20Feb2024 11:52:22.621] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/machine-storage.toml' to 'fml:handshake' sequence 34
+[20Feb2024 11:52:22.666] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/machine-usage.toml' to 'fml:handshake' sequence 35
+[20Feb2024 11:52:22.723] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/generator-storage.toml' to 'fml:handshake' sequence 36
+[20Feb2024 11:52:22.842] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[20Feb2024 11:52:22.842] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:22.842] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.852] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[20Feb2024 11:52:22.852] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:22.852] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.852] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[20Feb2024 11:52:22.852] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:22.852] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.852] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[20Feb2024 11:52:22.852] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:22.852] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.862] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[20Feb2024 11:52:22.862] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:22.862] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.862] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[20Feb2024 11:52:22.862] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:22.862] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.862] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[20Feb2024 11:52:22.862] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:22.862] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.873] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[20Feb2024 11:52:22.873] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:22.873] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.873] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[20Feb2024 11:52:22.873] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:22.873] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.873] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[20Feb2024 11:52:22.873] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:22.873] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.873] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[20Feb2024 11:52:22.873] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:22.873] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.873] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[20Feb2024 11:52:22.873] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Feb2024 11:52:22.873] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Feb2024 11:52:22.921] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[20Feb2024 11:52:22.972] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2659d65d
+[20Feb2024 11:52:22.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:56846] logged in with entity id 45427 at (-1732.6536281068488, 3.0, 531.0250130538818)
+[20Feb2024 11:52:22.978] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@3d0f7f33 into net.minecraft.network.Connection@30e8ac63
+[20Feb2024 11:52:22.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[20Feb2024 11:52:39.721] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_lapis_ore}(pos=BlockPos{x=-1733, y=5, z=523}) is Tags.Blocks.ORES.
+[20Feb2024 11:52:59.975] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_lead_ore}(pos=BlockPos{x=-1730, y=1, z=522}) is Tags.Blocks.ORES.
+[20Feb2024 11:53:02.775] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:lead_ore}(pos=BlockPos{x=-1728, y=2, z=524}) is Tags.Blocks.ORES.
+[20Feb2024 11:53:07.219] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1726, y=4, z=525}) is Tags.Blocks.ORES.
+[20Feb2024 11:53:50.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2024 11:53:50.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2024 11:54:16.718] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1743, y=-4, z=482}) is Tags.Blocks.ORES.
+[20Feb2024 11:55:17.767] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:gold_ore}(pos=BlockPos{x=-1733, y=10, z=528}) is Tags.Blocks.ORES.
+[20Feb2024 11:55:18.866] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1732, y=10, z=527}) is Tags.Blocks.ORES.
+[20Feb2024 11:55:20.868] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1730, y=7, z=544}) is Tags.Blocks.ORES.
+[20Feb2024 11:55:30.318] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1720, y=8, z=532}) is Tags.Blocks.ORES.
+[20Feb2024 11:55:35.071] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1712, y=2, z=523}) is Tags.Blocks.ORES.
+[20Feb2024 11:55:49.518] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1701, y=7, z=526}) is Tags.Blocks.ORES.
+[20Feb2024 11:55:51.017] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:lead_ore}(pos=BlockPos{x=-1702, y=7, z=526}) is Tags.Blocks.ORES.
+[20Feb2024 11:56:22.017] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1681, y=11, z=525}) is Tags.Blocks.ORES.
+[20Feb2024 11:56:23.318] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1681, y=10, z=526}) is Tags.Blocks.ORES.
+[20Feb2024 11:56:30.918] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:fluorite_ore}(pos=BlockPos{x=-1684, y=6, z=515}) is Tags.Blocks.ORES.
+[20Feb2024 11:56:37.217] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:lead_ore}(pos=BlockPos{x=-1688, y=7, z=516}) is Tags.Blocks.ORES.
+[20Feb2024 11:56:42.118] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1691, y=4, z=519}) is Tags.Blocks.ORES.
+[20Feb2024 11:56:43.717] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1692, y=4, z=518}) is Tags.Blocks.ORES.
+[20Feb2024 11:56:44.767] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1691, y=4, z=518}) is Tags.Blocks.ORES.
+[20Feb2024 11:57:04.167] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1715, y=6, z=529}) is Tags.Blocks.ORES.
+[20Feb2024 11:57:28.867] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:lead_ore}(pos=BlockPos{x=-1723, y=5, z=495}) is Tags.Blocks.ORES.
+[20Feb2024 11:57:30.917] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_lead_ore}(pos=BlockPos{x=-1724, y=5, z=494}) is Tags.Blocks.ORES.
+[20Feb2024 11:57:35.217] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:lead_ore}(pos=BlockPos{x=-1725, y=5, z=494}) is Tags.Blocks.ORES.
+[20Feb2024 11:57:41.717] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1732, y=8, z=517}) is Tags.Blocks.ORES.
+[20Feb2024 11:57:42.768] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1731, y=9, z=516}) is Tags.Blocks.ORES.
+[20Feb2024 11:58:05.171] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1728, y=8, z=511}) is Tags.Blocks.ORES.
+[20Feb2024 11:58:06.667] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_lapis_ore}(pos=BlockPos{x=-1747, y=-2, z=489}) is Tags.Blocks.ORES.
+[20Feb2024 11:58:06.968] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1727, y=6, z=511}) is Tags.Blocks.ORES.
+[20Feb2024 11:58:08.967] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1728, y=9, z=510}) is Tags.Blocks.ORES.
+[20Feb2024 11:58:10.767] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1730, y=7, z=508}) is Tags.Blocks.ORES.
+[20Feb2024 11:58:12.967] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_osmium_ore}(pos=BlockPos{x=-1730, y=6, z=508}) is Tags.Blocks.ORES.
+[20Feb2024 11:58:17.967] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1730, y=5, z=501}) is Tags.Blocks.ORES.
+[20Feb2024 11:58:21.569] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:andesite}(pos=BlockPos{x=-1741, y=-3, z=476}) is not Tags.Blocks.ORES.
+[20Feb2024 11:58:24.067] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1727, y=8, z=488}) is Tags.Blocks.ORES.
+[20Feb2024 11:58:28.918] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:redstone_ore}(pos=BlockPos{x=-1721, y=11, z=493}) is Tags.Blocks.ORES.
+[20Feb2024 11:58:50.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2024 11:58:50.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2024 11:59:02.969] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1719, y=5, z=507}) is Tags.Blocks.ORES.
+[20Feb2024 11:59:04.267] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_osmium_ore}(pos=BlockPos{x=-1718, y=5, z=508}) is Tags.Blocks.ORES.
+[20Feb2024 11:59:04.367] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_osmium_ore}(pos=BlockPos{x=-1718, y=5, z=508}) is Tags.Blocks.ORES.
+[20Feb2024 11:59:08.017] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1714, y=9, z=508}) is Tags.Blocks.ORES.
+[20Feb2024 11:59:13.018] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1722, y=2, z=522}) is Tags.Blocks.ORES.
+[20Feb2024 11:59:15.317] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1721, y=1, z=522}) is Tags.Blocks.ORES.
+[20Feb2024 11:59:21.668] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1727, y=5, z=518}) is Tags.Blocks.ORES.
+[20Feb2024 11:59:57.517] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1761, y=6, z=519}) is Tags.Blocks.ORES.
+[20Feb2024 11:59:58.567] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1761, y=5, z=519}) is Tags.Blocks.ORES.
+[20Feb2024 12:00:00.167] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1760, y=6, z=519}) is Tags.Blocks.ORES.
+[20Feb2024 12:00:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[20Feb2024 12:00:01.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2024 12:00:01.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2024 12:00:01.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[20Feb2024 12:00:03.417] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1773, y=6, z=574}) is Tags.Blocks.ORES.
+[20Feb2024 12:00:05.117] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1773, y=5, z=575}) is Tags.Blocks.ORES.
+[20Feb2024 12:00:08.067] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1777, y=5, z=573}) is Tags.Blocks.ORES.
+[20Feb2024 12:00:08.917] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1763, y=4, z=525}) is Tags.Blocks.ORES.
+[20Feb2024 12:00:10.820] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1777, y=5, z=572}) is Tags.Blocks.ORES.
+[20Feb2024 12:00:17.469] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1740, y=-5, z=531}) is Tags.Blocks.ORES.
+[20Feb2024 12:00:25.419] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1787, y=8, z=588}) is Tags.Blocks.ORES.
