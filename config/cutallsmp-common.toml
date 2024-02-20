@@ -21,7 +21,7 @@
 	#Boolean: true
 	DropGather = true
 	#Boolean: false
-	DestroyUnder = false
+	DestroyUnder = true
 	#Boolean: true
 	StartMode = true
 	#String: "mod_cutall"
