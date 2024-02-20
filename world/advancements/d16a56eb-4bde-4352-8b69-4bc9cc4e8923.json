@@ -239,6 +239,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-02-20 10:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-02-20 10:59:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-02-20 08:19:28 +0000"
@@ -570,15 +582,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2024-02-20 09:35:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-02-20 09:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-02-20 09:35:28 +0000"
     },
     "done": true
   },
@@ -788,6 +800,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-02-20 10:59:20 +0000",
       "minecraft:spider": "2024-02-20 08:37:53 +0000",
       "minecraft:zombie": "2024-02-20 08:36:21 +0000",
       "minecraft:zombie_villager": "2024-02-20 08:49:54 +0000"
@@ -845,6 +858,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-02-20 08:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-02-20 10:56:08 +0000"
     },
     "done": true
   },
@@ -1088,9 +1107,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-02-20 10:56:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-02-20 08:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-02-20 10:31:47 +0000"
     },
     "done": true
   },
@@ -1166,6 +1197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2024-02-20 10:29:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-02-20 08:13:23 +0000"
@@ -1217,6 +1254,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 08:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-02-20 10:59:21 +0000"
     },
     "done": true
   },
@@ -1289,6 +1332,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-02-20 08:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-02-20 10:29:42 +0000"
     },
     "done": true
   },
@@ -1415,6 +1464,7 @@
       "minecraft:deep_cold_ocean": "2024-02-20 10:09:59 +0000",
       "minecraft:windswept_forest": "2024-02-20 08:18:09 +0000",
       "minecraft:jungle": "2024-02-20 03:29:27 +0000",
+      "minecraft:ocean": "2024-02-20 10:39:42 +0000",
       "minecraft:windswept_savanna": "2024-02-20 08:17:21 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-02-20 08:15:17 +0000",
       "minecraft:meadow": "2024-02-20 09:47:32 +0000",
