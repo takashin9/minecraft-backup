@@ -77,3 +77,9 @@
 [21Feb2024 09:51:16.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
 [21Feb2024 10:00:01.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [21Feb2024 10:00:01.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[21Feb2024 10:54:44.059] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mante2O is 34ff9984-16b0-4e69-89bb-e41497962b63
+[21Feb2024 10:54:47.500] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@199ef5f1
+[21Feb2024 10:54:47.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mante2O[/118.241.113.240:65381] logged in with entity id 20465 at (-1259.7517930083552, 63.0, 314.32251694957193)
+[21Feb2024 10:54:47.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O joined the game
+[21Feb2024 11:00:01.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[21Feb2024 11:00:01.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
