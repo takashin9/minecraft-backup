@@ -83,3 +83,66 @@
 [21Feb2024 10:54:47.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O joined the game
 [21Feb2024 11:00:01.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [21Feb2024 11:00:01.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[21Feb2024 11:13:46.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O has made the advancement [Isn't It Iron Pick]
+[21Feb2024 11:14:54.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O has made the advancement [We Need to Go Deeper]
+[21Feb2024 11:14:54.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3709ms or 74 ticks behind
+[21Feb2024 11:15:42.216] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[21Feb2024 11:15:44.231] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1901428b
+[21Feb2024 11:15:44.247] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:44311] logged in with entity id 25971 at (-1254.4893430173252, 63.0, 311.9571843650208)
+[21Feb2024 11:15:44.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[21Feb2024 11:16:07.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> mante20!?
+[21Feb2024 11:16:17.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> yes
+[21Feb2024 11:16:36.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> neza now
+[21Feb2024 11:16:46.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> なんか襲撃者の旗あるし家完成してて草
+[21Feb2024 11:16:57.037] [Netty Epoll Server IO #1/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: DestroyUnder=true, blocks=block.minecraft.gold_ore(all meta),block.minecraft.iron_ore(all meta),block.minecraft.coal_ore(all meta),block.minecraft.lapis_ore(all meta),block.minecraft.obsidian(all meta),block.minecraft.diamond_ore(all meta),block.minecraft.redstone_ore(all meta),block.minecraft.glowstone(all meta),block.minecraft.emerald_ore(all meta),block.minecraft.nether_quartz_ore(all meta),block.minecraft.granite(all meta),block.minecraft.diorite(all meta),block.minecraft.andesite(all meta),block.minecraft.ancient_debris(all meta),block.minecraft.nether_gold_ore(all meta),block.minecraft.sponge(all meta),block.minecraft.wet_sponge(all meta),block.minecraft.nether_wart_block(all meta),block.minecraft.warped_wart_block(all meta),block.minecraft.crying_obsidian(all meta),block.minecraft.ancient_debris(all meta),block.minecraft.deepslate_coal_ore(all meta),block.minecraft.deepslate_copper_ore(all meta),block.minecraft.deepslate_diamond_ore(all meta),block.minecraft.deepslate_emerald_ore(all meta),block.minecraft.deepslate_gold_ore(all meta),block.minecraft.deepslate_iron_ore(all meta),block.minecraft.deepslate_lapis_ore(all meta),block.minecraft.deepslate_redstone_ore(all meta)
+[21Feb2024 11:16:57.064] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-172, y=73, z=26}) is not Tags.Blocks.ORES.
+[21Feb2024 11:17:11.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> yarakasita
+[21Feb2024 11:20:15.598] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_quartz_ore}(pos=BlockPos{x=-176, y=101, z=20}) is Tags.Blocks.ORES.
+[21Feb2024 11:22:16.895] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_quartz_ore}(pos=BlockPos{x=-176, y=105, z=17}) is Tags.Blocks.ORES.
+[21Feb2024 11:26:56.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> nero
+[21Feb2024 11:28:08.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has made the advancement [The Alloy That Started it All]
+[21Feb2024 11:28:25.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> 行商人湧いてる
+[21Feb2024 11:28:47.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> emerald nai
+[21Feb2024 11:30:18.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> gold aru?
+[21Feb2024 11:30:24.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> nai
+[21Feb2024 11:30:29.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> ok
+[21Feb2024 11:30:52.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> ito aru?
+[21Feb2024 11:31:12.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> ikko nara aru
+[21Feb2024 11:31:19.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> kasu
+[21Feb2024 11:31:32.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> ; ;
+[21Feb2024 11:33:53.473] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1319, y=63, z=123}) is Tags.Blocks.ORES.
+[21Feb2024 11:36:17.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> yappa ito kure
+[21Feb2024 11:36:26.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> yakitori no tameni
+[21Feb2024 11:36:35.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> lerge chest no left down
+[21Feb2024 11:36:52.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> nanka takusan get sita
+[21Feb2024 11:37:01.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> daijoubu
+[21Feb2024 11:37:08.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> sore ha yokatta
+[21Feb2024 11:38:06.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has made the advancement [Diamonds!]
+[21Feb2024 11:38:15.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> ??????????
+[21Feb2024 11:38:22.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> suge
+[21Feb2024 11:38:27.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> koueki ka
+[21Feb2024 11:38:53.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> tabun souta no daiya
+[21Feb2024 11:49:07.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> ano, zombi pigman ga
+[21Feb2024 11:49:24.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> kame no tamago kowashitemasu
+[21Feb2024 11:49:30.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> korose
+[21Feb2024 11:49:48.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> ore no buryouku deha kaeriuchi
+[21Feb2024 11:50:13.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> nanyakoreeeeeee
+[21Feb2024 11:50:21.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> sugokune
+[21Feb2024 11:50:31.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> kimeedesuwa
+[21Feb2024 11:50:49.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> jidaiha huuryoku hatsuden
+[21Feb2024 11:51:03.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> neyo
+[21Feb2024 11:51:38.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> mata zombi pigman
+[21Feb2024 11:52:24.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> tamago hettene?
+[21Feb2024 11:52:25.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> nether gate kakotta houga ii
+[21Feb2024 11:52:35.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> yurusanai
+[21Feb2024 11:52:37.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> pigman ga kowasu
+[21Feb2024 11:52:50.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> gate kakotta houga iiyo
+[21Feb2024 11:52:56.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> un
+[21Feb2024 11:55:10.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> herisugi jane?
+[21Feb2024 11:55:14.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> kore syourai auto craft toka dekiru youni naruzo
+[21Feb2024 11:55:27.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> sugee
+[21Feb2024 11:55:32.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> pigman no kowasu speed metttya hayai
+[21Feb2024 11:56:56.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> discord de hanaseruyo
+[21Feb2024 11:57:06.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> eede
+[21Feb2024 12:00:01.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[21Feb2024 12:00:01.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
