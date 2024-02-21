@@ -73,3 +73,7 @@
 [21Feb2024 08:15:56.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3675ms or 73 ticks behind
 [21Feb2024 09:00:01.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [21Feb2024 09:00:01.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[21Feb2024 09:51:16.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[21Feb2024 09:51:16.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[21Feb2024 10:00:01.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[21Feb2024 10:00:01.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
