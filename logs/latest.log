@@ -1,35 +1,68 @@
-[21Feb2024 00:00:01.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[21Feb2024 00:00:01.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[21Feb2024 01:00:01.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[21Feb2024 01:00:01.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[21Feb2024 02:00:01.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[21Feb2024 02:00:01.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[21Feb2024 03:00:01.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] お知らせ: 本日7:30(AM)に再起動を行います
-[21Feb2024 03:00:01.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[21Feb2024 03:00:01.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[21Feb2024 04:00:01.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] お知らせ: 本日7:30(AM)に再起動を行います
-[21Feb2024 04:00:01.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[21Feb2024 04:00:01.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[21Feb2024 05:00:01.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] お知らせ: 本日7:30(AM)に再起動を行います
-[21Feb2024 05:00:01.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[21Feb2024 05:00:01.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[21Feb2024 06:00:01.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] お知らせ: 本日7:30(AM)に再起動を行います
-[21Feb2024 06:00:01.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[21Feb2024 06:00:01.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[21Feb2024 07:00:01.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] お知らせ: 本日7:30(AM)に再起動を行います
-[21Feb2024 07:00:01.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[21Feb2024 07:00:01.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[21Feb2024 07:30:01.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] お知らせ: 30秒後にサーバーを再起動します
-[21Feb2024 07:30:01.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[21Feb2024 07:30:01.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[21Feb2024 07:30:31.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[21Feb2024 07:30:31.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[21Feb2024 07:30:31.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[21Feb2024 07:30:31.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[21Feb2024 07:30:32.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21Feb2024 07:30:32.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21Feb2024 07:30:32.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21Feb2024 07:30:32.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21Feb2024 07:30:32.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21Feb2024 07:30:32.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21Feb2024 07:30:32.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Feb2024 07:31:51.031] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, start]
+[21Feb2024 07:31:51.035] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.9 by Private Build; OS Linux arch amd64 version 5.15.0-1054-azure
+[21Feb2024 07:31:51.480] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/azureuser/minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[21Feb2024 07:31:51.880] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.3.0/fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
+[21Feb2024 07:31:51.883] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.3.0/javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[21Feb2024 07:31:51.885] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.3.0/lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[21Feb2024 07:31:51.887] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.3.0/mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[21Feb2024 07:31:51.999] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[21Feb2024 07:31:54.496] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [start]
+[21Feb2024 07:32:01.081] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[21Feb2024 07:32:03.680] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
+[21Feb2024 07:32:03.681] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.0 Initialized
+[21Feb2024 07:32:04.111] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[21Feb2024 07:32:07.911] [main/INFO] [net.minecraft.scalar.mineall.ModConfig/]: net.minecraft.scalar.mineall.ModConfig::onLoad file:/home/azureuser/minecraft/config/mineallsmp-common.toml
+[21Feb2024 07:32:07.915] [Thread-0/INFO] [net.minecraft.scalar.mineall.ModConfig/]: net.minecraft.scalar.mineall.mod_MineAllSMP config reload.
+[21Feb2024 07:32:07.916] [main/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.ModConfig::onLoad file:/home/azureuser/minecraft/config/digallsmp-common.toml
+[21Feb2024 07:32:07.918] [Thread-0/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.mod_DigAllSMP config reload.
+[21Feb2024 07:32:07.919] [Thread-0/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.mod_DigAllSMP config reload.
+[21Feb2024 07:32:07.922] [main/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.ModConfig::onLoad file:/home/azureuser/minecraft/config/cutallsmp-common.toml
+[21Feb2024 07:32:07.923] [Thread-0/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.mod_CutAllSMP config reload.
+[21Feb2024 07:32:07.925] [Thread-0/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.mod_CutAllSMP config reload.
+[21Feb2024 07:32:07.969] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.3.9 initializing...
+[21Feb2024 07:32:08.154] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[21Feb2024 07:32:08.155] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[21Feb2024 07:32:08.161] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[21Feb2024 07:32:08.371] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Feb2024 07:32:09.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 43.3.0 Target: null
+[21Feb2024 07:32:11.976] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21Feb2024 07:32:13.379] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/azureuser/minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23113!/assets/.mcassetsroot' uses unexpected schema
+[21Feb2024 07:32:13.380] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/azureuser/minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23113!/data/.mcassetsroot' uses unexpected schema
+[21Feb2024 07:32:17.497] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 33 recipes
+[21Feb2024 07:32:18.240] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1595 advancements
+[21Feb2024 07:32:19.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[21Feb2024 07:32:19.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Feb2024 07:32:19.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Feb2024 07:32:19.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Feb2024 07:32:19.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Feb2024 07:32:19.531] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Feb2024 07:32:19.694] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/jei-server.toml is not correct. Correcting
+[21Feb2024 07:32:19.695] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Feb2024 07:32:19.696] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForOp was corrected from null to its default, true. 
+[21Feb2024 07:32:19.696] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForCreative was corrected from null to its default, true. 
+[21Feb2024 07:32:19.697] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForGive was corrected from null to its default, false. 
+[21Feb2024 07:32:19.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Feb2024 07:32:31.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Feb2024 07:32:38.566] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:38.573] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:38.575] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:38.576] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:38.577] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:38.578] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:38.580] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:38.581] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:38.582] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:38.583] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:38.592] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:38.595] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:38.598] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:38.600] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:38.728] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:39.227] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:39.764] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2024 07:32:40.261] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[21Feb2024 07:32:40.562] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8835 ms
+[21Feb2024 07:32:40.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.891s)! For help, type "help"
+[21Feb2024 07:32:40.581] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Feb2024 08:00:01.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[21Feb2024 08:00:01.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
