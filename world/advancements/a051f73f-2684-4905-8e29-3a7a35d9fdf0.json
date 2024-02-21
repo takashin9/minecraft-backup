@@ -1527,6 +1527,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2024-02-20 10:47:39 +0000",
+      "cooked_mutton": "2024-02-21 13:25:00 +0000",
       "cooked_beef": "2024-02-20 11:05:01 +0000",
       "baked_potato": "2024-02-20 11:32:08 +0000",
       "beef": "2024-02-20 10:47:42 +0000",
@@ -1535,6 +1536,7 @@
       "rotten_flesh": "2024-02-20 10:34:51 +0000",
       "glow_berries": "2024-02-20 12:46:09 +0000",
       "melon_slice": "2024-02-21 08:16:06 +0000",
+      "cooked_chicken": "2024-02-21 13:24:34 +0000",
       "carrot": "2024-02-20 11:57:02 +0000"
     },
     "done": false
@@ -2136,6 +2138,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-21 08:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-02-21 13:13:30 +0000"
     },
     "done": true
   },

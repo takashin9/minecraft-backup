@@ -183,3 +183,37 @@
 [21Feb2024 12:57:56.443] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1254, y=38, z=293}) is Tags.Blocks.ORES.
 [21Feb2024 13:00:01.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [21Feb2024 13:00:01.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[21Feb2024 13:04:53.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1236, y=49, z=350} BlockPos{x=-1236, y=49, z=349}
+[21Feb2024 13:04:53.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1236, y=49, z=350} BlockPos{x=-1236, y=49, z=349}
+[21Feb2024 13:07:59.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O fell from a high place
+[21Feb2024 13:16:57.547] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1296, y=64, z=106}) is Tags.Blocks.ORES.
+[21Feb2024 13:17:02.548] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1296, y=61, z=93}) is Tags.Blocks.ORES.
+[21Feb2024 13:17:11.995] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1306, y=63, z=123}) is Tags.Blocks.ORES.
+[21Feb2024 13:17:35.294] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1286, y=55, z=138}) is Tags.Blocks.ORES.
+[21Feb2024 13:18:08.346] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1284, y=62, z=156}) is Tags.Blocks.ORES.
+[21Feb2024 13:20:29.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere was blown up by Creeper
+[21Feb2024 13:20:53.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere was shot by Skeleton
+[21Feb2024 13:22:11.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere was shot by Skeleton
+[21Feb2024 13:24:42.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of takashin71DC) moved wrongly! 0.3478201062057451
+[21Feb2024 13:24:42.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of takashin71DC) moved wrongly! 0.3191249608312319
+[21Feb2024 13:43:08.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC drowned
+[21Feb2024 13:49:46.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O was shot by Skeleton
+[21Feb2024 13:51:12.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[21Feb2024 13:51:12.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[21Feb2024 13:51:13.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[21Feb2024 13:51:13.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[21Feb2024 13:51:18.422] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[21Feb2024 13:51:19.304] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[21Feb2024 13:51:20.399] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@be24a93
+[21Feb2024 13:51:20.405] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:53806] logged in with entity id 67626 at (-1266.699999988079, -18.0, 239.69999998807907)
+[21Feb2024 13:51:20.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[21Feb2024 13:51:21.296] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b391f6f
+[21Feb2024 13:51:21.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:27021] logged in with entity id 67637 at (-1258.699999988079, 57.0, 273.3848143585697)
+[21Feb2024 13:51:21.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[21Feb2024 13:51:51.996] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1265, y=-18, z=238}) is Tags.Blocks.ORES.
+[21Feb2024 13:51:54.895] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1265, y=-17, z=237}) is Tags.Blocks.ORES.
+[21Feb2024 13:56:45.643] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=-1262, y=58, z=273}) is not Tags.Blocks.ORES.
+[21Feb2024 13:58:20.341] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:andesite}(pos=BlockPos{x=-1262, y=58, z=273}) is not Tags.Blocks.ORES.
+[21Feb2024 13:59:57.045] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:polished_diorite}(pos=BlockPos{x=-1267, y=-17, z=239}) is not Tags.Blocks.ORES.
+[21Feb2024 14:00:01.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[21Feb2024 14:00:01.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
