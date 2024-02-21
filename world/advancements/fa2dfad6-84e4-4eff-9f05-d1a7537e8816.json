@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-02-21 12:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2024-02-20 06:21:27 +0000"
@@ -384,6 +390,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-02-21 11:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-02-21 12:47:18 +0000"
     },
     "done": true
   },
@@ -594,6 +606,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-02-20 06:21:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-02-21 12:24:16 +0000"
     },
     "done": true
   },
@@ -876,6 +894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-02-21 12:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-20 14:43:19 +0000"
@@ -1137,6 +1161,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-02-20 08:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-02-21 12:47:40 +0000"
     },
     "done": true
   },
