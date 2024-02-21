@@ -66,3 +66,10 @@
 [21Feb2024 07:32:40.581] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [21Feb2024 08:00:01.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [21Feb2024 08:00:01.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[21Feb2024 08:15:50.315] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[21Feb2024 08:15:52.482] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1a787e69
+[21Feb2024 08:15:52.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:52790] logged in with entity id 45 at (-1266.7610662776572, 64.5, 250.2035275258549)
+[21Feb2024 08:15:52.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[21Feb2024 08:15:56.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3675ms or 73 ticks behind
+[21Feb2024 09:00:01.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[21Feb2024 09:00:01.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
