@@ -217,3 +217,29 @@
 [21Feb2024 13:59:57.045] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:polished_diorite}(pos=BlockPos{x=-1267, y=-17, z=239}) is not Tags.Blocks.ORES.
 [21Feb2024 14:00:01.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [21Feb2024 14:00:01.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[21Feb2024 14:03:08.041] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:polished_diorite}(pos=BlockPos{x=-1266, y=-18, z=238}) is not Tags.Blocks.ORES.
+[21Feb2024 14:09:16.192] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1251, y=60, z=285}) is Tags.Blocks.ORES.
+[21Feb2024 14:10:56.045] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=-1266, y=58, z=272}) is not Tags.Blocks.ORES.
+[21Feb2024 14:11:10.088] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['mante2'/70732, l='ServerLevel[world]', x=-1237.70, y=61.00, z=289.51] died: mante2 burned to death
+[21Feb2024 14:33:41.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere has made the advancement [We Need to Go Deeper]
+[21Feb2024 14:37:18.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has made the advancement [A Seedy Place]
+[21Feb2024 14:58:02.794] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:andesite}(pos=BlockPos{x=-1257, y=64, z=302}) is not Tags.Blocks.ORES.
+[21Feb2024 14:58:04.094] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=-1256, y=64, z=301}) is not Tags.Blocks.ORES.
+[21Feb2024 14:58:11.445] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:andesite}(pos=BlockPos{x=-1261, y=64, z=301}) is not Tags.Blocks.ORES.
+[21Feb2024 15:00:01.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[21Feb2024 15:00:01.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[21Feb2024 15:02:24.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mante2O lost connection: Disconnected
+[21Feb2024 15:02:24.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O left the game
+[21Feb2024 15:02:40.444] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mante2O is 34ff9984-16b0-4e69-89bb-e41497962b63
+[21Feb2024 15:02:42.800] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4c28593a
+[21Feb2024 15:02:42.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mante2O[/118.241.113.240:49677] logged in with entity id 89859 at (-1241.5546680343482, 63.0, 322.5438183768787)
+[21Feb2024 15:02:42.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O joined the game
+[21Feb2024 15:11:08.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere has made the advancement [A Seedy Place]
+[21Feb2024 15:26:09.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mante2O lost connection: Disconnected
+[21Feb2024 15:26:09.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O left the game
+[21Feb2024 15:36:01.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[21Feb2024 15:36:01.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[21Feb2024 15:41:00.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[21Feb2024 15:41:00.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[21Feb2024 16:00:01.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[21Feb2024 16:00:01.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game

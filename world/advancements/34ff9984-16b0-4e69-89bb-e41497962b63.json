@@ -816,6 +816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2024-02-21 14:16:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2024-02-20 03:43:09 +0000"
@@ -988,6 +994,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-02-20 04:10:38 +0000",
       "minecraft:spider": "2024-02-20 04:10:45 +0000",
+      "minecraft:phantom": "2024-02-21 15:17:00 +0000",
       "minecraft:zombified_piglin": "2024-02-21 11:49:59 +0000",
       "minecraft:zombie": "2024-02-20 09:32:33 +0000",
       "minecraft:drowned": "2024-02-21 12:17:22 +0000"
