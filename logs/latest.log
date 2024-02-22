@@ -99,3 +99,25 @@
 [22Feb2024 09:41:32.875] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['mante1'/5790, l='ServerLevel[world]', x=-1263.94, y=56.45, z=289.40] died: mante1 was slain by takashin71DC
 [22Feb2024 10:00:01.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [22Feb2024 10:00:01.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[22Feb2024 10:08:12.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC was slain by Zombie
+[22Feb2024 10:12:43.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [What a Deal!]
+[22Feb2024 10:17:55.339] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[22Feb2024 10:17:57.380] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5cf9f73e
+[22Feb2024 10:17:57.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:55786] logged in with entity id 39606 at (-1273.3991549849109, 65.0, 244.44226388454044)
+[22Feb2024 10:17:57.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[22Feb2024 10:27:19.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[22Feb2024 10:27:19.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[22Feb2024 10:27:23.715] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[22Feb2024 10:27:25.677] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55711f96
+[22Feb2024 10:27:25.683] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:15316] logged in with entity id 42242 at (-1266.493793288586, 63.0, 282.577209267144)
+[22Feb2024 10:27:25.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[22Feb2024 10:29:13.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[22Feb2024 10:29:13.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[22Feb2024 10:29:17.585] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[22Feb2024 10:29:19.578] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@335a48b3
+[22Feb2024 10:29:19.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:55944] logged in with entity id 42841 at (-1281.5434162551803, 63.0, 283.16895749739405)
+[22Feb2024 10:29:19.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[22Feb2024 10:58:14.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[22Feb2024 10:58:14.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[22Feb2024 11:00:01.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[22Feb2024 11:00:01.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
