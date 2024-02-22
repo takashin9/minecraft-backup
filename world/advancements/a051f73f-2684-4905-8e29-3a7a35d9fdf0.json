@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-02-22 12:44:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 09:25:29 +0000"
@@ -1170,16 +1176,22 @@
     "criteria": {
       "minecraft:sunflower_plains": "2024-02-20 08:58:41 +0000",
       "minecraft:birch_forest": "2024-02-20 08:55:12 +0000",
+      "minecraft:savanna_plateau": "2024-02-22 12:58:27 +0000",
       "minecraft:beach": "2024-02-20 08:38:57 +0000",
+      "minecraft:dark_forest": "2024-02-22 12:44:42 +0000",
+      "minecraft:sparse_jungle": "2024-02-22 12:51:34 +0000",
       "minecraft:lukewarm_ocean": "2024-02-20 08:39:10 +0000",
       "minecraft:river": "2024-02-20 08:50:42 +0000",
       "minecraft:stony_shore": "2024-02-20 11:47:47 +0000",
       "minecraft:forest": "2024-02-20 08:54:25 +0000",
+      "minecraft:desert": "2024-02-22 12:53:16 +0000",
       "minecraft:windswept_forest": "2024-02-20 08:55:14 +0000",
       "minecraft:jungle": "2024-02-20 08:38:25 +0000",
       "minecraft:ocean": "2024-02-20 08:53:23 +0000",
+      "minecraft:windswept_savanna": "2024-02-22 12:47:51 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-02-20 08:51:37 +0000",
       "minecraft:meadow": "2024-02-20 12:12:57 +0000",
+      "minecraft:savanna": "2024-02-22 12:48:21 +0000",
       "minecraft:plains": "2024-02-20 08:56:10 +0000"
     },
     "done": false
@@ -1241,6 +1253,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-02-20 11:25:38 +0000"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2024-02-22 12:20:24 +0000"
     },
     "done": true
   },
@@ -1508,6 +1526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-02-22 12:29:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-02-20 08:50:22 +0000"
@@ -1678,6 +1702,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2024-02-20 08:41:35 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2024-02-22 12:25:16 +0000"
     },
     "done": true
   },
@@ -1984,6 +2014,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 09:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-02-22 12:44:43 +0000"
     },
     "done": true
   },
@@ -2509,6 +2545,12 @@
     },
     "done": true
   },
+  "mekanism:personal_storage": {
+    "criteria": {
+      "storage": "2024-02-22 12:22:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-02-20 09:19:09 +0000"
@@ -2716,6 +2758,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-02-20 10:56:02 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2024-02-22 12:20:21 +0000"
     },
     "done": true
   },
