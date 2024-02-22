@@ -8,7 +8,7 @@
 	#Boolean: true
 	DestroyUnder = true
 	#Boolean: true
-	StartMode = true
+	StartMode = false
 	#String: "KEY_M"
 	Key = "KEY_M"
 	#Integer: 0

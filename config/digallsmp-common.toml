@@ -15,7 +15,7 @@
 	#Boolean: true
 	DestroyUnder = false
 	#Boolean: true
-	StartMode = true
+	StartMode = false
 	#Boolean: false
 	AutoCollect = true
 	#Boolean: false

@@ -1,120 +1,96 @@
-[22Feb2024 00:00:01.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[22Feb2024 00:00:01.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[22Feb2024 01:00:01.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[22Feb2024 01:00:01.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[22Feb2024 02:00:02.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[22Feb2024 02:00:02.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[22Feb2024 03:00:02.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[22Feb2024 03:00:02.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[22Feb2024 04:00:01.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[22Feb2024 04:00:01.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[22Feb2024 05:00:02.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[22Feb2024 05:00:02.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[22Feb2024 05:23:27.256] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player souta21054 is d16a56eb-4bde-4352-8b69-4bc9cc4e8923
-[22Feb2024 05:23:29.239] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@51ceba8d
-[22Feb2024 05:23:29.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: souta21054[/110.134.160.253:53124] logged in with entity id 100074 at (-1257.312649493761, 63.5625, 317.45595849147867)
-[22Feb2024 05:23:29.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 joined the game
-[22Feb2024 05:24:51.014] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
-[22Feb2024 05:24:53.003] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5118af7f
-[22Feb2024 05:24:53.015] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:28045] logged in with entity id 100836 at (-1262.1389651969912, 65.0, 302.0708636779722)
-[22Feb2024 05:24:53.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
-[22Feb2024 05:26:07.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> murabito zenzen huenai
-[22Feb2024 05:26:22.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> nanda koitura
-[22Feb2024 05:28:28.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> neru?
-[22Feb2024 05:35:00.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> 海洋の心げっと
-[22Feb2024 05:35:05.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> haya
-[22Feb2024 05:35:15.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> discord imasu
-[22Feb2024 05:42:59.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [We Need to Go Deeper]
-[22Feb2024 05:57:10.405] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_quartz_ore}(pos=BlockPos{x=-40, y=63, z=209}) is Tags.Blocks.ORES.
-[22Feb2024 05:57:17.954] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_quartz_ore}(pos=BlockPos{x=-33, y=62, z=226}) is Tags.Blocks.ORES.
-[22Feb2024 05:57:38.154] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_quartz_ore}(pos=BlockPos{x=-27, y=62, z=237}) is Tags.Blocks.ORES.
-[22Feb2024 05:58:02.953] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:glowstone}(pos=BlockPos{x=-17, y=66, z=222}) is not Tags.Blocks.ORES.
-[22Feb2024 05:58:12.603] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_gold_ore}(pos=BlockPos{x=-24, y=62, z=240}) is Tags.Blocks.ORES.
-[22Feb2024 05:58:20.053] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_gold_ore}(pos=BlockPos{x=-34, y=62, z=239}) is Tags.Blocks.ORES.
-[22Feb2024 06:00:01.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[22Feb2024 06:00:01.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[22Feb2024 06:11:17.349] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_gold_ore}(pos=BlockPos{x=-93, y=46, z=211}) is Tags.Blocks.ORES.
-[22Feb2024 06:17:10.409] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_quartz_ore}(pos=BlockPos{x=-61, y=66, z=207}) is Tags.Blocks.ORES.
-[22Feb2024 06:20:12.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 tried to swim in lava to escape Magma Cube
-[22Feb2024 06:28:48.148] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2353e3d8
-[22Feb2024 06:51:44.757] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_gold_ore}(pos=BlockPos{x=200, y=61, z=480}) is Tags.Blocks.ORES.
-[22Feb2024 06:52:19.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [A Terrible Fortress]
-[22Feb2024 07:00:01.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[22Feb2024 07:00:01.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[22Feb2024 07:07:33.409] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-162, y=67, z=52}) is not Tags.Blocks.ORES.
-[22Feb2024 07:07:37.107] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-167, y=67, z=55}) is not Tags.Blocks.ORES.
-[22Feb2024 07:07:41.506] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-160, y=66, z=57}) is not Tags.Blocks.ORES.
-[22Feb2024 07:07:46.107] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-158, y=66, z=55}) is not Tags.Blocks.ORES.
-[22Feb2024 07:07:48.358] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-156, y=66, z=56}) is not Tags.Blocks.ORES.
-[22Feb2024 07:11:08.856] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-159, y=66, z=59}) is not Tags.Blocks.ORES.
-[22Feb2024 07:11:13.411] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-151, y=65, z=61}) is not Tags.Blocks.ORES.
-[22Feb2024 07:11:17.056] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-158, y=63, z=66}) is not Tags.Blocks.ORES.
-[22Feb2024 07:11:19.409] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-157, y=64, z=67}) is not Tags.Blocks.ORES.
-[22Feb2024 07:11:22.407] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-159, y=63, z=68}) is not Tags.Blocks.ORES.
-[22Feb2024 07:11:24.806] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-157, y=61, z=70}) is not Tags.Blocks.ORES.
-[22Feb2024 07:11:27.159] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-155, y=63, z=69}) is not Tags.Blocks.ORES.
-[22Feb2024 07:11:37.810] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-148, y=65, z=65}) is not Tags.Blocks.ORES.
-[22Feb2024 07:12:07.510] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-157, y=59, z=73}) is not Tags.Blocks.ORES.
-[22Feb2024 07:12:20.107] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-156, y=64, z=76}) is not Tags.Blocks.ORES.
-[22Feb2024 07:12:38.410] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-156, y=58, z=82}) is not Tags.Blocks.ORES.
-[22Feb2024 07:12:41.507] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-154, y=56, z=82}) is not Tags.Blocks.ORES.
-[22Feb2024 07:12:58.573] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_quartz_ore}(pos=BlockPos{x=-152, y=53, z=78}) is Tags.Blocks.ORES.
-[22Feb2024 07:13:22.606] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-149, y=47, z=97}) is not Tags.Blocks.ORES.
-[22Feb2024 07:13:31.057] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-148, y=50, z=94}) is not Tags.Blocks.ORES.
-[22Feb2024 07:13:37.958] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-146, y=54, z=87}) is not Tags.Blocks.ORES.
-[22Feb2024 07:13:52.208] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-143, y=53, z=103}) is not Tags.Blocks.ORES.
-[22Feb2024 07:14:06.608] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-135, y=52, z=111}) is not Tags.Blocks.ORES.
-[22Feb2024 07:14:13.808] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-143, y=54, z=99}) is not Tags.Blocks.ORES.
-[22Feb2024 07:14:15.858] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-145, y=54, z=99}) is not Tags.Blocks.ORES.
-[22Feb2024 07:14:50.758] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-123, y=54, z=125}) is not Tags.Blocks.ORES.
-[22Feb2024 07:15:00.762] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-132, y=52, z=124}) is not Tags.Blocks.ORES.
-[22Feb2024 07:15:03.708] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-135, y=52, z=123}) is not Tags.Blocks.ORES.
-[22Feb2024 07:15:06.509] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-133, y=53, z=125}) is not Tags.Blocks.ORES.
-[22Feb2024 07:15:29.504] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-141, y=49, z=123}) is not Tags.Blocks.ORES.
-[22Feb2024 07:15:32.705] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-142, y=50, z=125}) is not Tags.Blocks.ORES.
-[22Feb2024 07:15:34.956] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-143, y=49, z=127}) is not Tags.Blocks.ORES.
-[22Feb2024 07:15:37.658] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-145, y=48, z=125}) is not Tags.Blocks.ORES.
-[22Feb2024 07:15:40.508] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-145, y=48, z=123}) is not Tags.Blocks.ORES.
-[22Feb2024 07:15:46.058] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-132, y=52, z=121}) is not Tags.Blocks.ORES.
-[22Feb2024 07:16:00.456] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-127, y=56, z=127}) is not Tags.Blocks.ORES.
-[22Feb2024 07:16:03.357] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-123, y=56, z=128}) is not Tags.Blocks.ORES.
-[22Feb2024 07:16:16.505] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-129, y=56, z=139}) is not Tags.Blocks.ORES.
-[22Feb2024 07:16:28.256] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-124, y=54, z=142}) is not Tags.Blocks.ORES.
-[22Feb2024 07:16:31.858] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-116, y=53, z=142}) is not Tags.Blocks.ORES.
-[22Feb2024 07:17:31.212] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-121, y=48, z=148}) is not Tags.Blocks.ORES.
-[22Feb2024 07:17:45.155] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-122, y=47, z=152}) is not Tags.Blocks.ORES.
-[22Feb2024 07:17:47.307] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-120, y=48, z=152}) is not Tags.Blocks.ORES.
-[22Feb2024 07:17:55.907] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-113, y=49, z=153}) is not Tags.Blocks.ORES.
-[22Feb2024 07:17:58.256] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-114, y=50, z=154}) is not Tags.Blocks.ORES.
-[22Feb2024 07:18:04.362] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-114, y=53, z=153}) is not Tags.Blocks.ORES.
-[22Feb2024 07:18:06.557] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-113, y=52, z=154}) is not Tags.Blocks.ORES.
-[22Feb2024 07:18:08.707] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-112, y=54, z=154}) is not Tags.Blocks.ORES.
-[22Feb2024 07:18:12.554] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-114, y=48, z=153}) is not Tags.Blocks.ORES.
-[22Feb2024 07:18:13.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/135789, l='ServerLevel[world]', x=-1242.99, y=56.90, z=289.36] died, message: 'Villager was slain by takashin71DC'
-[22Feb2024 07:18:31.307] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/133481, l='ServerLevel[world]', x=-1242.99, y=56.90, z=289.56] died, message: 'Villager was slain by takashin71DC'
-[22Feb2024 07:18:38.106] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_wart_block}(pos=BlockPos{x=-128, y=49, z=149}) is not Tags.Blocks.ORES.
-[22Feb2024 07:23:18.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [A Seedy Place]
-[22Feb2024 07:31:24.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [The Parrots and the Bats]
-[22Feb2024 07:33:42.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Best Friends Forever]
-[22Feb2024 07:34:45.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of souta21054) moved wrongly! 0.28075367459592826
-[22Feb2024 07:54:53.806] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1295, y=60, z=86}) is Tags.Blocks.ORES.
-[22Feb2024 07:55:02.857] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1291, y=60, z=78}) is Tags.Blocks.ORES.
-[22Feb2024 07:55:43.055] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1218, y=63, z=192}) is Tags.Blocks.ORES.
-[22Feb2024 07:58:57.005] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1284, y=62, z=98}) is Tags.Blocks.ORES.
-[22Feb2024 08:00:01.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[22Feb2024 08:00:01.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[22Feb2024 08:12:28.103] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:polished_andesite}(pos=BlockPos{x=-1316, y=64, z=313}) is not Tags.Blocks.ORES.
-[22Feb2024 08:12:31.755] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:polished_andesite}(pos=BlockPos{x=-1316, y=63, z=313}) is not Tags.Blocks.ORES.
-[22Feb2024 08:14:00.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[22Feb2024 08:14:19.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3695ms or 73 ticks behind
-[22Feb2024 08:14:38.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4631ms or 92 ticks behind
-[22Feb2024 08:14:56.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
-[22Feb2024 08:15:32.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[22Feb2024 08:15:33.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of souta21054) moved wrongly! 0.26616927952534297
-[22Feb2024 08:18:56.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[22Feb2024 08:19:17.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5916ms or 118 ticks behind
-[22Feb2024 08:19:35.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3285ms or 65 ticks behind
-[22Feb2024 08:19:58.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[22Feb2024 08:28:30.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[22Feb2024 08:28:46.001] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-797, y=64, z=1213}) is Tags.Blocks.ORES.
-[22Feb2024 08:28:46.762] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-797, y=63, z=1213}) is Tags.Blocks.ORES.
+[22Feb2024 08:31:00.304] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, start]
+[22Feb2024 08:31:00.309] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.9 by Private Build; OS Linux arch amd64 version 5.15.0-1054-azure
+[22Feb2024 08:31:00.792] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/azureuser/minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[22Feb2024 08:31:01.240] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.3.0/fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
+[22Feb2024 08:31:01.243] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.3.0/javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[22Feb2024 08:31:01.247] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.3.0/lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[22Feb2024 08:31:01.250] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.3.0/mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[22Feb2024 08:31:01.381] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[22Feb2024 08:31:03.960] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [start]
+[22Feb2024 08:31:10.802] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[22Feb2024 08:31:13.596] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
+[22Feb2024 08:31:13.597] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.0 Initialized
+[22Feb2024 08:31:14.018] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[22Feb2024 08:31:17.614] [main/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.ModConfig::onLoad file:/home/azureuser/minecraft/config/digallsmp-common.toml
+[22Feb2024 08:31:17.616] [Thread-0/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.mod_DigAllSMP config reload.
+[22Feb2024 08:31:17.617] [Thread-0/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.mod_DigAllSMP config reload.
+[22Feb2024 08:31:17.619] [main/INFO] [net.minecraft.scalar.mineall.ModConfig/]: net.minecraft.scalar.mineall.ModConfig::onLoad file:/home/azureuser/minecraft/config/mineallsmp-common.toml
+[22Feb2024 08:31:17.620] [Thread-0/INFO] [net.minecraft.scalar.mineall.ModConfig/]: net.minecraft.scalar.mineall.mod_MineAllSMP config reload.
+[22Feb2024 08:31:17.621] [Thread-0/INFO] [net.minecraft.scalar.mineall.ModConfig/]: net.minecraft.scalar.mineall.mod_MineAllSMP config reload.
+[22Feb2024 08:31:17.623] [main/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.ModConfig::onLoad file:/home/azureuser/minecraft/config/cutallsmp-common.toml
+[22Feb2024 08:31:17.624] [Thread-0/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.mod_CutAllSMP config reload.
+[22Feb2024 08:31:17.625] [Thread-0/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.mod_CutAllSMP config reload.
+[22Feb2024 08:31:17.657] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.3.9 initializing...
+[22Feb2024 08:31:17.827] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[22Feb2024 08:31:17.851] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[22Feb2024 08:31:17.851] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[22Feb2024 08:31:18.033] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Feb2024 08:31:19.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 43.3.0 Target: null
+[22Feb2024 08:31:21.719] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Feb2024 08:31:22.923] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/azureuser/minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23113!/assets/.mcassetsroot' uses unexpected schema
+[22Feb2024 08:31:22.923] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/azureuser/minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23113!/data/.mcassetsroot' uses unexpected schema
+[22Feb2024 08:31:26.939] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 33 recipes
+[22Feb2024 08:31:27.744] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1595 advancements
+[22Feb2024 08:31:28.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[22Feb2024 08:31:28.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Feb2024 08:31:28.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Feb2024 08:31:28.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Feb2024 08:31:28.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Feb2024 08:31:28.877] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Feb2024 08:31:29.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Feb2024 08:31:35.073] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Feb2024 08:31:36.499] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Feb2024 08:31:37.694] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Feb2024 08:31:38.538] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Feb2024 08:31:39.048] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Feb2024 08:31:41.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Feb2024 08:31:47.971] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:47.983] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:47.984] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:47.984] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:47.986] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:47.988] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:47.991] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:47.993] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:47.994] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:47.998] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:48.001] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:48.002] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:48.005] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:48.006] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:48.475] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:48.976] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Feb2024 08:31:49.554] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[22Feb2024 08:31:50.231] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8757 ms
+[22Feb2024 08:31:50.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (21.223s)! For help, type "help"
+[22Feb2024 08:31:50.252] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Feb2024 08:32:07.753] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[22Feb2024 08:32:09.897] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@16a5bfa8
+[22Feb2024 08:32:09.927] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:46572] logged in with entity id 48 at (-1311.3120851074486, 62.9375, 315.7065119967199)
+[22Feb2024 08:32:10.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[22Feb2024 08:32:15.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5325ms or 106 ticks behind
+[22Feb2024 08:32:15.783] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player souta21054 is d16a56eb-4bde-4352-8b69-4bc9cc4e8923
+[22Feb2024 08:32:19.546] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7044b58a
+[22Feb2024 08:32:19.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: souta21054[/110.134.160.253:58724] logged in with entity id 440 at (-784.0943106272101, 65.0, 1227.6096690287527)
+[22Feb2024 08:32:19.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 joined the game
+[22Feb2024 08:32:40.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10229ms or 204 ticks behind
+[22Feb2024 08:32:48.076] [Netty Epoll Server IO #2/INFO] [net.minecraft.scalar.mineall.ModConfig/]: net.minecraft.scalar.mineall.mod_MineAllSMP config reload.
+[22Feb2024 08:32:48.078] [Netty Epoll Server IO #2/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: DestroyUnder=true, blocks=block.minecraft.gold_ore(all meta),block.minecraft.iron_ore(all meta),block.minecraft.coal_ore(all meta),block.minecraft.lapis_ore(all meta),block.minecraft.obsidian(all meta),block.minecraft.diamond_ore(all meta),block.minecraft.redstone_ore(all meta),block.minecraft.glowstone(all meta),block.minecraft.emerald_ore(all meta),block.minecraft.nether_quartz_ore(all meta),block.minecraft.granite(all meta),block.minecraft.diorite(all meta),block.minecraft.andesite(all meta),block.minecraft.ancient_debris(all meta),block.minecraft.nether_gold_ore(all meta),block.minecraft.sponge(all meta),block.minecraft.wet_sponge(all meta),block.minecraft.nether_wart_block(all meta),block.minecraft.warped_wart_block(all meta),block.minecraft.crying_obsidian(all meta),block.minecraft.ancient_debris(all meta),block.minecraft.deepslate_coal_ore(all meta),block.minecraft.deepslate_copper_ore(all meta),block.minecraft.deepslate_diamond_ore(all meta),block.minecraft.deepslate_emerald_ore(all meta),block.minecraft.deepslate_gold_ore(all meta),block.minecraft.deepslate_iron_ore(all meta),block.minecraft.deepslate_lapis_ore(all meta),block.minecraft.deepslate_redstone_ore(all meta)
+[22Feb2024 08:32:48.153] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-797, y=64, z=1212}) is Tags.Blocks.ORES.
+[22Feb2024 08:32:57.642] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/883, l='ServerLevel[world]', x=-976.09, y=71.00, z=1227.89]
+[22Feb2024 08:33:04.766] [Thread-0/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.mod_CutAllSMP config reload.
+[22Feb2024 08:33:05.930] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-766, y=66, z=1243}) is Tags.Blocks.ORES.
+[22Feb2024 08:33:07.667] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-766, y=65, z=1244}) is Tags.Blocks.ORES.
+[22Feb2024 08:33:09.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[22Feb2024 08:33:18.772] [Thread-0/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.mod_DigAllSMP config reload.
+[22Feb2024 08:39:38.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[22Feb2024 08:39:38.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[22Feb2024 08:39:53.186] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[22Feb2024 08:39:55.210] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e4de567
+[22Feb2024 08:39:55.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:15190] logged in with entity id 4546 at (-1511.6947487708192, 75.9375, 375.3551668381894)
+[22Feb2024 08:39:55.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[22Feb2024 08:39:58.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3161ms or 63 ticks behind
+[22Feb2024 08:45:38.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has reached the goal [The Factory Must Grow!]
+[22Feb2024 08:59:59.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC was slain by Iron Golem
+[22Feb2024 09:00:01.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[22Feb2024 09:00:02.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game

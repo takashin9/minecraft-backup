@@ -299,15 +299,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2024-02-22 07:59:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-02-22 06:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-02-22 07:59:27 +0000"
     },
     "done": true
   },
@@ -999,6 +999,7 @@
       "minecraft:sunflower_plains": "2024-02-20 08:20:28 +0000",
       "minecraft:birch_forest": "2024-02-20 08:18:04 +0000",
       "minecraft:beach": "2024-02-20 03:29:34 +0000",
+      "minecraft:sparse_jungle": "2024-02-22 08:47:21 +0000",
       "minecraft:lukewarm_ocean": "2024-02-20 03:33:19 +0000",
       "minecraft:river": "2024-02-20 03:33:18 +0000",
       "minecraft:stony_shore": "2024-02-20 09:56:48 +0000",

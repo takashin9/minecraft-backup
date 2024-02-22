@@ -23,7 +23,7 @@
 	#Boolean: false
 	DestroyUnder = true
 	#Boolean: true
-	StartMode = true
+	StartMode = false
 	#String: "mod_cutall"
 	channelName = "mod_cutall"
 
