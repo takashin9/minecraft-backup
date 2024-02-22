@@ -94,3 +94,8 @@
 [22Feb2024 08:59:59.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC was slain by Iron Golem
 [22Feb2024 09:00:01.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [22Feb2024 09:00:02.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[22Feb2024 09:25:04.962] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['mante3'/5783, l='ServerLevel[world]', x=-1269.51, y=62.18, z=273.30] died: mante3 was burnt to a crisp whilst fighting takashin71DC
+[22Feb2024 09:35:04.378] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['mante4'/6008, l='ServerLevel[world]', x=-1243.12, y=56.45, z=273.49] died: mante4 was slain by takashin71DC
+[22Feb2024 09:41:32.875] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['mante1'/5790, l='ServerLevel[world]', x=-1263.94, y=56.45, z=289.40] died: mante1 was slain by takashin71DC
+[22Feb2024 10:00:01.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[22Feb2024 10:00:01.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
