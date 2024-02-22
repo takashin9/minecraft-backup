@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-02-22 16:13:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2024-02-19 16:43:27 +0000"
@@ -530,6 +536,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-02-20 09:53:49 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2024-02-22 17:41:01 +0000"
     },
     "done": true
   },
@@ -997,6 +1009,7 @@
       "minecraft:creeper": "2024-02-22 14:58:19 +0000",
       "minecraft:phantom": "2024-02-21 15:17:00 +0000",
       "minecraft:zombified_piglin": "2024-02-21 11:49:59 +0000",
+      "minecraft:enderman": "2024-02-22 18:03:18 +0000",
       "minecraft:zombie": "2024-02-20 09:32:33 +0000",
       "minecraft:drowned": "2024-02-21 12:17:22 +0000"
     },
@@ -1212,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-02-22 15:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-02-19 15:56:58 +0000"
@@ -1233,6 +1252,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-02-20 09:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-02-22 15:16:19 +0000"
     },
     "done": true
   },
@@ -1341,6 +1366,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2024-02-20 03:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-02-22 17:34:38 +0000"
     },
     "done": true
   },
@@ -1602,9 +1633,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-02-22 16:23:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-02-19 15:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-02-22 15:16:19 +0000"
     },
     "done": true
   },
@@ -1653,6 +1696,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2024-02-19 16:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-02-22 17:34:38 +0000"
     },
     "done": true
   },
@@ -1722,6 +1771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_the_recipe": "2024-02-22 15:16:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-02-19 16:55:24 +0000",
@@ -1744,6 +1799,7 @@
       "minecraft:windswept_savanna": "2024-02-20 15:29:35 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-02-19 16:57:47 +0000",
       "minecraft:old_growth_birch_forest": "2024-02-19 16:38:10 +0000",
+      "minecraft:savanna": "2024-02-22 17:34:28 +0000",
       "minecraft:plains": "2024-02-19 16:34:45 +0000"
     },
     "done": false
@@ -1763,6 +1819,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-02-19 17:10:02 +0000"
+    },
+    "done": true
+  },
+  "mekanism:personal_storage": {
+    "criteria": {
+      "storage": "2024-02-22 16:05:04 +0000"
     },
     "done": true
   },

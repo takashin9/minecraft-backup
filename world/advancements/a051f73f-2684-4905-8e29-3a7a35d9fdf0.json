@@ -143,9 +143,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-02-22 15:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-02-20 08:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-22 16:58:32 +0000"
     },
     "done": true
   },
@@ -182,6 +194,12 @@
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-02-21 09:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-02-22 15:41:00 +0000"
     },
     "done": true
   },
@@ -227,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-02-22 16:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-02-20 09:23:50 +0000"
@@ -260,6 +284,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-02-20 13:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-02-22 15:41:00 +0000"
     },
     "done": true
   },
@@ -404,6 +434,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-02-21 08:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-22 16:58:32 +0000"
     },
     "done": true
   },
@@ -584,9 +620,11 @@
       "minecraft:slime": "2024-02-20 11:38:35 +0000",
       "minecraft:phantom": "2024-02-20 14:31:12 +0000",
       "minecraft:witch": "2024-02-20 12:23:09 +0000",
+      "minecraft:cave_spider": "2024-02-22 16:17:39 +0000",
       "minecraft:piglin": "2024-02-21 14:36:33 +0000",
       "minecraft:zombie": "2024-02-20 09:28:32 +0000",
-      "minecraft:drowned": "2024-02-21 14:09:14 +0000"
+      "minecraft:drowned": "2024-02-21 14:09:14 +0000",
+      "minecraft:zombie_villager": "2024-02-22 17:15:24 +0000"
     },
     "done": false
   },
@@ -683,6 +721,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-02-21 14:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-02-22 15:41:00 +0000"
     },
     "done": true
   },
@@ -821,6 +865,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-02-21 08:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-22 16:58:32 +0000"
     },
     "done": true
   },
@@ -968,6 +1018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-22 16:58:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 09:25:29 +0000"
@@ -1082,6 +1138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-02-22 15:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-02-20 09:22:29 +0000"
@@ -1142,6 +1204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-22 16:58:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2024-02-20 09:32:35 +0000"
@@ -1190,6 +1258,7 @@
       "minecraft:ocean": "2024-02-20 08:53:23 +0000",
       "minecraft:windswept_savanna": "2024-02-22 12:47:51 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-02-20 08:51:37 +0000",
+      "minecraft:flower_forest": "2024-02-22 18:20:17 +0000",
       "minecraft:meadow": "2024-02-20 12:12:57 +0000",
       "minecraft:savanna": "2024-02-22 12:48:21 +0000",
       "minecraft:plains": "2024-02-20 08:56:10 +0000"
@@ -1532,6 +1601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-22 16:58:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-02-20 08:50:22 +0000"
@@ -1664,6 +1739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-22 16:58:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2024-02-20 10:47:39 +0000",
@@ -1673,6 +1754,7 @@
       "beef": "2024-02-20 10:47:42 +0000",
       "apple": "2024-02-20 09:21:22 +0000",
       "bread": "2024-02-20 08:50:37 +0000",
+      "golden_apple": "2024-02-22 16:14:51 +0000",
       "rotten_flesh": "2024-02-20 10:34:51 +0000",
       "glow_berries": "2024-02-20 12:46:09 +0000",
       "melon_slice": "2024-02-21 08:16:06 +0000",
@@ -1732,6 +1814,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-02-20 15:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-02-22 18:02:12 +0000"
     },
     "done": true
   },
@@ -1816,6 +1904,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 09:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-22 16:58:32 +0000"
     },
     "done": true
   },
@@ -1981,6 +2075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-22 16:58:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-02-20 11:25:44 +0000"
@@ -2089,6 +2189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-02-22 15:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-02-21 14:33:41 +0000"
@@ -2131,6 +2237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-02-22 15:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-02-21 08:44:03 +0000"
@@ -2164,6 +2276,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-02-21 08:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-02-22 16:06:57 +0000"
     },
     "done": true
   },
@@ -2236,6 +2354,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2024-02-21 09:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-22 16:58:32 +0000"
     },
     "done": true
   },
@@ -2347,6 +2471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-22 16:58:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_leggings": "2024-02-20 15:28:36 +0000"
@@ -2416,6 +2546,12 @@
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2024-02-21 14:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-22 16:58:32 +0000"
     },
     "done": true
   },
@@ -2491,6 +2627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-02-22 16:07:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2024-02-20 08:41:35 +0000"
@@ -2524,6 +2666,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-02-20 09:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-02-22 15:41:00 +0000"
     },
     "done": true
   },
@@ -2677,6 +2825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-22 16:58:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-02-21 09:16:45 +0000"
@@ -2704,6 +2858,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-02-20 10:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-02-22 15:41:00 +0000"
     },
     "done": true
   },
