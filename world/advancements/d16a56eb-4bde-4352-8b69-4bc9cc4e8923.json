@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-02-22 08:16:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-02-20 10:59:21 +0000"
@@ -242,6 +248,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-02-20 09:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-02-22 08:16:44 +0000"
     },
     "done": true
   },
@@ -983,6 +995,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-02-20 09:51:46 +0000",
+      "minecraft:eroded_badlands": "2024-02-22 08:25:55 +0000",
       "minecraft:sunflower_plains": "2024-02-20 08:20:28 +0000",
       "minecraft:birch_forest": "2024-02-20 08:18:04 +0000",
       "minecraft:beach": "2024-02-20 03:29:34 +0000",
@@ -993,12 +1006,14 @@
       "minecraft:cold_ocean": "2024-02-20 10:09:46 +0000",
       "minecraft:forest": "2024-02-20 08:17:43 +0000",
       "minecraft:deep_cold_ocean": "2024-02-20 10:09:59 +0000",
+      "minecraft:desert": "2024-02-22 08:20:54 +0000",
       "minecraft:windswept_forest": "2024-02-20 08:18:09 +0000",
       "minecraft:jungle": "2024-02-20 03:29:27 +0000",
       "minecraft:ocean": "2024-02-20 10:39:42 +0000",
       "minecraft:windswept_savanna": "2024-02-20 08:17:21 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-02-20 08:15:17 +0000",
       "minecraft:meadow": "2024-02-20 09:47:32 +0000",
+      "minecraft:savanna": "2024-02-22 08:19:58 +0000",
       "minecraft:plains": "2024-02-20 08:19:13 +0000"
     },
     "done": false
@@ -1084,6 +1099,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-02-20 08:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-02-22 08:22:59 +0000"
     },
     "done": true
   },
@@ -1507,6 +1528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-02-22 08:16:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-02-20 08:12:36 +0000"
@@ -1543,6 +1570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-02-22 08:16:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-02-20 10:08:51 +0000"
@@ -1570,6 +1603,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-02-20 09:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-02-22 08:22:59 +0000"
     },
     "done": true
   },
@@ -1624,6 +1663,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 08:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2024-02-22 08:22:52 +0000"
     },
     "done": true
   },
@@ -2017,6 +2062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-02-22 08:16:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-02-20 08:08:41 +0000"
@@ -2374,6 +2425,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-02-20 14:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-02-22 08:16:44 +0000"
     },
     "done": true
   },

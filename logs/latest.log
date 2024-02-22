@@ -103,3 +103,18 @@
 [22Feb2024 07:58:57.005] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1284, y=62, z=98}) is Tags.Blocks.ORES.
 [22Feb2024 08:00:01.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [22Feb2024 08:00:01.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[22Feb2024 08:12:28.103] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:polished_andesite}(pos=BlockPos{x=-1316, y=64, z=313}) is not Tags.Blocks.ORES.
+[22Feb2024 08:12:31.755] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:polished_andesite}(pos=BlockPos{x=-1316, y=63, z=313}) is not Tags.Blocks.ORES.
+[22Feb2024 08:14:00.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22Feb2024 08:14:19.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3695ms or 73 ticks behind
+[22Feb2024 08:14:38.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4631ms or 92 ticks behind
+[22Feb2024 08:14:56.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
+[22Feb2024 08:15:32.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22Feb2024 08:15:33.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of souta21054) moved wrongly! 0.26616927952534297
+[22Feb2024 08:18:56.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[22Feb2024 08:19:17.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5916ms or 118 ticks behind
+[22Feb2024 08:19:35.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3285ms or 65 ticks behind
+[22Feb2024 08:19:58.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[22Feb2024 08:28:30.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[22Feb2024 08:28:46.001] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-797, y=64, z=1213}) is Tags.Blocks.ORES.
+[22Feb2024 08:28:46.762] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-797, y=63, z=1213}) is Tags.Blocks.ORES.
