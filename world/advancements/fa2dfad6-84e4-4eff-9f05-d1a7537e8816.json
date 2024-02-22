@@ -766,6 +766,12 @@
     },
     "done": true
   },
+  "mekanism:purification_chamber": {
+    "criteria": {
+      "purification_chamber": "2024-02-22 11:07:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-02-20 06:21:27 +0000"
@@ -1681,6 +1687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-02-22 11:44:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-02-20 13:42:11 +0000"
@@ -1855,6 +1867,12 @@
     },
     "done": true
   },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2024-02-22 11:06:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2024-02-20 06:13:28 +0000",
@@ -1863,6 +1881,7 @@
       "minecraft:sparse_jungle": "2024-02-19 12:40:46 +0000",
       "minecraft:lukewarm_ocean": "2024-02-19 11:59:05 +0000",
       "minecraft:river": "2024-02-19 11:56:56 +0000",
+      "minecraft:stony_shore": "2024-02-22 11:54:05 +0000",
       "minecraft:forest": "2024-02-20 06:11:08 +0000",
       "minecraft:desert": "2024-02-19 12:42:00 +0000",
       "minecraft:windswept_forest": "2024-02-20 06:11:27 +0000",
@@ -1882,6 +1901,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-02-21 11:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-02-22 11:44:31 +0000"
     },
     "done": true
   },
