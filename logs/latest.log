@@ -474,3 +474,85 @@
 [23Feb2024 06:41:00.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Getting More From Less]
 [23Feb2024 07:00:01.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [23Feb2024 07:00:02.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[23Feb2024 07:26:34.122] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[23Feb2024 07:26:35.545] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e31aa17[id=a051f73f-2684-4905-8e29-3a7a35d9fdf0,name=Signiturere,properties={textures=[com.mojang.authlib.properties.Property@69379d5e]},legacy=false] (/116.64.76.171:58321) lost connection: Disconnected
+[23Feb2024 07:27:12.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[23Feb2024 07:27:12.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[23Feb2024 07:28:21.020] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[23Feb2024 07:28:22.391] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b1dd352[id=a051f73f-2684-4905-8e29-3a7a35d9fdf0,name=Signiturere,properties={textures=[com.mojang.authlib.properties.Property@cd474ee]},legacy=false] (/116.64.76.171:58415) lost connection: Disconnected
+[23Feb2024 07:29:30.397] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[23Feb2024 07:29:32.454] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@69652d58
+[23Feb2024 07:29:32.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:58517] logged in with entity id 52820 at (-1724.1577287861417, -7.0, 1091.3145022224767)
+[23Feb2024 07:29:32.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[23Feb2024 07:29:43.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[23Feb2024 07:29:43.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[23Feb2024 07:29:47.283] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[23Feb2024 07:29:49.300] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2681d9ac
+[23Feb2024 07:29:49.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:58523] logged in with entity id 53094 at (-1719.300000011921, -6.0, 1087.3221681740556)
+[23Feb2024 07:29:49.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[23Feb2024 07:29:51.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2453ms or 49 ticks behind
+[23Feb2024 07:31:07.895] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1716, y=8, z=1114}) is Tags.Blocks.ORES.
+[23Feb2024 07:31:15.796] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1712, y=7, z=1120}) is Tags.Blocks.ORES.
+[23Feb2024 07:31:17.544] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_osmium_ore}(pos=BlockPos{x=-1713, y=6, z=1121}) is Tags.Blocks.ORES.
+[23Feb2024 07:31:27.397] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1705, y=-1, z=1104}) is Tags.Blocks.ORES.
+[23Feb2024 07:31:30.695] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_copper_ore}(pos=BlockPos{x=-1699, y=-3, z=1105}) is Tags.Blocks.ORES.
+[23Feb2024 07:32:02.499] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_lead_ore}(pos=BlockPos{x=-1702, y=-5, z=1104}) is Tags.Blocks.ORES.
+[23Feb2024 07:32:13.147] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1719, y=-1, z=1094}) is Tags.Blocks.ORES.
+[23Feb2024 07:32:17.944] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_copper_ore}(pos=BlockPos{x=-1712, y=-2, z=1093}) is Tags.Blocks.ORES.
+[23Feb2024 07:34:01.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> -1683, -7, 1070 ゾンビスポナー
+[23Feb2024 07:36:21.194] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_osmium_ore}(pos=BlockPos{x=-1698, y=-6, z=1033}) is Tags.Blocks.ORES.
+[23Feb2024 07:36:23.346] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_osmium_ore}(pos=BlockPos{x=-1699, y=-6, z=1034}) is Tags.Blocks.ORES.
+[23Feb2024 07:36:25.645] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1700, y=-9, z=1035}) is Tags.Blocks.ORES.
+[23Feb2024 07:36:28.697] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1699, y=-9, z=1036}) is Tags.Blocks.ORES.
+[23Feb2024 07:37:07.596] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1728, y=-14, z=1080}) is Tags.Blocks.ORES.
+[23Feb2024 07:37:18.244] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_copper_ore}(pos=BlockPos{x=-1730, y=-16, z=1085}) is Tags.Blocks.ORES.
+[23Feb2024 07:37:53.694] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1750, y=-24, z=1092}) is Tags.Blocks.ORES.
+[23Feb2024 07:39:19.995] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1772, y=-37, z=1100}) is Tags.Blocks.ORES.
+[23Feb2024 07:41:02.949] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1789, y=-40, z=1074}) is Tags.Blocks.ORES.
+[23Feb2024 07:41:18.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[23Feb2024 07:41:18.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[23Feb2024 07:41:21.735] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[23Feb2024 07:41:23.750] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3cb6d4ba
+[23Feb2024 07:41:23.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:58608] logged in with entity id 57129 at (-1783.699999988079, -41.0, 1083.6669926851116)
+[23Feb2024 07:41:23.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[23Feb2024 07:41:26.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: souta21054 moved too quickly! 0.9567467191432115,-0.8232407249357578,10.018841239750003
+[23Feb2024 07:41:26.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[23Feb2024 07:41:33.195] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1775, y=-35, z=1088}) is Tags.Blocks.ORES.
+[23Feb2024 07:43:09.295] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1787, y=-40, z=1079}) is Tags.Blocks.ORES.
+[23Feb2024 07:43:16.046] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_diamond_ore}(pos=BlockPos{x=-1791, y=-41, z=1071}) is Tags.Blocks.ORES.
+[23Feb2024 07:43:31.448] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1805, y=-43, z=1054}) is Tags.Blocks.ORES.
+[23Feb2024 07:43:36.145] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_gold_ore}(pos=BlockPos{x=-1801, y=-41, z=1068}) is Tags.Blocks.ORES.
+[23Feb2024 07:43:43.594] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1803, y=-36, z=1067}) is Tags.Blocks.ORES.
+[23Feb2024 07:48:33.445] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1755, y=-31, z=1094}) is Tags.Blocks.ORES.
+[23Feb2024 07:48:40.298] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_uranium_ore}(pos=BlockPos{x=-1763, y=-32, z=1091}) is Tags.Blocks.ORES.
+[23Feb2024 07:49:09.445] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_osmium_ore}(pos=BlockPos{x=-1757, y=-38, z=1122}) is Tags.Blocks.ORES.
+[23Feb2024 07:51:10.947] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:fluorite_ore}(pos=BlockPos{x=-1695, y=4, z=1058}) is Tags.Blocks.ORES.
+[23Feb2024 07:51:12.945] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_fluorite_ore}(pos=BlockPos{x=-1695, y=4, z=1057}) is Tags.Blocks.ORES.
+[23Feb2024 07:51:59.796] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:lapis_ore}(pos=BlockPos{x=-1690, y=11, z=1052}) is Tags.Blocks.ORES.
+[23Feb2024 07:52:00.946] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1691, y=11, z=1053}) is Tags.Blocks.ORES.
+[23Feb2024 07:52:03.296] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:fluorite_ore}(pos=BlockPos{x=-1692, y=12, z=1053}) is Tags.Blocks.ORES.
+[23Feb2024 07:52:09.649] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1699, y=9, z=1059}) is Tags.Blocks.ORES.
+[23Feb2024 07:52:21.297] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1686, y=6, z=1055}) is Tags.Blocks.ORES.
+[23Feb2024 07:52:26.097] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1692, y=5, z=1069}) is Tags.Blocks.ORES.
+[23Feb2024 07:52:28.096] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1696, y=7, z=1068}) is Tags.Blocks.ORES.
+[23Feb2024 07:53:25.097] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1700, y=4, z=1059}) is Tags.Blocks.ORES.
+[23Feb2024 07:53:26.549] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1700, y=4, z=1058}) is Tags.Blocks.ORES.
+[23Feb2024 07:53:28.745] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1700, y=3, z=1058}) is Tags.Blocks.ORES.
+[23Feb2024 07:53:42.397] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_iron_ore}(pos=BlockPos{x=-1711, y=-2, z=1073}) is Tags.Blocks.ORES.
+[23Feb2024 07:53:44.345] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1712, y=-1, z=1072}) is Tags.Blocks.ORES.
+[23Feb2024 07:55:28.297] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1718, y=7, z=1066}) is Tags.Blocks.ORES.
+[23Feb2024 07:55:37.499] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:lapis_ore}(pos=BlockPos{x=-1711, y=4, z=1061}) is Tags.Blocks.ORES.
+[23Feb2024 07:55:40.549] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1710, y=4, z=1058}) is Tags.Blocks.ORES.
+[23Feb2024 07:55:58.697] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:deepslate_tin_ore}(pos=BlockPos{x=-1703, y=3, z=1048}) is Tags.Blocks.ORES.
+[23Feb2024 07:56:01.296] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1703, y=4, z=1048}) is Tags.Blocks.ORES.
+[23Feb2024 07:56:04.496] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:redstone_ore}(pos=BlockPos{x=-1704, y=-1, z=1046}) is Tags.Blocks.ORES.
+[23Feb2024 07:56:06.945] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_redstone_ore}(pos=BlockPos{x=-1704, y=-2, z=1046}) is Tags.Blocks.ORES.
+[23Feb2024 07:56:08.695] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:redstone_ore}(pos=BlockPos{x=-1704, y=-2, z=1045}) is Tags.Blocks.ORES.
+[23Feb2024 07:57:06.095] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1686, y=11, z=1039}) is Tags.Blocks.ORES.
+[23Feb2024 07:58:58.247] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:osmium_ore}(pos=BlockPos{x=-1680, y=16, z=1023}) is Tags.Blocks.ORES.
+[23Feb2024 07:59:16.746] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1684, y=19, z=1034}) is Tags.Blocks.ORES.
+[23Feb2024 07:59:35.546] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1690, y=20, z=1041}) is Tags.Blocks.ORES.
+[23Feb2024 07:59:41.646] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{mekanism:tin_ore}(pos=BlockPos{x=-1692, y=14, z=1042}) is Tags.Blocks.ORES.
+[23Feb2024 08:00:01.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[23Feb2024 08:00:01.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[23Feb2024 08:00:06.895] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:deepslate_lapis_ore}(pos=BlockPos{x=-1703, y=-3, z=1068}) is Tags.Blocks.ORES.
