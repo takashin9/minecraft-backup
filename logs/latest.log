@@ -721,3 +721,18 @@
 [23Feb2024 09:38:47.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O left the game
 [23Feb2024 10:00:01.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [23Feb2024 10:00:01.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[23Feb2024 10:22:43.541] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1370, y=64, z=249}) is Tags.Blocks.ORES.
+[23Feb2024 10:22:46.041] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:iron_ore}(pos=BlockPos{x=-1372, y=64, z=250}) is Tags.Blocks.ORES.
+[23Feb2024 10:22:50.392] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1364, y=64, z=245}) is Tags.Blocks.ORES.
+[23Feb2024 10:22:55.143] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=-1362, y=62, z=228}) is not Tags.Blocks.ORES.
+[23Feb2024 10:23:00.892] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1346, y=63, z=233}) is Tags.Blocks.ORES.
+[23Feb2024 10:23:04.541] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1339, y=64, z=235}) is Tags.Blocks.ORES.
+[23Feb2024 10:23:06.391] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1340, y=64, z=236}) is Tags.Blocks.ORES.
+[23Feb2024 10:23:09.091] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:copper_ore}(pos=BlockPos{x=-1335, y=63, z=234}) is Tags.Blocks.ORES.
+[23Feb2024 10:23:13.443] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1329, y=62, z=239}) is Tags.Blocks.ORES.
+[23Feb2024 10:23:15.991] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:lapis_ore}(pos=BlockPos{x=-1325, y=62, z=243}) is Tags.Blocks.ORES.
+[23Feb2024 10:23:18.742] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1330, y=62, z=247}) is Tags.Blocks.ORES.
+[23Feb2024 10:23:20.092] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1331, y=63, z=246}) is Tags.Blocks.ORES.
+[23Feb2024 10:23:24.242] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1330, y=62, z=251}) is Tags.Blocks.ORES.
+[23Feb2024 11:00:01.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[23Feb2024 11:00:01.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
