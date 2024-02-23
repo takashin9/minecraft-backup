@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-02-23 01:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-02-22 08:34:58 +0000"
@@ -507,6 +513,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-02-19 11:58:30 +0000",
       "minecraft:spider": "2024-02-19 12:05:43 +0000",
+      "minecraft:phantom": "2024-02-23 01:22:45 +0000",
       "minecraft:cave_spider": "2024-02-22 15:04:59 +0000",
       "minecraft:zombie": "2024-02-20 06:14:16 +0000",
       "minecraft:zombie_villager": "2024-02-20 09:59:30 +0000"
@@ -654,6 +661,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-02-20 08:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-02-23 01:28:29 +0000"
     },
     "done": true
   },
@@ -924,6 +937,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-02-20 09:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-02-23 01:11:05 +0000"
     },
     "done": true
   },
@@ -1351,6 +1370,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-02-22 06:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-02-23 01:28:30 +0000"
     },
     "done": true
   },
@@ -1917,6 +1942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-02-23 01:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-20 14:43:19 +0000"
@@ -2022,6 +2053,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-02-20 09:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-02-23 01:11:05 +0000"
     },
     "done": true
   },
@@ -2430,6 +2467,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-02-21 11:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-02-23 01:28:29 +0000"
     },
     "done": true
   },
