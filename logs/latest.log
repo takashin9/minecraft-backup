@@ -736,3 +736,9 @@
 [23Feb2024 10:23:24.242] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1330, y=62, z=251}) is Tags.Blocks.ORES.
 [23Feb2024 11:00:01.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [23Feb2024 11:00:01.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[23Feb2024 11:58:50.088] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mante2O is 34ff9984-16b0-4e69-89bb-e41497962b63
+[23Feb2024 11:58:52.745] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b0e660f
+[23Feb2024 11:58:52.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mante2O[/118.241.113.240:50420] logged in with entity id 172705 at (-1167.3494659072503, 68.0, 219.09865918284117)
+[23Feb2024 11:58:52.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O joined the game
+[23Feb2024 12:00:01.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[23Feb2024 12:00:01.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
