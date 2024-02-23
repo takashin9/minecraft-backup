@@ -742,3 +742,24 @@
 [23Feb2024 11:58:52.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O joined the game
 [23Feb2024 12:00:01.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [23Feb2024 12:00:01.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[23Feb2024 12:21:56.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> こっちの建築ってネザークォーツ使う？
+[23Feb2024 12:23:41.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> 結構使う予定
+[23Feb2024 12:24:02.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> 了解
+[23Feb2024 12:24:57.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> いや
+[23Feb2024 12:25:39.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> 集めんの大変だから迷ってる
+[23Feb2024 12:38:53.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[23Feb2024 12:38:53.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[23Feb2024 12:38:56.768] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[23Feb2024 12:38:58.799] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11e971d5
+[23Feb2024 12:38:58.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:59199] logged in with entity id 184074 at (-1308.890334920179, 81.0, 280.58691285527624)
+[23Feb2024 12:38:58.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[23Feb2024 12:45:49.859] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[23Feb2024 12:45:51.898] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4bf23f42
+[23Feb2024 12:45:51.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:8798] logged in with entity id 185773 at (-1286.4493839368959, 63.0, 311.43026940921254)
+[23Feb2024 12:45:51.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[23Feb2024 12:46:33.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> discord ni imasu
+[23Feb2024 12:53:00.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[23Feb2024 12:53:00.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[23Feb2024 13:00:01.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[23Feb2024 13:00:01.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[23Feb2024 13:00:20.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has made the advancement [Configure Everything]
