@@ -525,7 +525,9 @@
     "criteria": {
       "minecraft:skeleton": "2024-02-19 11:58:30 +0000",
       "minecraft:spider": "2024-02-19 12:05:43 +0000",
+      "minecraft:creeper": "2024-02-23 04:45:37 +0000",
       "minecraft:phantom": "2024-02-23 01:22:45 +0000",
+      "minecraft:husk": "2024-02-23 04:46:23 +0000",
       "minecraft:cave_spider": "2024-02-22 15:04:59 +0000",
       "minecraft:zombie": "2024-02-20 06:14:16 +0000",
       "minecraft:zombie_villager": "2024-02-20 09:59:30 +0000"
@@ -667,6 +669,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-02-19 11:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-02-23 04:32:19 +0000"
     },
     "done": true
   },
@@ -1039,6 +1047,7 @@
       "minecraft:jungle": "2024-02-19 07:35:41 +0000",
       "minecraft:ocean": "2024-02-20 06:08:26 +0000",
       "minecraft:windswept_savanna": "2024-02-23 02:34:35 +0000",
+      "minecraft:warm_ocean": "2024-02-23 04:45:10 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-02-20 06:07:00 +0000",
       "minecraft:plains": "2024-02-20 06:12:35 +0000"
     },
@@ -1523,6 +1532,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-02-23 04:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-02-19 11:51:21 +0000"
@@ -1628,6 +1643,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-02-20 09:04:53 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2024-02-23 04:31:34 +0000"
     },
     "done": true
   },
@@ -1955,6 +1976,12 @@
     },
     "done": true
   },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2024-02-23 04:35:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-02-22 16:04:17 +0000"
@@ -2276,6 +2303,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2024-02-20 13:42:11 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2024-02-23 04:32:00 +0000"
     },
     "done": true
   },
