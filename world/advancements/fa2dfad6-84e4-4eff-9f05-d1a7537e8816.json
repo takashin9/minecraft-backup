@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-02-23 02:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-02-19 12:05:50 +0000"
@@ -356,6 +362,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2024-02-22 14:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-02-23 02:02:44 +0000"
     },
     "done": true
   },
@@ -1020,6 +1032,7 @@
       "minecraft:windswept_forest": "2024-02-20 06:11:27 +0000",
       "minecraft:jungle": "2024-02-19 07:35:41 +0000",
       "minecraft:ocean": "2024-02-20 06:08:26 +0000",
+      "minecraft:windswept_savanna": "2024-02-23 02:34:35 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-02-20 06:07:00 +0000",
       "minecraft:plains": "2024-02-20 06:12:35 +0000"
     },
@@ -1445,6 +1458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-02-23 02:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-02-21 12:47:40 +0000"
@@ -1663,6 +1682,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-02-20 13:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-02-23 02:02:44 +0000"
     },
     "done": true
   },
@@ -2332,6 +2357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-02-23 02:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 06:49:48 +0000"
@@ -2413,6 +2444,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-02-20 10:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-02-23 02:02:44 +0000"
     },
     "done": true
   },
