@@ -772,3 +772,7 @@
 [23Feb2024 14:29:45.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O left the game
 [23Feb2024 15:00:01.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [23Feb2024 15:00:01.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[23Feb2024 15:28:42.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[23Feb2024 15:28:42.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[23Feb2024 16:00:01.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[23Feb2024 16:00:01.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
