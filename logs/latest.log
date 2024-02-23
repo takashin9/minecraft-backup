@@ -767,3 +767,8 @@
 [23Feb2024 13:43:48.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has reached the goal [Burn the Gas]
 [23Feb2024 14:00:01.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [23Feb2024 14:00:01.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[23Feb2024 14:21:04.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has reached the goal [Cleaning Gauges]
+[23Feb2024 14:29:45.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mante2O lost connection: Disconnected
+[23Feb2024 14:29:45.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O left the game
+[23Feb2024 15:00:01.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[23Feb2024 15:00:01.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
