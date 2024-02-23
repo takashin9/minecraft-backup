@@ -4373,3 +4373,53 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Feb2024 13:00:01.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Feb2024 13:00:01.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
 [23Feb2024 13:00:20.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has made the advancement [Configure Everything]
+[23Feb2024 13:01:42.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2024 13:01:42.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2024 13:01:54.741] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:01:57.690] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:06:42.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2024 13:06:42.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2024 13:11:42.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2024 13:11:42.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2024 13:13:22.093] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:13:25.042] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:13:30.941] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:13:33.892] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:16:42.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2024 13:16:42.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2024 13:21:42.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2024 13:21:42.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2024 13:26:42.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2024 13:26:42.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2024 13:27:49.391] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:27:52.339] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:31:42.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2024 13:31:42.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2024 13:32:27.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> つよ
+[23Feb2024 13:35:32.540] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:35:35.492] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:36:42.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2024 13:36:42.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2024 13:37:39.393] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:37:42.341] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:41:42.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2024 13:41:42.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2024 13:43:48.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has reached the goal [Burn the Gas]
+[23Feb2024 13:45:25.055] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:45:37.295] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:45:52.046] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:45:54.996] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:46:42.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2024 13:46:42.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2024 13:46:45.142] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:46:48.091] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:49:24.442] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:49:27.393] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=-1291, y=63, z=312} World: minecraft:overworld
+[23Feb2024 13:51:42.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2024 13:51:42.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2024 13:56:42.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2024 13:56:42.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2024 14:00:01.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[23Feb2024 14:00:01.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2024 14:00:01.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2024 14:00:01.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
