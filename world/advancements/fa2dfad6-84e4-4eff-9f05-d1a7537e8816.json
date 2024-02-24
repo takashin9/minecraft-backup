@@ -794,6 +794,12 @@
     },
     "done": true
   },
+  "mekanism:running_free": {
+    "criteria": {
+      "free_runners": "2024-02-23 23:47:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-02-20 06:35:20 +0000"
@@ -1550,6 +1556,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2024-02-19 12:42:36 +0000"
+    },
+    "done": true
+  },
+  "mekanism:disassembler": {
+    "criteria": {
+      "atomic_disassembler": "2024-02-23 23:44:25 +0000"
     },
     "done": true
   },
@@ -2582,6 +2594,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-02-20 08:24:22 +0000"
+    },
+    "done": true
+  },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2024-02-23 23:46:40 +0000"
     },
     "done": true
   },
