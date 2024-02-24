@@ -1025,6 +1025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-02-24 16:04:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 06:49:48 +0000"
@@ -1292,6 +1298,12 @@
   "refinedstorage:recipes/refinedstorage/fluid_grid/lime_fluid_grid": {
     "criteria": {
       "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-02-24 16:04:57 +0000"
     },
     "done": true
   },
@@ -4707,6 +4719,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-02-24 16:16:35 +0000"
     },
     "done": true
   },

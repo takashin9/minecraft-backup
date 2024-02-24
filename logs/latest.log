@@ -609,3 +609,11 @@ java.lang.IllegalStateException: Unable to get Y-rotated facing of up
 [24Feb2024 15:53:47.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere has made the advancement [Configure Everything]
 [24Feb2024 16:00:01.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [24Feb2024 16:00:01.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[24Feb2024 16:13:33.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O hit the ground too hard
+[24Feb2024 16:25:52.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O fell from a high place
+[24Feb2024 16:29:36.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O has made the advancement [Hydrogen Powered Flight]
+[24Feb2024 16:30:28.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O hit the ground too hard whilst trying to escape Signiturere
+[24Feb2024 16:33:23.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O has made the advancement [Running Free]
+[24Feb2024 16:34:24.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere has made the advancement [Cover Me with Diamonds]
+[24Feb2024 17:00:01.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[24Feb2024 17:00:01.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game

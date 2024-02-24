@@ -679,6 +679,12 @@
     },
     "done": true
   },
+  "mekanism:running_free": {
+    "criteria": {
+      "free_runners": "2024-02-24 16:33:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-02-20 09:29:28 +0000"
@@ -2097,6 +2103,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-02-20 09:51:19 +0000"
+    },
+    "done": true
+  },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2024-02-24 16:29:36 +0000"
     },
     "done": true
   },
