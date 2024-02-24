@@ -7668,3 +7668,92 @@ java.lang.IllegalStateException: Unable to get Y-rotated facing of up
 [24Feb2024 20:00:02.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Feb2024 20:00:02.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Feb2024 20:00:02.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[24Feb2024 20:00:34.197] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=-1190, y=61, z=168}) is not Tags.Blocks.ORES.
+[24Feb2024 20:00:55.942] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=-1189, y=60, z=164}) is not Tags.Blocks.ORES.
+[24Feb2024 20:00:56.841] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=-1190, y=60, z=165}) is not Tags.Blocks.ORES.
+[24Feb2024 20:01:10.792] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=-1189, y=61, z=172}) is not Tags.Blocks.ORES.
+[24Feb2024 20:01:15.743] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1192, y=54, z=169}) is not Tags.Blocks.ORES.
+[24Feb2024 20:01:42.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2024 20:01:42.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2024 20:02:55.391] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=-1209, y=54, z=167}) is not Tags.Blocks.ORES.
+[24Feb2024 20:05:18.842] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=-1142, y=63, z=242} World: minecraft:overworld
+[24Feb2024 20:05:21.791] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=-1142, y=63, z=242} World: minecraft:overworld
+[24Feb2024 20:06:42.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2024 20:06:42.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2024 20:11:42.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2024 20:11:42.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2024 20:11:43.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mante2O lost connection: Disconnected
+[24Feb2024 20:11:43.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O left the game
+[24Feb2024 20:16:42.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2024 20:16:42.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2024 20:18:38.290] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=-1142, y=63, z=242} World: minecraft:overworld
+[24Feb2024 20:18:41.240] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=-1142, y=63, z=242} World: minecraft:overworld
+[24Feb2024 20:21:42.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2024 20:21:42.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2024 20:23:33.289] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=-1142, y=63, z=242} World: minecraft:overworld
+[24Feb2024 20:23:36.240] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=-1142, y=63, z=242} World: minecraft:overworld
+[24Feb2024 20:26:42.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2024 20:26:42.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2024 20:31:04.991] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=-1311, y=62, z=147}) is not Tags.Blocks.ORES.
+[24Feb2024 20:31:42.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2024 20:31:42.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2024 20:35:28.142] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1317, y=52, z=154}) is not Tags.Blocks.ORES.
+[24Feb2024 20:35:56.640] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:andesite}(pos=BlockPos{x=-1326, y=53, z=142}) is not Tags.Blocks.ORES.
+[24Feb2024 20:36:31.791] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1339, y=52, z=134}) is not Tags.Blocks.ORES.
+[24Feb2024 20:36:42.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2024 20:36:42.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2024 20:37:00.990] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:andesite}(pos=BlockPos{x=-1337, y=48, z=131}) is not Tags.Blocks.ORES.
+[24Feb2024 20:37:26.440] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1335, y=44, z=130}) is not Tags.Blocks.ORES.
+[24Feb2024 20:37:30.440] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1333, y=45, z=130}) is not Tags.Blocks.ORES.
+[24Feb2024 20:41:42.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2024 20:41:42.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2024 20:41:42.345] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=-1338, y=49, z=138}) is not Tags.Blocks.ORES.
+[24Feb2024 20:41:54.541] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:andesite}(pos=BlockPos{x=-1348, y=51, z=132}) is not Tags.Blocks.ORES.
+[24Feb2024 20:42:42.992] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1351, y=49, z=132}) is not Tags.Blocks.ORES.
+[24Feb2024 20:44:30.390] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=-1298, y=63, z=165}) is not Tags.Blocks.ORES.
+[24Feb2024 20:44:37.392] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1320, y=62, z=165}) is not Tags.Blocks.ORES.
+[24Feb2024 20:46:37.042] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1354, y=53, z=145}) is not Tags.Blocks.ORES.
+[24Feb2024 20:46:42.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2024 20:46:42.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2024 20:48:07.542] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=-1361, y=50, z=124}) is not Tags.Blocks.ORES.
+[24Feb2024 20:48:26.184] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-1253, y=63, z=312} changed running state to false, causing an invalidation of the node graph
+[24Feb2024 20:48:26.185] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.diskdrive.DiskDriveNetworkNode/]: Connectivity state of disk drive at BlockPos{x=-1253, y=64, z=312} changed to false due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[24Feb2024 20:48:26.185] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-1253, y=63, z=312} due to CONNECTED_STATE_CHANGED
+[24Feb2024 20:48:26.185] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-1253, y=63, z=312} due to CONNECTED_STATE_CHANGED
+[24Feb2024 20:48:32.435] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-1253, y=63, z=312} changed running state to true, causing an invalidation of the node graph
+[24Feb2024 20:48:32.436] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.diskdrive.DiskDriveNetworkNode/]: Connectivity state of disk drive at BlockPos{x=-1253, y=64, z=312} changed to true due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[24Feb2024 20:48:32.436] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-1253, y=63, z=312} due to CONNECTED_STATE_CHANGED
+[24Feb2024 20:48:32.436] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-1253, y=63, z=312} due to CONNECTED_STATE_CHANGED
+[24Feb2024 20:48:40.085] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:andesite}(pos=BlockPos{x=-1357, y=52, z=119}) is not Tags.Blocks.ORES.
+[24Feb2024 20:48:42.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[24Feb2024 20:49:07.634] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-1253, y=63, z=312} changed running state to false, causing an invalidation of the node graph
+[24Feb2024 20:49:07.634] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.diskdrive.DiskDriveNetworkNode/]: Connectivity state of disk drive at BlockPos{x=-1253, y=64, z=312} changed to false due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[24Feb2024 20:49:07.634] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-1253, y=63, z=312} due to CONNECTED_STATE_CHANGED
+[24Feb2024 20:49:07.634] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-1253, y=63, z=312} due to CONNECTED_STATE_CHANGED
+[24Feb2024 20:49:23.585] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-1253, y=63, z=312} changed running state to true, causing an invalidation of the node graph
+[24Feb2024 20:49:23.585] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.diskdrive.DiskDriveNetworkNode/]: Connectivity state of disk drive at BlockPos{x=-1253, y=64, z=312} changed to true due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[24Feb2024 20:49:23.585] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-1253, y=63, z=312} due to CONNECTED_STATE_CHANGED
+[24Feb2024 20:49:23.585] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-1253, y=63, z=312} due to CONNECTED_STATE_CHANGED
+[24Feb2024 20:49:25.185] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-1253, y=63, z=312} changed running state to false, causing an invalidation of the node graph
+[24Feb2024 20:49:25.185] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.diskdrive.DiskDriveNetworkNode/]: Connectivity state of disk drive at BlockPos{x=-1253, y=64, z=312} changed to false due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[24Feb2024 20:49:25.186] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-1253, y=63, z=312} due to CONNECTED_STATE_CHANGED
+[24Feb2024 20:49:25.186] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-1253, y=63, z=312} due to CONNECTED_STATE_CHANGED
+[24Feb2024 20:49:43.985] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-1253, y=63, z=312} changed running state to true, causing an invalidation of the node graph
+[24Feb2024 20:49:43.985] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.diskdrive.DiskDriveNetworkNode/]: Connectivity state of disk drive at BlockPos{x=-1253, y=64, z=312} changed to true due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[24Feb2024 20:49:43.986] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-1253, y=63, z=312} due to CONNECTED_STATE_CHANGED
+[24Feb2024 20:49:43.986] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-1253, y=63, z=312} due to CONNECTED_STATE_CHANGED
+[24Feb2024 20:51:25.990] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:andesite}(pos=BlockPos{x=-1328, y=45, z=132}) is not Tags.Blocks.ORES.
+[24Feb2024 20:51:44.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2024 20:51:44.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2024 20:52:40.542] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:diorite}(pos=BlockPos{x=-1324, y=40, z=138}) is not Tags.Blocks.ORES.
+[24Feb2024 20:52:57.040] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1326, y=35, z=142}) is not Tags.Blocks.ORES.
+[24Feb2024 20:52:59.540] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1322, y=35, z=143}) is not Tags.Blocks.ORES.
+[24Feb2024 20:56:27.240] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=-1142, y=63, z=242} World: minecraft:overworld
+[24Feb2024 20:56:36.441] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=-1142, y=63, z=242} World: minecraft:overworld
+[24Feb2024 20:56:44.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2024 20:56:44.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2024 20:59:05.890] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:andesite}(pos=BlockPos{x=-1329, y=27, z=147}) is not Tags.Blocks.ORES.
+[24Feb2024 21:00:01.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[24Feb2024 21:00:01.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2024 21:00:01.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2024 21:00:01.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
