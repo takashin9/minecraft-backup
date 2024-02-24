@@ -28,3 +28,39 @@
 [24Feb2024 02:00:01.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
 [24Feb2024 03:00:01.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [24Feb2024 03:00:01.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[24Feb2024 03:06:34.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[24Feb2024 03:06:34.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[24Feb2024 03:06:34.842] [Server thread/ERROR] [mekanism.common.Mekanism/]: Stack size changed by a different amount (3990) than requested (3994).
+java.lang.Exception: null
+	at mekanism.common.util.MekanismUtils.logMismatchedStackSize(MekanismUtils.java:126) ~[Mekanism-1.19.2-10.3.9.13.jar%23109!/:10.3.9]
+	at mekanism.common.content.network.transmitter.BoxedPressurizedTube.takeShare(BoxedPressurizedTube.java:313) ~[Mekanism-1.19.2-10.3.9.13.jar%23109!/:10.3.9]
+	at mekanism.common.tile.transmitter.TileEntityTransmitter.chunkAccessibilityChange(TileEntityTransmitter.java:194) ~[Mekanism-1.19.2-10.3.9.13.jar%23109!/:10.3.9]
+	at mekanism.common.lib.transmitter.TransmitterNetworkRegistry.handleChangedChunks(TransmitterNetworkRegistry.java:183) ~[Mekanism-1.19.2-10.3.9.13.jar%23109!/:10.3.9]
+	at mekanism.common.lib.transmitter.TransmitterNetworkRegistry.onTick(TransmitterNetworkRegistry.java:130) ~[Mekanism-1.19.2-10.3.9.13.jar%23109!/:10.3.9]
+	at mekanism.common.lib.transmitter.__TransmitterNetworkRegistry_onTick_ServerTickEvent.invoke(.dynamic) ~[Mekanism-1.19.2-10.3.9.13.jar%23109!/:10.3.9]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPostServerTick(ForgeEventFactory.java:849) ~[forge-1.19.2-43.3.0-universal.jar%23120!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:843) ~[server-1.19.2-20220805.130853-srg.jar%23115!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23115!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23115!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[24Feb2024 03:06:34.844] [Server thread/ERROR] [mekanism.common.Mekanism/]: Stack size changed by a different amount (2703) than requested (2798).
+java.lang.Exception: null
+	at mekanism.common.util.MekanismUtils.logMismatchedStackSize(MekanismUtils.java:126) ~[Mekanism-1.19.2-10.3.9.13.jar%23109!/:10.3.9]
+	at mekanism.common.content.network.transmitter.BoxedPressurizedTube.takeShare(BoxedPressurizedTube.java:313) ~[Mekanism-1.19.2-10.3.9.13.jar%23109!/:10.3.9]
+	at mekanism.common.tile.transmitter.TileEntityTransmitter.chunkAccessibilityChange(TileEntityTransmitter.java:194) ~[Mekanism-1.19.2-10.3.9.13.jar%23109!/:10.3.9]
+	at mekanism.common.lib.transmitter.TransmitterNetworkRegistry.handleChangedChunks(TransmitterNetworkRegistry.java:183) ~[Mekanism-1.19.2-10.3.9.13.jar%23109!/:10.3.9]
+	at mekanism.common.lib.transmitter.TransmitterNetworkRegistry.onTick(TransmitterNetworkRegistry.java:130) ~[Mekanism-1.19.2-10.3.9.13.jar%23109!/:10.3.9]
+	at mekanism.common.lib.transmitter.__TransmitterNetworkRegistry_onTick_ServerTickEvent.invoke(.dynamic) ~[Mekanism-1.19.2-10.3.9.13.jar%23109!/:10.3.9]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPostServerTick(ForgeEventFactory.java:849) ~[forge-1.19.2-43.3.0-universal.jar%23120!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:843) ~[server-1.19.2-20220805.130853-srg.jar%23115!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23115!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23115!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[24Feb2024 04:00:01.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[24Feb2024 04:00:01.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
