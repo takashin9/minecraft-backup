@@ -1457,15 +1457,15 @@
     },
     "done": true
   },
-  "refinedstorage:recipes/refinedstorage/pattern_grid/brown_pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/black_crafter": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/pattern_grid/brown_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
     },
     "done": true
   },
@@ -2246,6 +2246,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2024-02-19 12:14:49 +0000"
+    },
+    "done": true
+  },
+  "mekanism:simple_mass_storage": {
+    "criteria": {
+      "basic_bin": "2024-02-24 10:36:32 +0000"
     },
     "done": true
   },
@@ -3906,6 +3912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-02-24 10:41:29 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
@@ -4221,6 +4233,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-02-21 14:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-02-24 10:41:29 +0000"
     },
     "done": true
   },
