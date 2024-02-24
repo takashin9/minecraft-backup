@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2024-02-24 00:06:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-02-21 11:37:49 +0000"
@@ -582,6 +588,7 @@
       "minecraft:spider": "2024-02-19 12:05:43 +0000",
       "minecraft:creeper": "2024-02-23 04:45:37 +0000",
       "minecraft:phantom": "2024-02-23 01:22:45 +0000",
+      "minecraft:zombified_piglin": "2024-02-24 00:07:12 +0000",
       "minecraft:husk": "2024-02-23 04:46:23 +0000",
       "minecraft:cave_spider": "2024-02-22 15:04:59 +0000",
       "minecraft:piglin": "2024-02-23 06:24:33 +0000",
@@ -866,6 +873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-02-24 00:48:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-02-22 14:19:19 +0000"
@@ -911,6 +924,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2024-02-19 11:54:20 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:solar_generator": {
+    "criteria": {
+      "solar_generator": "2024-02-24 01:44:52 +0000"
     },
     "done": true
   },
@@ -1487,6 +1506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2024-02-24 00:06:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-02-21 13:09:50 +0000"
@@ -1508,6 +1533,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-02-20 06:21:48 +0000"
+    },
+    "done": true
+  },
+  "mekanism:installer": {
+    "criteria": {
+      "installer": "2024-02-24 00:46:04 +0000"
     },
     "done": true
   },
@@ -1784,6 +1815,12 @@
   "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2024-02-23 04:32:19 +0000"
+    },
+    "done": true
+  },
+  "mekanism:stone_generator": {
+    "criteria": {
+      "upgrade_stone_generator": "2024-02-24 00:06:22 +0000"
     },
     "done": true
   },
@@ -2180,6 +2217,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-02-21 11:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-02-24 00:48:07 +0000"
     },
     "done": true
   },

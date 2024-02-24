@@ -10,3 +10,19 @@
 [24Feb2024 00:00:23.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1216, y=63, z=167}
 [24Feb2024 00:00:23.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1216, y=63, z=167}
 [24Feb2024 00:00:23.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1216, y=63, z=167}
+[24Feb2024 00:03:21.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1228, y=66, z=181} BlockPos{x=-1229, y=65, z=180}
+[24Feb2024 00:03:21.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1228, y=66, z=181} BlockPos{x=-1229, y=65, z=180}
+[24Feb2024 00:03:21.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1228, y=66, z=181} BlockPos{x=-1229, y=65, z=180}
+[24Feb2024 00:03:31.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1224, y=65, z=181} BlockPos{x=-1225, y=65, z=180}
+[24Feb2024 00:06:22.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has made the advancement [Replace With Stone]
+[24Feb2024 00:40:10.748] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player souta21054 is d16a56eb-4bde-4352-8b69-4bc9cc4e8923
+[24Feb2024 00:40:12.799] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3ed7dd30
+[24Feb2024 00:40:12.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: souta21054[/110.134.160.253:56419] logged in with entity id 243234 at (-1257.7452100277064, 64.0, 315.76249998807907)
+[24Feb2024 00:40:12.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 joined the game
+[24Feb2024 01:00:01.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[24Feb2024 01:00:01.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[24Feb2024 01:11:55.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> energy cube de degital miner motihakobi dekiru youni natta
+[24Feb2024 01:17:51.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: souta21054 lost connection: Disconnected
+[24Feb2024 01:17:51.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 left the game
+[24Feb2024 02:00:01.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[24Feb2024 02:00:01.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
