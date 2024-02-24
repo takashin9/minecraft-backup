@@ -64,3 +64,18 @@ java.lang.Exception: null
 	at java.lang.Thread.run(Thread.java:840) [?:?]
 [24Feb2024 04:00:01.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [24Feb2024 04:00:01.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[24Feb2024 04:50:38.968] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[24Feb2024 04:50:40.986] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@231e782c
+[24Feb2024 04:50:40.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:6910] logged in with entity id 274173 at (-1246.78450858621, 63.0, 304.01110285493684)
+[24Feb2024 04:50:41.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[24Feb2024 04:55:33.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has made the advancement [Refined Storage]
+[24Feb2024 05:00:01.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[24Feb2024 05:00:01.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[24Feb2024 05:02:51.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has made the advancement [Viewing items]
+[24Feb2024 05:03:08.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has made the advancement [Upgrading your Grid]
+[24Feb2024 05:04:42.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has made the advancement [Drives]
+[24Feb2024 05:05:50.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has made the advancement [Storing items]
+[24Feb2024 05:30:14.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[24Feb2024 05:30:14.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[24Feb2024 06:00:01.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[24Feb2024 06:00:01.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game

@@ -1,31 +1,19 @@
 {
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2024-02-20 06:41:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2024-02-20 06:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-02-20 14:43:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2024-02-22 08:09:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-02-19 15:59:00 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -53,45 +41,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-02-23 14:20:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2024-02-21 13:28:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 06:49:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-02-20 14:43:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2024-02-22 17:35:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-02-19 12:05:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2024-02-19 12:41:33 +0000"
     },
     "done": true
   },
@@ -101,21 +53,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_fluid_grid": {
     "criteria": {
-      "has_planks": "2024-02-19 11:53:28 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-02-21 13:09:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-02-20 14:43:19 +0000"
     },
     "done": true
   },
@@ -149,33 +101,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2024-02-22 06:11:03 +0000"
-    },
-    "done": true
-  },
   "mekanism:energy_cube": {
     "criteria": {
       "basic_energy_cube": "2024-02-23 05:49:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-02-19 11:57:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2024-02-21 11:41:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-02-22 06:30:12 +0000"
     },
     "done": true
   },
@@ -185,9 +113,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_crafter": {
     "criteria": {
-      "has_stick": "2024-02-19 11:51:21 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -197,15 +131,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/shears": {
+  "refinedstorage:recipes/refinedstorage/pattern_grid/green_pattern_grid": {
     "criteria": {
-      "has_iron_ingot": "2024-02-20 06:49:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2024-02-19 11:53:28 +0000"
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
     },
     "done": true
   },
@@ -215,33 +143,39 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-02-22 06:30:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_hoe_smithing": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/red_grid": {
     "criteria": {
-      "has_netherite_ingot": "2024-02-23 06:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2024-02-20 06:21:51 +0000"
-    },
-    "done": true
-  },
-  "mekanismtools:better_than_netherite": {
-    "criteria": {
-      "armor": "2024-02-23 05:19:26 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-02-19 12:36:31 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -260,12 +194,6 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 06:49:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2024-02-19 15:59:00 +0000"
     },
     "done": true
   },
@@ -293,27 +221,21 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-02-21 12:47:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-02-19 12:40:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-02-19 12:05:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
-    "criteria": {
-      "has_nether_gold_ore": "2024-02-24 00:06:53 +0000"
     },
     "done": true
   },
@@ -335,6 +257,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/orange_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-02-19 12:05:50 +0000"
@@ -347,27 +275,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_security_manager": {
     "criteria": {
-      "has_book": "2024-02-20 06:21:48 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/black_crafting_monitor": {
     "criteria": {
-      "has_glass": "2024-02-20 14:43:19 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_pattern_grid": {
     "criteria": {
-      "has_stone": "2024-02-22 06:30:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-02-21 11:34:15 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -380,24 +302,6 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-02-20 08:23:57 +0000"
-    },
-    "done": true
-  },
-  "mekanism:chemical_transport": {
-    "criteria": {
-      "basic_pressurized_tube": "2024-02-23 13:22:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-02-19 12:40:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2024-02-21 11:41:56 +0000"
     },
     "done": true
   },
@@ -419,33 +323,21 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/red_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
   "mekanism:purification_chamber": {
     "criteria": {
       "purification_chamber": "2024-02-22 11:07:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2024-02-21 12:24:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-02-21 11:38:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-02-19 12:05:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-02-19 12:43:00 +0000"
     },
     "done": true
   },
@@ -467,21 +359,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-02-19 15:59:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/turtle_helmet": {
-    "criteria": {
-      "has_scute": "2024-02-22 06:06:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2024-02-22 13:53:31 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -491,45 +377,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2024-02-19 11:53:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-02-20 08:23:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-02-19 11:56:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-02-20 06:35:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2024-02-20 06:49:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2024-02-22 16:04:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-02-19 11:57:49 +0000"
     },
     "done": true
   },
@@ -539,21 +389,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/network_transmitter": {
     "criteria": {
-      "has_bed": "2024-02-21 11:34:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-02-19 12:05:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2024-02-19 12:14:49 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -563,73 +401,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_crafting_grid": {
     "criteria": {
-      "has_string": "2024-02-20 06:41:31 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_pattern_grid": {
     "criteria": {
-      "has_diamond": "2024-02-21 11:38:06 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lightning_rod": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/white_crafting_grid": {
     "criteria": {
-      "has_copper_ingot": "2024-02-20 06:55:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2024-02-19 11:58:30 +0000",
-      "minecraft:hoglin": "2024-02-23 06:29:24 +0000",
-      "minecraft:spider": "2024-02-19 12:05:43 +0000",
-      "minecraft:creeper": "2024-02-23 04:45:37 +0000",
-      "minecraft:phantom": "2024-02-23 01:22:45 +0000",
-      "minecraft:zombified_piglin": "2024-02-24 00:07:12 +0000",
-      "minecraft:husk": "2024-02-23 04:46:23 +0000",
-      "minecraft:cave_spider": "2024-02-22 15:04:59 +0000",
-      "minecraft:piglin": "2024-02-23 06:24:33 +0000",
-      "minecraft:zombie": "2024-02-20 06:14:16 +0000",
-      "minecraft:zombie_villager": "2024-02-20 09:59:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2024-02-23 06:32:06 +0000"
-    },
-    "done": true
-  },
-  "mekanism:root": {
-    "criteria": {
-      "automatic": "2024-02-19 07:35:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2024-02-22 14:58:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2024-02-20 14:20:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_banner": {
-    "criteria": {
-      "has_yellow_wool": "2024-02-21 13:23:05 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
   "mekanism:injection_chamber": {
     "criteria": {
       "chemical_injection_chamber": "2024-02-23 14:15:26 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/white_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -651,33 +449,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-02-23 14:20:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-02-20 14:43:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-02-21 11:34:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-02-19 12:36:44 +0000"
-    },
-    "done": true
-  },
-  "mekanism:materials": {
-    "criteria": {
-      "material": "2024-02-20 06:50:08 +0000"
     },
     "done": true
   },
@@ -693,21 +467,9 @@
     },
     "done": true
   },
-  "mekanismgenerators:wind_generator": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_crafter": {
     "criteria": {
-      "wind_generator": "2024-02-21 11:46:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-02-20 08:24:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_ingot": "2024-02-20 06:49:48 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -717,15 +479,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_bed": {
-    "criteria": {
-      "has_yellow_wool": "2024-02-21 13:23:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-02-23 06:41:14 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -735,15 +497,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/red_controller": {
     "criteria": {
-      "has_planks": "2024-02-19 11:53:28 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_network_receiver": {
     "criteria": {
-      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -777,33 +539,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_crafter_manager": {
     "criteria": {
-      "has_coal_ore": "2024-02-23 06:04:23 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_network_receiver": {
     "criteria": {
-      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_pattern_grid": {
     "criteria": {
-      "has_deepslate_redstone_ore": "2024-02-23 04:32:19 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "mekanism:fluid_transport": {
+  "refinedstorage:recipes/refinedstorage/pattern_grid/gray_pattern_grid": {
     "criteria": {
-      "basic_mechanical_pipe": "2024-02-23 13:05:35 +0000"
-    },
-    "done": true
-  },
-  "mekanism:running_free": {
-    "criteria": {
-      "free_runners": "2024-02-23 23:47:36 +0000"
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
     },
     "done": true
   },
@@ -813,9 +569,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/black_pattern_grid": {
     "criteria": {
-      "has_porkchop": "2024-02-23 06:56:48 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -831,27 +593,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_detector": {
     "criteria": {
-      "has_planks": "2024-02-19 12:14:49 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_wool": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_crafter_manager": {
     "criteria": {
-      "has_white_wool": "2024-02-21 13:09:50 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_chestplate": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_crafting_grid": {
     "criteria": {
-      "has_gold_ingot": "2024-02-21 11:41:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2024-02-20 06:30:55 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -873,15 +629,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_network_receiver": {
     "criteria": {
-      "has_diamond_ore": "2024-02-24 00:48:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2024-02-22 14:19:19 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -891,15 +641,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/black_detector": {
     "criteria": {
-      "has_glass_pane": "2024-02-23 14:20:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_iron_ingot": "2024-02-20 06:49:48 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -915,9 +659,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
+  "refinedstorage:recipes/refinedstorage/crafting_grid/brown_crafting_grid": {
     "criteria": {
-      "has_poppy": "2024-02-22 07:46:43 +0000"
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -927,27 +677,15 @@
     },
     "done": true
   },
-  "mekanismgenerators:solar_generator": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/green_network_transmitter": {
     "criteria": {
-      "solar_generator": "2024-02-24 01:44:52 +0000"
-    },
-    "done": true
-  },
-  "mekanismgenerators:heat_generator": {
-    "criteria": {
-      "heat_generator": "2024-02-20 06:55:49 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-02-23 06:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-02-21 14:23:20 +0000"
     },
     "done": true
   },
@@ -963,33 +701,15 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2024-02-21 13:09:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2024-02-19 11:51:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-02-19 11:51:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-02-19 12:05:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2024-02-21 13:10:04 +0000"
     },
     "done": true
   },
@@ -1005,15 +725,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_axe": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/red_network_transmitter": {
     "criteria": {
-      "has_iron_ingot": "2024-02-20 06:49:48 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
+  "refinedstorage:recipes/refinedstorage/pattern_grid/blue_pattern_grid": {
     "criteria": {
-      "has_boat": "2024-02-19 12:40:05 +0000"
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
     },
     "done": true
   },
@@ -1023,9 +743,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_wireless_transmitter": {
     "criteria": {
-      "has_string": "2024-02-20 06:41:31 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1041,21 +761,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2024-02-19 11:58:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-02-22 14:58:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-02-19 12:05:50 +0000"
     },
     "done": true
   },
@@ -1065,45 +773,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/black_relay": {
     "criteria": {
-      "has_paper": "2024-02-22 11:44:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-02-20 13:42:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-02-22 16:04:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2024-02-22 06:30:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_stick": "2024-02-19 11:51:21 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 06:49:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_wool": {
-    "criteria": {
-      "has_white_wool": "2024-02-21 13:09:50 +0000"
     },
     "done": true
   },
@@ -1119,12 +797,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2024-02-23 06:56:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-02-19 11:53:28 +0000"
@@ -1134,12 +806,6 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-02-20 08:24:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-02-20 09:04:53 +0000"
     },
     "done": true
   },
@@ -1161,15 +827,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_relay": {
     "criteria": {
-      "has_iron_pickaxe": "2024-02-22 14:10:55 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_crafter": {
     "criteria": {
-      "minecraft:skeleton": "2024-02-19 11:58:30 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1179,27 +845,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2024-02-20 09:04:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2024-02-21 13:04:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone": {
+  "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "has_cobblestone": "2024-02-19 15:59:00 +0000"
+      "has_slime_ball": "2024-02-24 04:52:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stonecutter": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_relay": {
     "criteria": {
-      "has_stone": "2024-02-22 06:30:12 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1208,27 +874,6 @@
       "advanced_control_circuit": "2024-02-22 11:06:34 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:sunflower_plains": "2024-02-20 06:13:28 +0000",
-      "minecraft:birch_forest": "2024-02-20 06:11:20 +0000",
-      "minecraft:beach": "2024-02-19 07:53:01 +0000",
-      "minecraft:sparse_jungle": "2024-02-19 12:40:46 +0000",
-      "minecraft:lukewarm_ocean": "2024-02-19 11:59:05 +0000",
-      "minecraft:river": "2024-02-19 11:56:56 +0000",
-      "minecraft:stony_shore": "2024-02-22 11:54:05 +0000",
-      "minecraft:forest": "2024-02-20 06:11:08 +0000",
-      "minecraft:desert": "2024-02-19 12:42:00 +0000",
-      "minecraft:windswept_forest": "2024-02-20 06:11:27 +0000",
-      "minecraft:jungle": "2024-02-19 07:35:41 +0000",
-      "minecraft:ocean": "2024-02-20 06:08:26 +0000",
-      "minecraft:windswept_savanna": "2024-02-23 02:34:35 +0000",
-      "minecraft:warm_ocean": "2024-02-23 04:45:10 +0000",
-      "minecraft:deep_lukewarm_ocean": "2024-02-20 06:07:00 +0000",
-      "minecraft:plains": "2024-02-20 06:12:35 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
@@ -1242,27 +887,27 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-02-19 15:59:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2024-02-21 13:10:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-02-19 11:53:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-02-19 15:59:00 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1284,15 +929,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smithing_table": {
+  "refinedstorage:recipes/refinedstorage/crafting_grid/gray_crafting_grid": {
     "criteria": {
-      "has_iron_ingot": "2024-02-20 06:49:48 +0000"
-    },
-    "done": true
-  },
-  "mekanism:enricher": {
-    "criteria": {
-      "enrichment_chamber": "2024-02-20 14:48:29 +0000"
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
     },
     "done": true
   },
@@ -1314,45 +953,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2024-02-21 14:37:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2024-02-22 06:30:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2024-02-22 08:34:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-02-23 14:20:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_controller": {
     "criteria": {
-      "has_cobblestone": "2024-02-19 15:59:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-02-23 06:40:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2024-02-22 08:09:52 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1368,9 +977,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/fluid_grid": {
     "criteria": {
-      "has_diamond": "2024-02-21 11:38:06 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1392,27 +1007,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_carpet": {
-    "criteria": {
-      "has_yellow_wool": "2024-02-21 13:23:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-02-23 14:20:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 06:49:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2024-02-19 12:17:15 +0000"
     },
     "done": true
   },
@@ -1421,18 +1018,6 @@
       "minecraft:crimson_forest": "2024-02-23 06:21:34 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2024-02-20 13:42:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2024-02-19 12:17:40 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -1446,33 +1031,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall": {
-    "criteria": {
-      "has_andesite": "2024-02-20 08:23:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2024-02-21 13:09:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-02-23 14:20:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab": {
-    "criteria": {
-      "has_andesite": "2024-02-20 08:23:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-02-21 11:34:15 +0000"
     },
     "done": true
   },
@@ -1494,15 +1055,21 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-02-20 06:30:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_pattern_grid": {
     "criteria": {
-      "has_soul_sand": "2024-02-22 13:52:48 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1518,51 +1085,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-02-19 15:59:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-02-19 12:05:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
+  "refinedstorage:recipes/refinedstorage/pattern_grid/purple_pattern_grid": {
     "criteria": {
-      "has_book": "2024-02-20 06:21:48 +0000"
-    },
-    "done": true
-  },
-  "mekanism:installer": {
-    "criteria": {
-      "installer": "2024-02-24 00:46:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2024-02-19 12:44:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-02-20 08:23:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2024-02-21 13:09:50 +0000"
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-02-22 08:09:52 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1584,21 +1127,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2024-02-19 12:42:36 +0000"
-    },
-    "done": true
-  },
   "mekanism:disassembler": {
     "criteria": {
       "atomic_disassembler": "2024-02-23 23:44:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_wireless_transmitter": {
     "criteria": {
-      "has_planks": "2024-02-22 16:04:17 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1608,45 +1145,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/candle": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_fluid_grid": {
     "criteria": {
-      "has_string": "2024-02-20 06:41:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2024-02-20 14:20:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2024-02-21 11:41:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2024-02-19 12:42:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-02-20 09:04:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2024-02-22 06:30:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
-    "criteria": {
-      "has_deepslate_lapis_ore": "2024-02-23 01:28:30 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1668,21 +1169,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_ancient_debris": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_crafting_grid": {
     "criteria": {
-      "ancient_debris": "2024-02-23 06:32:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-02-21 11:34:15 +0000"
-    },
-    "done": true
-  },
-  "mekanism:dictionary": {
-    "criteria": {
-      "dictionary": "2024-02-23 06:33:55 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1728,9 +1217,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "refinedstorage:recipes/refinedstorage/crafting_grid/lime_crafting_grid": {
     "criteria": {
-      "in_water": "2024-02-19 11:56:31 +0000"
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
     },
     "done": true
   },
@@ -1746,12 +1235,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2024-02-23 02:02:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-02-21 12:47:40 +0000"
@@ -1764,27 +1247,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_pattern_grid": {
     "criteria": {
-      "has_gunpowder": "2024-02-20 13:52:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
-    "criteria": {
-      "has_deepslate_gold_ore": "2024-02-23 05:22:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_wool": {
-    "criteria": {
-      "has_white_wool": "2024-02-21 13:09:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-02-20 08:24:22 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1800,27 +1265,21 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_pattern_grid": {
     "criteria": {
-      "cooked_porkchop": "2024-02-21 11:27:46 +0000",
-      "apple": "2024-02-19 11:57:28 +0000",
-      "bread": "2024-02-20 06:51:15 +0000",
-      "cookie": "2024-02-23 14:28:13 +0000",
-      "melon_slice": "2024-02-19 12:37:18 +0000",
-      "cooked_chicken": "2024-02-21 14:14:08 +0000",
-      "carrot": "2024-02-20 10:12:43 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
-    "criteria": {
-      "has_deepslate_redstone_ore": "2024-02-23 04:32:19 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "mekanism:stone_generator": {
+  "refinedstorage:recipes/refinedstorage/fluid_grid/lime_fluid_grid": {
     "criteria": {
-      "upgrade_stone_generator": "2024-02-24 00:06:22 +0000"
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1842,39 +1301,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-02-23 06:41:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 06:49:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_button": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_crafting_monitor": {
     "criteria": {
-      "has_planks": "2024-02-19 12:14:49 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "mekanism:infusing_efficiency": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_crafter_manager": {
     "criteria": {
-      "enriched_material": "2024-02-20 14:56:47 +0000"
-    },
-    "done": true
-  },
-  "mekanism:stabilizing_chunks": {
-    "criteria": {
-      "upgrade_anchor": "2024-02-23 06:46:22 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2024-02-19 15:59:00 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1890,12 +1331,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2024-02-22 16:04:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-02-20 13:42:11 +0000"
@@ -1908,27 +1343,33 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/green_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-02-20 08:24:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_fluid_grid": {
     "criteria": {
-      "has_redstone": "2024-02-20 14:20:44 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-02-21 13:09:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-02-23 14:20:27 +0000"
     },
     "done": true
   },
@@ -1944,15 +1385,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_controller": {
     "criteria": {
-      "has_diorite": "2024-02-20 09:04:53 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "mekanismtools:alternate_tools": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/black_disk_manipulator": {
     "criteria": {
-      "tools": "2024-02-23 04:31:34 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1962,15 +1403,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_wireless_transmitter": {
     "criteria": {
-      "has_wheat": "2024-02-19 12:42:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2024-02-22 08:34:58 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -1998,9 +1433,9 @@
     },
     "done": true
   },
-  "mekanism:logistical_sorter": {
+  "refinedstorage:recipes/refinedstorage/crafting_grid/cyan_crafting_grid": {
     "criteria": {
-      "logistical_sorter": "2024-02-22 16:15:04 +0000"
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
     },
     "done": true
   },
@@ -2010,33 +1445,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2024-02-20 13:52:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-02-20 13:42:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/red_detector": {
     "criteria": {
-      "has_quartz": "2024-02-23 02:02:44 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+  "refinedstorage:recipes/refinedstorage/pattern_grid/brown_pattern_grid": {
     "criteria": {
-      "has_sand": "2024-02-19 12:05:50 +0000"
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/black_crafter": {
     "criteria": {
-      "has_smooth_stone": "2024-02-22 05:45:06 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2052,18 +1487,6 @@
     },
     "done": true
   },
-  "mekanism:configurator": {
-    "criteria": {
-      "configurator": "2024-02-23 13:00:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-02-19 12:40:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-02-21 11:38:06 +0000"
@@ -2076,9 +1499,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/white_disk_manipulator": {
     "criteria": {
-      "has_hay_block": "2024-02-19 12:44:12 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2097,6 +1520,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-02-20 06:21:27 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/black_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2136,12 +1565,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-02-19 11:57:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-02-20 14:20:44 +0000"
@@ -2151,12 +1574,6 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-02-21 13:28:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-02-19 11:56:31 +0000"
     },
     "done": true
   },
@@ -2178,6 +1595,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/pattern_grid/light_gray_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-02-20 08:24:22 +0000"
@@ -2190,12 +1613,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2024-02-22 13:42:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-02-20 08:23:57 +0000"
@@ -2205,6 +1622,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 06:49:48 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2024-02-24 05:03:08 +0000"
     },
     "done": true
   },
@@ -2226,6 +1649,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-02-22 08:34:58 +0000"
@@ -2238,12 +1667,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2024-02-19 15:59:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-02-20 14:20:44 +0000"
@@ -2253,24 +1676,6 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-02-20 06:14:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2024-02-21 11:38:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2024-02-21 11:38:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2024-02-21 13:04:59 +0000"
     },
     "done": true
   },
@@ -2292,27 +1697,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-02-22 14:19:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2024-02-20 08:24:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-02-20 06:14:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2024-02-21 13:09:50 +0000"
     },
     "done": true
   },
@@ -2322,9 +1709,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_wireless_transmitter": {
     "criteria": {
-      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2334,21 +1721,27 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/yellow_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-02-22 16:04:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_chest_boat": {
+  "refinedstorage:recipes/refinedstorage/crafting_grid/black_crafting_grid": {
     "criteria": {
-      "has_boat": "2024-02-19 12:40:05 +0000"
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glass_pane": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_security_manager": {
     "criteria": {
-      "has_glass": "2024-02-20 14:43:19 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2358,15 +1751,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_crafting_monitor": {
     "criteria": {
-      "has_glass": "2024-02-20 14:43:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2024-02-21 11:38:06 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2376,9 +1763,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_fluid_grid": {
     "criteria": {
-      "has_granite": "2024-02-20 08:24:22 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2388,15 +1775,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_controller": {
     "criteria": {
-      "in_water": "2024-02-19 11:56:31 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_crafting_monitor": {
     "criteria": {
-      "has_iron_block": "2024-02-21 14:08:04 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2418,9 +1805,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/white_detector": {
     "criteria": {
-      "has_sand": "2024-02-19 12:05:50 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2436,9 +1823,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+  "refinedstorage:recipes/refinedstorage/fluid_grid/green_fluid_grid": {
     "criteria": {
-      "has_smooth_stone": "2024-02-22 05:45:06 +0000"
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
     },
     "done": true
   },
@@ -2448,21 +1835,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_wool": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_detector": {
     "criteria": {
-      "has_white_wool": "2024-02-21 13:09:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2024-02-19 11:57:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-02-20 09:04:53 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2478,39 +1853,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "refinedstorage:recipes/refinedstorage/pattern_grid/pink_pattern_grid": {
     "criteria": {
-      "has_string": "2024-02-20 06:41:31 +0000"
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_wool": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/black_fluid_grid": {
     "criteria": {
-      "has_white_wool": "2024-02-21 13:09:50 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/white_relay": {
     "criteria": {
-      "has_diamond": "2024-02-21 11:38:06 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_security_manager": {
     "criteria": {
-      "has_stone_bricks": "2024-02-21 13:28:22 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_wool": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/white_controller": {
     "criteria": {
-      "has_white_wool": "2024-02-21 13:09:50 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_detector": {
     "criteria": {
-      "has_coal_ore": "2024-02-23 06:04:23 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2520,15 +1895,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2024-02-19 12:17:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-02-23 06:41:14 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/green_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2538,39 +1913,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-02-20 14:43:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coal_from_blasting_deepslate_coal_ore": {
     "criteria": {
       "has_deepslate_coal_ore": "2024-02-23 06:13:53 +0000"
-    },
-    "done": true
-  },
-  "mekanism:cleaning_gauges": {
-    "criteria": {
-      "use_dropper": "2024-02-23 14:21:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2024-02-21 14:43:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-02-22 14:19:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-02-20 08:23:57 +0000"
     },
     "done": true
   },
@@ -2586,15 +1931,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
+  "refinedstorage:recipes/refinedstorage/fluid_grid/brown_fluid_grid": {
     "criteria": {
-      "has_coal": "2024-02-20 06:19:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2024-02-21 11:41:56 +0000"
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
     },
     "done": true
   },
@@ -2604,21 +1943,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_pattern_grid": {
     "criteria": {
-      "has_cobblestone": "2024-02-19 15:59:00 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-02-19 12:05:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2024-02-20 09:04:53 +0000"
     },
     "done": true
   },
@@ -2640,9 +1979,9 @@
     },
     "done": true
   },
-  "mekanism:hydrogen_powered_flight": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/crafting_monitor": {
     "criteria": {
-      "jetpack": "2024-02-23 23:46:40 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2652,21 +1991,33 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-02-20 09:04:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2024-02-22 08:09:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2024-02-22 17:35:22 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/red_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2682,21 +2033,27 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-02-19 11:53:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_network_receiver": {
     "criteria": {
-      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_controller": {
     "criteria": {
-      "has_moss_block": "2024-02-22 14:19:19 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2712,15 +2069,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_crafting_monitor": {
     "criteria": {
-      "has_log": "2024-02-19 11:51:20 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/white_network_transmitter": {
     "criteria": {
-      "crafting_table": "2024-02-19 11:53:34 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/white_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/black_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2733,12 +2108,6 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-02-20 14:20:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lodestone": {
-    "criteria": {
-      "has_netherite_ingot": "2024-02-23 06:41:14 +0000"
     },
     "done": true
   },
@@ -2760,6 +2129,2419 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-02-22 08:34:58 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-02-20 08:23:57 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/fluid_grid/blue_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-02-21 15:01:24 +0000"
+    },
+    "done": true
+  },
+  "mekanism:personal_storage": {
+    "criteria": {
+      "storage": "2024-02-22 06:43:50 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-02-19 11:53:28 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/pattern_grid/red_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-02-23 05:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-02-21 14:08:04 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-02-20 10:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-02-20 08:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-21 13:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-02-19 12:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-02-20 08:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-02-22 16:04:17 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2024-02-21 11:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-02-23 06:56:36 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-02-19 11:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-02-20 06:49:48 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-02-19 12:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-02-20 14:43:19 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2024-02-20 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-02-20 06:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-02-20 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-02-20 14:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-02-22 08:09:52 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:drives": {
+    "criteria": {
+      "disk_drive_in_inventory": "2024-02-24 05:04:42 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/green_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-02-21 13:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-02-20 14:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-02-22 17:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-02-19 12:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-02-19 12:41:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/light_gray_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-02-19 11:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-02-20 14:43:19 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-02-22 06:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-02-19 11:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-21 11:41:56 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/pattern_grid/orange_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-02-22 06:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-02-19 11:51:21 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/green_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2024-02-20 06:49:48 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-02-19 11:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-02-23 06:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-02-20 06:21:51 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:better_than_netherite": {
+    "criteria": {
+      "armor": "2024-02-23 05:19:26 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-02-19 15:59:00 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/fluid_grid/gray_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/green_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/red_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-02-19 12:40:05 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/relay": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2024-02-24 00:06:53 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/black_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-02-20 06:21:48 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/detector": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-02-20 14:43:19 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/red_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-02-22 06:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-02-21 11:34:15 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "mekanism:chemical_transport": {
+    "criteria": {
+      "basic_pressurized_tube": "2024-02-23 13:22:32 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-02-19 12:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-21 11:41:56 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-02-21 12:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-02-19 12:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-02-19 12:43:00 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/green_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-02-19 15:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2024-02-22 06:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-02-19 11:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-02-20 08:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-02-19 11:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-02-20 06:49:48 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-02-22 16:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-02-19 11:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-02-21 11:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-02-19 12:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-02-19 12:14:49 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/white_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-02-20 06:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-02-21 11:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-02-20 06:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-02-19 11:58:30 +0000",
+      "minecraft:hoglin": "2024-02-23 06:29:24 +0000",
+      "minecraft:spider": "2024-02-19 12:05:43 +0000",
+      "minecraft:creeper": "2024-02-23 04:45:37 +0000",
+      "minecraft:phantom": "2024-02-23 01:22:45 +0000",
+      "minecraft:zombified_piglin": "2024-02-24 00:07:12 +0000",
+      "minecraft:husk": "2024-02-23 04:46:23 +0000",
+      "minecraft:cave_spider": "2024-02-22 15:04:59 +0000",
+      "minecraft:piglin": "2024-02-23 06:24:33 +0000",
+      "minecraft:zombie": "2024-02-20 06:14:16 +0000",
+      "minecraft:zombie_villager": "2024-02-20 09:59:30 +0000"
+    },
+    "done": false
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/fluid_grid/magenta_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-02-23 06:32:06 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-02-19 07:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-02-22 14:58:11 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-02-20 14:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2024-02-21 13:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-02-20 14:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-02-21 11:34:15 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2024-02-20 06:50:08 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2024-02-21 11:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-02-20 08:24:22 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2024-02-20 06:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2024-02-21 13:23:05 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/black_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-02-19 11:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-02-23 06:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-02-23 04:32:19 +0000"
+    },
+    "done": true
+  },
+  "mekanism:fluid_transport": {
+    "criteria": {
+      "basic_mechanical_pipe": "2024-02-23 13:05:35 +0000"
+    },
+    "done": true
+  },
+  "mekanism:running_free": {
+    "criteria": {
+      "free_runners": "2024-02-23 23:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-02-23 06:56:48 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-02-19 12:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-21 13:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-21 11:41:56 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/pink_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-02-20 06:30:55 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/white_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/fluid_grid/fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-02-24 04:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-02-24 00:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-02-22 14:19:19 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/pattern_grid/white_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2024-02-20 06:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-02-22 07:46:43 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/green_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:solar_generator": {
+    "criteria": {
+      "solar_generator": "2024-02-24 01:44:52 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2024-02-20 06:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-02-21 14:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-02-19 11:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-02-19 11:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-02-19 12:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-02-21 13:10:04 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:viewing_items": {
+    "criteria": {
+      "grid_in_inventory": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-02-20 06:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-02-19 12:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-02-24 05:02:25 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-02-20 06:41:31 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-02-19 11:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-02-19 12:05:50 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/red_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-02-22 11:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-02-20 13:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-02-22 16:04:17 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/fluid_grid/orange_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-02-22 06:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-02-19 11:51:21 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-21 13:09:50 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/red_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-02-23 06:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-02-20 09:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-02-22 14:10:55 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/green_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/white_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/green_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-02-19 11:58:30 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/black_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-02-20 09:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-02-19 15:59:00 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/red_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-02-22 06:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2024-02-20 06:13:28 +0000",
+      "minecraft:birch_forest": "2024-02-20 06:11:20 +0000",
+      "minecraft:beach": "2024-02-19 07:53:01 +0000",
+      "minecraft:sparse_jungle": "2024-02-19 12:40:46 +0000",
+      "minecraft:lukewarm_ocean": "2024-02-19 11:59:05 +0000",
+      "minecraft:river": "2024-02-19 11:56:56 +0000",
+      "minecraft:stony_shore": "2024-02-22 11:54:05 +0000",
+      "minecraft:forest": "2024-02-20 06:11:08 +0000",
+      "minecraft:desert": "2024-02-19 12:42:00 +0000",
+      "minecraft:windswept_forest": "2024-02-20 06:11:27 +0000",
+      "minecraft:jungle": "2024-02-19 07:35:41 +0000",
+      "minecraft:ocean": "2024-02-20 06:08:26 +0000",
+      "minecraft:windswept_savanna": "2024-02-23 02:34:35 +0000",
+      "minecraft:warm_ocean": "2024-02-23 04:45:10 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-02-20 06:07:00 +0000",
+      "minecraft:plains": "2024-02-20 06:12:35 +0000"
+    },
+    "done": false
+  },
+  "refinedstorage:recipes/refinedstorage/fluid_grid/light_gray_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/red_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-02-21 13:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-02-19 11:53:28 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-02-20 06:49:48 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2024-02-20 14:48:29 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-02-21 14:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-02-22 06:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-02-22 08:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-02-19 15:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-02-23 06:40:00 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-02-22 08:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-02-21 11:38:06 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2024-02-21 13:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-02-19 12:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-02-20 13:42:11 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-02-19 12:17:40 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-02-20 08:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-02-20 08:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-02-21 11:34:15 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/pattern_grid/cyan_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/black_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-02-22 13:52:48 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/pattern_grid/yellow_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-02-19 15:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-02-20 06:21:48 +0000"
+    },
+    "done": true
+  },
+  "mekanism:installer": {
+    "criteria": {
+      "installer": "2024-02-24 00:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-02-19 12:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-02-20 08:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-02-21 13:09:50 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-02-19 12:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-02-22 16:04:17 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/fluid_grid/cyan_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-02-20 06:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-02-20 14:20:36 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-21 11:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-02-19 12:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-02-20 09:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-02-22 06:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-02-23 01:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-02-23 06:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-02-21 11:34:15 +0000"
+    },
+    "done": true
+  },
+  "mekanism:dictionary": {
+    "criteria": {
+      "dictionary": "2024-02-23 06:33:55 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/green_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/fluid_grid/pink_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-02-19 11:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-02-23 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-02-20 13:52:11 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/magenta_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/pattern_grid/pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2024-02-23 05:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-21 13:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-02-20 08:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-02-21 11:27:46 +0000",
+      "apple": "2024-02-19 11:57:28 +0000",
+      "bread": "2024-02-20 06:51:15 +0000",
+      "cookie": "2024-02-23 14:28:13 +0000",
+      "melon_slice": "2024-02-19 12:37:18 +0000",
+      "cooked_chicken": "2024-02-21 14:14:08 +0000",
+      "carrot": "2024-02-20 10:12:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-02-23 04:32:19 +0000"
+    },
+    "done": true
+  },
+  "mekanism:stone_generator": {
+    "criteria": {
+      "upgrade_stone_generator": "2024-02-24 00:06:22 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/fluid_grid/white_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-02-23 06:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-02-19 12:14:49 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2024-02-20 14:56:47 +0000"
+    },
+    "done": true
+  },
+  "mekanism:stabilizing_chunks": {
+    "criteria": {
+      "upgrade_anchor": "2024-02-23 06:46:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-02-19 15:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-02-22 16:04:17 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/black_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-02-20 14:20:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/green_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-02-20 09:04:53 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2024-02-23 04:31:34 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_items": {
+    "criteria": {
+      "storage_disk_in_inventory": "2024-02-24 05:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-02-19 12:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-02-22 08:34:58 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "mekanism:logistical_sorter": {
+    "criteria": {
+      "logistical_sorter": "2024-02-22 16:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-02-20 13:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-02-23 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-02-19 12:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-02-22 05:45:06 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2024-02-23 13:00:20 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-02-19 12:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-02-19 12:44:12 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/red_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/green_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-02-19 11:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-02-19 11:56:31 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-02-22 13:42:50 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/white_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-02-19 15:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-02-21 11:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-02-24 05:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-02-21 11:38:06 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-02-21 13:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-02-22 14:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-02-20 08:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-02-21 13:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/pattern_grid/lime_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-02-19 12:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-02-20 14:43:19 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/black_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-02-20 14:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-02-21 11:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-02-20 08:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-02-19 11:56:31 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/fluid_grid/yellow_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-02-21 14:08:04 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/green_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-02-19 12:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-02-22 05:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-21 13:09:50 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/blue_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-02-19 11:57:09 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/pattern_grid/black_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-02-20 09:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-02-20 06:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-21 13:09:50 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/white_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-02-21 11:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-02-21 13:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-21 13:09:50 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-02-23 06:04:23 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/red_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-02-19 12:17:15 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/white_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-02-20 14:43:19 +0000"
+    },
+    "done": true
+  },
+  "mekanism:cleaning_gauges": {
+    "criteria": {
+      "use_dropper": "2024-02-23 14:21:04 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-02-21 14:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-02-22 14:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-02-20 08:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-02-20 06:19:00 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/fluid_grid/black_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/controller": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-21 11:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-02-19 15:59:00 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/pattern_grid/magenta_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/white_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-02-20 09:04:53 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2024-02-23 23:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-02-22 08:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-02-24 04:52:57 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-02-22 14:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-02-19 11:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-02-19 11:53:34 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/fluid_grid/purple_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-02-23 06:41:14 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2024-02-19 12:14:49 +0000"
@@ -2778,9 +4560,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_crafting_grid": {
     "criteria": {
-      "has_leather": "2024-02-22 08:34:58 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2796,15 +4578,27 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/purple_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-02-19 11:53:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/green_crafting_grid": {
     "criteria": {
-      "has_andesite": "2024-02-20 08:23:57 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/red_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
     },
     "done": true
   },
@@ -2814,21 +4608,15 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/white_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 06:49:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-02-21 15:01:24 +0000"
-    },
-    "done": true
-  },
-  "mekanism:personal_storage": {
-    "criteria": {
-      "storage": "2024-02-22 06:43:50 +0000"
     },
     "done": true
   },
@@ -2838,27 +4626,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_door": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/network_receiver": {
     "criteria": {
-      "has_planks": "2024-02-19 11:53:28 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-02-19 11:56:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-02-23 05:50:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-02-21 14:08:04 +0000"
     },
     "done": true
   },
@@ -2874,9 +4656,27 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-02-19 12:14:49 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2898,27 +4698,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2024-02-20 10:12:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-02-23 02:02:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_detector": {
     "criteria": {
-      "has_andesite": "2024-02-20 08:23:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_wool": {
-    "criteria": {
-      "has_white_wool": "2024-02-21 13:09:50 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2928,9 +4716,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_door": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_network_receiver": {
     "criteria": {
-      "has_planks": "2024-02-19 12:14:49 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -2952,15 +4740,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_disk_manipulator": {
     "criteria": {
-      "has_granite": "2024-02-20 08:24:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-02-22 16:04:17 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -3000,15 +4782,15 @@
     },
     "done": true
   },
-  "mekanism:infused_alloy": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/green_fluid_grid": {
     "criteria": {
-      "alloy_infused": "2024-02-21 11:28:08 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_disk_manipulator": {
     "criteria": {
-      "has_glass_pane": "2024-02-23 14:20:27 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -3018,9 +4800,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/quartz": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_disk_manipulator": {
     "criteria": {
-      "has_nether_quartz_ore": "2024-02-23 06:56:36 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -3030,27 +4818,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/crafter_manager": {
     "criteria": {
-      "has_stick": "2024-02-19 11:51:21 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_wireless_transmitter": {
     "criteria": {
-      "iron": "2024-02-20 06:49:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2024-02-19 12:36:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-02-20 14:43:19 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
@@ -3060,15 +4836,27 @@
     },
     "done": true
   },
-  "mekanism:steel_ingot": {
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/red_network_receiver": {
     "criteria": {
-      "ingot_steel": "2024-02-20 14:30:49 +0000"
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-02-22 06:09:34 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/fluid_grid/red_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
     },
     "done": true
   },
