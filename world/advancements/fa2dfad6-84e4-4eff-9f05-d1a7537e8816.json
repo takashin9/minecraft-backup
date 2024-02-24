@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2024-02-24 15:53:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-02-20 06:35:20 +0000"
@@ -476,6 +482,12 @@
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2024-02-23 03:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2024-02-24 15:53:05 +0000"
     },
     "done": true
   },
@@ -962,6 +974,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_controller": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "mekanism:auto_collection": {
+    "criteria": {
+      "laser_tractor_beam": "2024-02-24 15:33:06 +0000"
     },
     "done": true
   },
@@ -1916,6 +1934,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-02-21 13:09:50 +0000"
+    },
+    "done": true
+  },
+  "mekanism:laser_death": {
+    "criteria": {
+      "death": "2024-02-24 15:35:53 +0000"
     },
     "done": true
   },
@@ -2919,6 +2943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-02-24 15:53:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-02-20 08:24:22 +0000"
@@ -2958,6 +2988,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-02-23 14:20:27 +0000"
+    },
+    "done": true
+  },
+  "mekanism:laser": {
+    "criteria": {
+      "laser": "2024-02-24 15:34:02 +0000"
     },
     "done": true
   },
@@ -3084,6 +3120,12 @@
   "refinedstorage:recipes/refinedstorage/pattern_grid/white_pattern_grid": {
     "criteria": {
       "refinedstorage:grid": "2024-02-24 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-02-24 15:53:05 +0000"
     },
     "done": true
   },
