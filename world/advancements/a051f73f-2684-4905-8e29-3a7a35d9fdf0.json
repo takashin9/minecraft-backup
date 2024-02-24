@@ -1525,6 +1525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-02-24 17:58:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 09:25:29 +0000"
@@ -1891,6 +1897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-02-24 17:58:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2024-02-20 10:47:39 +0000",
@@ -2008,6 +2020,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-02-21 08:44:03 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2024-02-24 17:51:10 +0000"
     },
     "done": true
   },
@@ -2557,6 +2575,12 @@
     },
     "done": true
   },
+  "mekanism:quantum_entangloporter": {
+    "criteria": {
+      "quantum_entangloporter": "2024-02-24 17:51:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-02-20 08:41:48 +0000"
@@ -3040,6 +3064,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2024-02-20 08:41:35 +0000"
+    },
+    "done": true
+  },
+  "mekanism:simple_mass_storage": {
+    "criteria": {
+      "basic_bin": "2024-02-24 17:21:29 +0000"
     },
     "done": true
   },

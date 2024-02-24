@@ -617,3 +617,6 @@ java.lang.IllegalStateException: Unable to get Y-rotated facing of up
 [24Feb2024 16:34:24.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere has made the advancement [Cover Me with Diamonds]
 [24Feb2024 17:00:01.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [24Feb2024 17:00:01.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[24Feb2024 17:51:05.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere has made the advancement [Quantum Entanglement]
+[24Feb2024 18:00:01.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[24Feb2024 18:00:02.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
