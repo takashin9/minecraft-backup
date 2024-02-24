@@ -93,3 +93,52 @@ java.lang.Exception: null
 [24Feb2024 10:27:24.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
 [24Feb2024 11:00:01.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [24Feb2024 11:00:01.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[24Feb2024 11:07:07.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[24Feb2024 11:07:07.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[24Feb2024 11:07:10.393] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@30416056[id=<null>,name=takashin71DC,properties={},legacy=false] (/217.178.20.230:14653): Authentication servers are down. Please try again later, sorry!
+[24Feb2024 11:07:10.395] [User Authenticator #20/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Couldn't verify username because servers are unavailable
+[24Feb2024 11:07:10.431] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30416056[id=<null>,name=takashin71DC,properties={},legacy=false] (/217.178.20.230:14653) lost connection: Authentication servers are down. Please try again later, sorry!
+[24Feb2024 11:07:14.112] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[24Feb2024 11:07:16.139] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@556b7af7
+[24Feb2024 11:07:16.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:47068] logged in with entity id 291801 at (-1255.894842425605, 63.0, 305.32676651335345)
+[24Feb2024 11:07:16.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[24Feb2024 11:33:47.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has made the advancement [Quantum Entanglement]
+[24Feb2024 11:47:02.745] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1dbb54b9[id=<null>,name=Signiturere,properties={},legacy=false] (/116.64.76.171:60113): Authentication servers are down. Please try again later, sorry!
+[24Feb2024 11:47:02.745] [User Authenticator #22/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Couldn't verify username because servers are unavailable
+[24Feb2024 11:47:02.791] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1dbb54b9[id=<null>,name=Signiturere,properties={},legacy=false] (/116.64.76.171:60113) lost connection: Authentication servers are down. Please try again later, sorry!
+[24Feb2024 11:47:08.020] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@53de88a4[id=<null>,name=Signiturere,properties={},legacy=false] (/116.64.76.171:60116): Authentication servers are down. Please try again later, sorry!
+[24Feb2024 11:47:08.020] [User Authenticator #23/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Couldn't verify username because servers are unavailable
+[24Feb2024 11:47:08.053] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@53de88a4[id=<null>,name=Signiturere,properties={},legacy=false] (/116.64.76.171:60116) lost connection: Authentication servers are down. Please try again later, sorry!
+[24Feb2024 11:47:50.262] [User Authenticator #24/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[24Feb2024 11:47:52.298] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7ed268d7
+[24Feb2024 11:47:52.302] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:60126] logged in with entity id 300084 at (-1259.1007331542755, 63.0, 307.98371127188557)
+[24Feb2024 11:47:52.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[24Feb2024 11:49:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> きしょ
+[24Feb2024 11:49:43.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> フハハ
+[24Feb2024 11:50:52.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> アイテムの動き見て
+[24Feb2024 11:51:31.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> yabakune
+[24Feb2024 11:51:43.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> これが転送帰化
+[24Feb2024 11:51:46.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> sou
+[24Feb2024 11:51:51.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> 機か
+[24Feb2024 11:52:55.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> 金とかの原石で手に入る鉱石は4倍にできるようになった
+[24Feb2024 11:53:09.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> これは太陽光？
+[24Feb2024 11:53:12.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> sou
+[24Feb2024 11:53:24.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> 水は何
+[24Feb2024 11:53:40.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> 塩水を作る
+[24Feb2024 11:54:10.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> なぜ
+[24Feb2024 11:54:10.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> それを電気分解して塩素を取り出して、水素と併せて塩化水素を作る
+[24Feb2024 11:54:43.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> 塩化水素で鉱石を溶かすことで4倍になる
+[24Feb2024 11:55:10.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> なるほど
+[24Feb2024 11:56:35.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> 4段階くらいふんでるのね
+[24Feb2024 11:56:47.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> un
+[24Feb2024 11:57:13.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> すげ
+[24Feb2024 11:57:59.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> 次の目標としては5倍ラインを作る感じ
+[24Feb2024 11:59:05.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> ちなみにガス発電にポピーが使えるのでゴーレム君を余すことなく使っています
+[24Feb2024 11:59:07.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> 今って 鉱石ブロック1→インゴット4 って話？
+[24Feb2024 11:59:11.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> sou
+[24Feb2024 11:59:30.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> 全鉱石共通？
+[24Feb2024 11:59:41.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> ではないのが残念ポイント
+[24Feb2024 12:00:01.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[24Feb2024 12:00:01.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[24Feb2024 12:00:07.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> バイオ燃料が草で草
+[24Feb2024 12:00:19.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> そりゃそうだ

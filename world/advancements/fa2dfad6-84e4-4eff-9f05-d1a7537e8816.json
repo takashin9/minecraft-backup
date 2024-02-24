@@ -4266,6 +4266,12 @@
     },
     "done": true
   },
+  "mekanism:quantum_entangloporter": {
+    "criteria": {
+      "quantum_entangloporter": "2024-02-24 11:33:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-02-21 13:09:50 +0000"
@@ -4551,6 +4557,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2024-02-23 06:41:14 +0000"
+    },
+    "done": true
+  },
+  "mekanism:ultimate_control_circuit": {
+    "criteria": {
+      "ultimate_control_circuit": "2024-02-24 11:33:02 +0000"
     },
     "done": true
   },
