@@ -112,3 +112,15 @@ java.lang.Exception: null
 [25Feb2024 11:16:41.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O left the game
 [25Feb2024 12:00:01.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [25Feb2024 12:00:01.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[25Feb2024 12:16:20.855] [User Authenticator #35/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mante2O is 34ff9984-16b0-4e69-89bb-e41497962b63
+[25Feb2024 12:16:23.586] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c5e1578
+[25Feb2024 12:16:23.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mante2O[/118.241.113.240:51385] logged in with entity id 594791 at (-1178.2669956683926, 68.5, 223.951656051955)
+[25Feb2024 12:16:23.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O joined the game
+[25Feb2024 12:30:03.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mante2O lost connection: Disconnected
+[25Feb2024 12:30:03.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O left the game
+[25Feb2024 12:40:59.449] [User Authenticator #36/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mante2O is 34ff9984-16b0-4e69-89bb-e41497962b63
+[25Feb2024 12:41:01.735] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@24b462a6
+[25Feb2024 12:41:01.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mante2O[/118.241.113.240:51435] logged in with entity id 598043 at (-1194.1951042568653, 63.0, 229.6443620778548)
+[25Feb2024 12:41:01.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O joined the game
+[25Feb2024 13:00:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[25Feb2024 13:00:02.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
