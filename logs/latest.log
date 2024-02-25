@@ -73,3 +73,10 @@ java.lang.Exception: null
 [25Feb2024 06:07:38.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O left the game
 [25Feb2024 07:00:01.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [25Feb2024 07:00:01.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[25Feb2024 07:31:01.280] [User Authenticator #32/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player souta21054 is d16a56eb-4bde-4352-8b69-4bc9cc4e8923
+[25Feb2024 07:31:03.336] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@777ca515
+[25Feb2024 07:31:03.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: souta21054[/110.134.160.253:53499] logged in with entity id 534155 at (-1246.754576489044, 63.0, 313.79540813119934)
+[25Feb2024 07:31:03.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 joined the game
+[25Feb2024 07:58:16.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Running Free]
+[25Feb2024 08:00:01.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[25Feb2024 08:00:01.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game

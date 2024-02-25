@@ -935,6 +935,12 @@
     },
     "done": true
   },
+  "mekanism:running_free": {
+    "criteria": {
+      "free_runners": "2024-02-25 07:58:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-02-20 08:14:04 +0000"
