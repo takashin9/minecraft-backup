@@ -33,3 +33,43 @@ java.lang.Exception: null
 	at java.lang.Thread.run(Thread.java:840) [?:?]
 [25Feb2024 04:00:01.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [25Feb2024 04:00:01.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[25Feb2024 04:01:48.328] [User Authenticator #28/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[25Feb2024 04:01:50.338] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@19dba723
+[25Feb2024 04:01:50.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:18603] logged in with entity id 498120 at (-1246.5965819650824, 64.6875, 304.034256696086)
+[25Feb2024 04:01:50.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[25Feb2024 04:02:01.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[25Feb2024 04:02:01.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[25Feb2024 04:02:07.577] [User Authenticator #29/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mante2O is 34ff9984-16b0-4e69-89bb-e41497962b63
+[25Feb2024 04:02:09.991] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@62ae47fd
+[25Feb2024 04:02:09.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mante2O[/118.241.113.240:56901] logged in with entity id 498628 at (-1227.8937001004344, 63.0, 222.4131025837195)
+[25Feb2024 04:02:09.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O joined the game
+[25Feb2024 04:02:20.100] [User Authenticator #30/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player souta21054 is d16a56eb-4bde-4352-8b69-4bc9cc4e8923
+[25Feb2024 04:02:21.512] [User Authenticator #31/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[25Feb2024 04:02:22.147] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4b0f4a9f
+[25Feb2024 04:02:22.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: souta21054[/110.134.160.253:52499] logged in with entity id 499100 at (-1258.8606028671516, 64.0, 249.83276978435381)
+[25Feb2024 04:02:22.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 joined the game
+[25Feb2024 04:02:23.546] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@153f37c
+[25Feb2024 04:02:23.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:58240] logged in with entity id 499125 at (-1245.0864379632922, 63.0, 292.8773318201455)
+[25Feb2024 04:02:23.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[25Feb2024 04:02:26.691] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/498650, l='ServerLevel[world]', x=-1255.43, y=62.90, z=251.69] died, message: 'Toolsmith was shot by Pillager'
+[25Feb2024 04:03:27.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has made the advancement [Voluntary Exile]
+[25Feb2024 04:03:59.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Voluntary Exile]
+[25Feb2024 04:04:05.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has completed the challenge [Hero of the Village]
+[25Feb2024 04:04:05.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O has completed the challenge [Hero of the Village]
+[25Feb2024 04:04:05.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has completed the challenge [Hero of the Village]
+[25Feb2024 04:16:50.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Needs More Speeeeed!]
+[25Feb2024 04:20:33.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Hydrogen Powered Flight]
+[25Feb2024 04:21:21.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: souta21054 lost connection: Disconnected
+[25Feb2024 04:21:21.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 left the game
+[25Feb2024 04:21:23.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[25Feb2024 04:21:23.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[25Feb2024 04:25:22.342] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1380, y=69, z=431}) is Tags.Blocks.ORES.
+[25Feb2024 04:32:47.033] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1477, y=76, z=833}) is Tags.Blocks.ORES.
+[25Feb2024 05:00:01.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[25Feb2024 05:00:01.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[25Feb2024 06:00:01.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[25Feb2024 06:00:01.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[25Feb2024 06:07:38.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mante2O lost connection: Disconnected
+[25Feb2024 06:07:38.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O left the game
+[25Feb2024 07:00:01.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[25Feb2024 07:00:01.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
