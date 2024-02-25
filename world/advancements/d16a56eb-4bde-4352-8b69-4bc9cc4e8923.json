@@ -2466,6 +2466,12 @@
     },
     "done": true
   },
+  "mekanism:breathing_assistance": {
+    "criteria": {
+      "scuba_gear": "2024-02-25 08:06:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-22 11:08:12 +0000"
@@ -2613,6 +2619,12 @@
   "mekanismtools:alternate_armor": {
     "criteria": {
       "armor": "2024-02-23 05:00:16 +0000"
+    },
+    "done": true
+  },
+  "mekanism:playing_with_fire": {
+    "criteria": {
+      "flamethrower": "2024-02-25 08:04:19 +0000"
     },
     "done": true
   },

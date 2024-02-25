@@ -515,6 +515,14 @@
     },
     "done": true
   },
+  "mekanism:chemical_crystallizer": {
+    "criteria": {
+      "chemical_dissolution_chamber": "2024-02-25 08:52:22 +0000",
+      "chemical_crystallizer": "2024-02-25 08:53:09 +0000",
+      "chemical_washer": "2024-02-25 08:50:40 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
@@ -1654,6 +1662,12 @@
       "has_iron_ingot": "2024-02-20 06:49:48 +0000"
     },
     "done": true
+  },
+  "mekanism:teleporter": {
+    "criteria": {
+      "teleporter": "2024-02-25 09:43:01 +0000"
+    },
+    "done": false
   },
   "refinedstorage:upgrading_your_grid": {
     "criteria": {
@@ -4831,6 +4845,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "mekanism:portable_teleporter": {
+    "criteria": {
+      "portable_teleporter": "2024-02-25 09:47:24 +0000"
     },
     "done": true
   },
