@@ -124,3 +124,17 @@ java.lang.Exception: null
 [25Feb2024 12:41:01.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O joined the game
 [25Feb2024 13:00:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [25Feb2024 13:00:02.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[25Feb2024 13:38:58.986] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1131, y=41, z=195}) is Tags.Blocks.ORES.
+[25Feb2024 14:00:01.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[25Feb2024 14:00:01.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[25Feb2024 14:15:56.885] [User Authenticator #37/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[25Feb2024 14:15:58.896] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@22c889f3
+[25Feb2024 14:15:58.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:59122] logged in with entity id 625685 at (-1260.0768076734814, 63.0, 311.30299120943135)
+[25Feb2024 14:15:58.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[25Feb2024 14:16:37.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> ソラリスみたいなのあるじゃん
+[25Feb2024 14:37:07.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> nemui
+[25Feb2024 14:37:41.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> nero
+[25Feb2024 14:53:47.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[25Feb2024 14:53:47.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[25Feb2024 15:00:01.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[25Feb2024 15:00:01.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
