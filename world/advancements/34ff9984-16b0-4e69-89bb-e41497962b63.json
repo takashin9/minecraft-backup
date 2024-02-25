@@ -595,6 +595,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-02-25 03:49:55 +0000",
       "minecraft:skeleton": "2024-02-20 04:10:38 +0000",
       "minecraft:hoglin": "2024-02-23 12:36:07 +0000",
       "minecraft:spider": "2024-02-20 04:10:45 +0000",
@@ -694,6 +695,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-02-20 09:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-02-25 03:50:07 +0000"
     },
     "done": true
   },
@@ -2089,15 +2096,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2024-02-24 19:49:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-02-24 19:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-02-24 19:49:18 +0000"
     },
     "done": true
   },
