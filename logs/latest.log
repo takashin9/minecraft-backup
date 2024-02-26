@@ -21,3 +21,9 @@
 [26Feb2024 03:00:01.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
 [26Feb2024 04:00:01.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [26Feb2024 04:00:01.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[26Feb2024 04:16:18.192] [User Authenticator #39/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[26Feb2024 04:16:20.204] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b4a64ff
+[26Feb2024 04:16:20.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:30619] logged in with entity id 683580 at (-1243.0377721688278, 63.0, 301.3514451818209)
+[26Feb2024 04:16:20.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[26Feb2024 05:00:01.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[26Feb2024 05:00:01.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
