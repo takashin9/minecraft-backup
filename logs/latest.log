@@ -74,3 +74,13 @@
 [26Feb2024 15:00:02.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
 [26Feb2024 16:00:01.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [26Feb2024 16:00:01.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[26Feb2024 16:17:19.641] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [forge:tier_sorting,mekanismgenerators:mekanismgenerators,mekanism:mekanism,refinedstorage:main_channel] rejected vanilla connections
+[26Feb2024 16:17:19.641] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[26Feb2024 16:31:29.019] [User Authenticator #42/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mante2O is 34ff9984-16b0-4e69-89bb-e41497962b63
+[26Feb2024 16:31:31.988] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6355a08a
+[26Feb2024 16:31:31.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mante2O[/118.241.113.240:50389] logged in with entity id 766465 at (-1177.0684397443242, 68.5, 219.29043737614663)
+[26Feb2024 16:31:31.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O joined the game
+[26Feb2024 16:48:01.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mante2O lost connection: Disconnected
+[26Feb2024 16:48:01.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O left the game
+[26Feb2024 17:00:01.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[26Feb2024 17:00:01.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
