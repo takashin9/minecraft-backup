@@ -3954,6 +3954,14 @@
     },
     "done": true
   },
+  "mekanism:seismic_vibrations": {
+    "criteria": {
+      "view_vibrations": "2024-02-26 11:05:04 +0000",
+      "seismic_reader": "2024-02-26 11:02:35 +0000",
+      "seismic_vibrator": "2024-02-26 11:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2024-02-19 12:14:49 +0000"

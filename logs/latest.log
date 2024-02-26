@@ -61,3 +61,8 @@
 [26Feb2024 10:29:00.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 93.78197938296125,-1.0,189.303111987247
 [26Feb2024 11:00:01.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [26Feb2024 11:00:01.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[26Feb2024 11:35:47.448] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Timed out
+[26Feb2024 11:35:47.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[26Feb2024 11:35:47.491] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Feb2024 12:00:01.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[26Feb2024 12:00:01.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
