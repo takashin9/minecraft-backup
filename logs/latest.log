@@ -39,3 +39,8 @@
 [26Feb2024 05:53:20.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC was incinerated.
 [26Feb2024 06:00:01.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [26Feb2024 06:00:01.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[26Feb2024 06:15:04.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 40.831216886785796,-4.0,167.9572947039259
+[26Feb2024 06:25:35.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 41.0,-4.0,167.0
+[26Feb2024 06:25:35.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 41.0,-4.0,167.0
+[26Feb2024 07:00:01.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[26Feb2024 07:00:01.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
