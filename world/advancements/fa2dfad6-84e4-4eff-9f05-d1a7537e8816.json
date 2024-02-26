@@ -1051,6 +1051,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-02-26 05:52:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2024-02-23 06:31:30 +0000"
@@ -3956,9 +3962,10 @@
   },
   "mekanism:stabilizing_chunks": {
     "criteria": {
-      "upgrade_anchor": "2024-02-23 06:46:22 +0000"
+      "upgrade_anchor": "2024-02-23 06:46:22 +0000",
+      "dimensional_stabilizer": "2024-02-26 05:52:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
