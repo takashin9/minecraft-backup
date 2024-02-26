@@ -4,3 +4,18 @@
 [26Feb2024 01:00:01.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
 [26Feb2024 02:00:01.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [26Feb2024 02:00:01.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[26Feb2024 02:34:58.513] [User Authenticator #38/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mante2O is 34ff9984-16b0-4e69-89bb-e41497962b63
+[26Feb2024 02:35:01.889] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@30fcb564
+[26Feb2024 02:35:01.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mante2O[/118.241.113.240:60092] logged in with entity id 657585 at (-1178.935514367795, 68.5, 218.61448826246615)
+[26Feb2024 02:35:01.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O joined the game
+[26Feb2024 02:45:32.142] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:glowstone}(pos=BlockPos{x=-172, y=106, z=51}) is not Tags.Blocks.ORES.
+[26Feb2024 02:45:41.790] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:glowstone}(pos=BlockPos{x=-192, y=105, z=52}) is not Tags.Blocks.ORES.
+[26Feb2024 02:45:49.141] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_quartz_ore}(pos=BlockPos{x=-203, y=106, z=50}) is Tags.Blocks.ORES.
+[26Feb2024 02:45:54.491] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_gold_ore}(pos=BlockPos{x=-203, y=106, z=48}) is Tags.Blocks.ORES.
+[26Feb2024 02:45:59.591] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_quartz_ore}(pos=BlockPos{x=-202, y=106, z=48}) is Tags.Blocks.ORES.
+[26Feb2024 02:46:30.792] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_quartz_ore}(pos=BlockPos{x=-156, y=112, z=50}) is Tags.Blocks.ORES.
+[26Feb2024 02:46:40.093] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:nether_quartz_ore}(pos=BlockPos{x=-154, y=112, z=45}) is Tags.Blocks.ORES.
+[26Feb2024 02:47:03.543] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:glowstone}(pos=BlockPos{x=-151, y=102, z=21}) is not Tags.Blocks.ORES.
+[26Feb2024 02:47:14.543] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:glowstone}(pos=BlockPos{x=-145, y=103, z=-11}) is not Tags.Blocks.ORES.
+[26Feb2024 03:00:01.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[26Feb2024 03:00:01.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
