@@ -48,3 +48,16 @@
 [26Feb2024 07:37:55.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
 [26Feb2024 08:00:01.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [26Feb2024 08:00:01.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[26Feb2024 08:21:29.183] [User Authenticator #41/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[26Feb2024 08:21:31.239] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3307284f
+[26Feb2024 08:21:31.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:54859] logged in with entity id 725183 at (-1257.6323874844213, 63.0, 308.33851080226975)
+[26Feb2024 08:21:31.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[26Feb2024 09:00:01.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[26Feb2024 09:00:01.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[26Feb2024 09:42:11.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1254, y=60, z=293} BlockPos{x=-1254, y=59, z=293}
+[26Feb2024 09:48:13.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -41.948341622766975,4.0,-164.80199885117287
+[26Feb2024 10:00:01.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[26Feb2024 10:00:01.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[26Feb2024 10:29:00.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 93.78197938296125,-1.0,189.303111987247
+[26Feb2024 11:00:01.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[26Feb2024 11:00:01.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
