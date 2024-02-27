@@ -44,3 +44,24 @@ Caused by: java.io.IOException: error=0, Failed to exec spawn helper: pid: 16754
 	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2362!/:?]
 	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2362!/:?]
 	... 4 more
+[27Feb2024 14:26:38.357] [User Authenticator #43/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[27Feb2024 14:26:40.390] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60af2ff2
+[27Feb2024 14:26:40.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:57726] logged in with entity id 772807 at (-1250.6178205207916, 64.0, 317.50747581504555)
+[27Feb2024 14:26:40.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[27Feb2024 14:28:36.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -109.60324810857924,0.0,-179.3488427133372
+[27Feb2024 14:28:53.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 92.94613873402182,0.0,194.39212739868805
+[27Feb2024 14:46:39.458] [User Authenticator #44/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[27Feb2024 14:46:39.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from takashin71DC: Location (-1249.4708433151245, 80.75, 312.3090366125107) too far away from hit block BlockPos{x=-1250, y=82, z=311}.
+[27Feb2024 14:46:40.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from takashin71DC: Location (-1249.5954627096653, 80.75, 312.31573152542114) too far away from hit block BlockPos{x=-1250, y=82, z=311}.
+[27Feb2024 14:46:41.502] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@33bf7335
+[27Feb2024 14:46:41.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:54074] logged in with entity id 778146 at (-1274.3056223395945, 65.5625, 245.31794238866837)
+[27Feb2024 14:46:41.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[27Feb2024 14:46:41.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from takashin71DC: Location (-1249.5478733778, 80.84506964683533, 312.375) too far away from hit block BlockPos{x=-1250, y=82, z=311}.
+[27Feb2024 14:46:43.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from takashin71DC: Location (-1249.5637970268726, 81.02490431070328, 312.375) too far away from hit block BlockPos{x=-1250, y=82, z=311}.
+[27Feb2024 14:46:57.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> なんでやってんだ
+[27Feb2024 14:47:17.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> やるっていったじゃん
+[27Feb2024 14:47:37.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> 工場の立て直しをしてます
+[27Feb2024 14:50:10.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> discord imasu
+[27Feb2024 14:50:49.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1255, y=62, z=291} BlockPos{x=-1262, y=62, z=298}
+[27Feb2024 14:50:49.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1255, y=62, z=291} BlockPos{x=-1262, y=62, z=298}
+[27Feb2024 14:50:49.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1255, y=62, z=291} BlockPos{x=-1262, y=62, z=298}
