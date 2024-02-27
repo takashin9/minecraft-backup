@@ -65,3 +65,18 @@ Caused by: java.io.IOException: error=0, Failed to exec spawn helper: pid: 16754
 [27Feb2024 14:50:49.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1255, y=62, z=291} BlockPos{x=-1262, y=62, z=298}
 [27Feb2024 14:50:49.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1255, y=62, z=291} BlockPos{x=-1262, y=62, z=298}
 [27Feb2024 14:50:49.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1255, y=62, z=291} BlockPos{x=-1262, y=62, z=298}
+[27Feb2024 17:04:02.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[27Feb2024 17:04:02.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[27Feb2024 17:04:07.043] [User Authenticator #45/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[27Feb2024 17:04:09.097] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5bb74659
+[27Feb2024 17:04:09.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:54463] logged in with entity id 810480 at (-1245.055085975635, 63.0, 299.5681192754241)
+[27Feb2024 17:04:09.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[27Feb2024 17:04:28.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[27Feb2024 17:04:28.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[27Feb2024 17:05:33.298] [User Authenticator #46/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[27Feb2024 17:05:35.346] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6470b2c3
+[27Feb2024 17:05:35.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:54565] logged in with entity id 810815 at (-1243.9689227308743, 63.0, 299.01646465974676)
+[27Feb2024 17:05:35.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[27Feb2024 17:32:24.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 31.14268971281217,2.0,-19.26338963917766
+[27Feb2024 17:35:35.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[27Feb2024 17:35:35.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
