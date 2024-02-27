@@ -80,3 +80,7 @@ Caused by: java.io.IOException: error=0, Failed to exec spawn helper: pid: 16754
 [27Feb2024 17:32:24.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 31.14268971281217,2.0,-19.26338963917766
 [27Feb2024 17:35:35.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
 [27Feb2024 17:35:35.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[27Feb2024 18:11:23.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1351, y=61, z=263} BlockPos{x=-1351, y=62, z=263}
+[27Feb2024 18:12:17.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1363, y=59, z=264} BlockPos{x=-1363, y=60, z=264}
+[27Feb2024 18:23:02.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[27Feb2024 18:23:02.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
