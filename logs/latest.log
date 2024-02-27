@@ -14,3 +14,33 @@
 [27Feb2024 05:00:01.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
 [27Feb2024 06:00:01.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [27Feb2024 06:00:01.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[27Feb2024 07:00:01.441] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Cannot run program "stty": error=0, Failed to exec spawn helper: pid: 167543, signal: 11
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.19.2-43.3.0-universal.jar%23120!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23115!/:?]
+Caused by: java.io.IOException: Cannot run program "stty": error=0, Failed to exec spawn helper: pid: 167543, signal: 11
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1143) ~[?:?]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1073) ~[?:?]
+	at org.jline.utils.ExecHelper.exec(ExecHelper.java:35) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	... 4 more
+Caused by: java.io.IOException: error=0, Failed to exec spawn helper: pid: 167543, signal: 11
+	at java.lang.ProcessImpl.forkAndExec(Native Method) ~[?:?]
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:314) ~[?:?]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:244) ~[?:?]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1110) ~[?:?]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1073) ~[?:?]
+	at org.jline.utils.ExecHelper.exec(ExecHelper.java:35) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	... 4 more
