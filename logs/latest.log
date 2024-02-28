@@ -93,3 +93,35 @@
 [28Feb2024 01:05:07.221] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [28Feb2024 02:00:01.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [28Feb2024 02:00:01.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[28Feb2024 02:05:25.132] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[28Feb2024 02:05:27.342] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@14b5efd0
+[28Feb2024 02:05:27.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:57451] logged in with entity id 183 at (-1243.9171858749019, 65.0, 279.3156662154777)
+[28Feb2024 02:05:27.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[28Feb2024 02:05:33.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[28Feb2024 02:05:51.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3080ms or 61 ticks behind
+[28Feb2024 02:25:37.354] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mante2O is 34ff9984-16b0-4e69-89bb-e41497962b63
+[28Feb2024 02:25:40.262] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5d9d3429
+[28Feb2024 02:25:40.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mante2O[/118.241.113.240:50946] logged in with entity id 5007 at (-1166.8213048789796, 97.0, 216.86459331204372)
+[28Feb2024 02:25:40.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O joined the game
+[28Feb2024 02:32:33.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> myoooooooooren
+[28Feb2024 02:32:41.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> ha?
+[28Feb2024 02:32:52.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> なんかできてるね
+[28Feb2024 02:33:24.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> 工場として立て直すことにした
+[28Feb2024 02:33:50.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> かっこいい
+[28Feb2024 02:35:12.628] [Netty Epoll Server IO #3/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: DestroyUnder=true, blocks=block.minecraft.gold_ore(all meta),block.minecraft.iron_ore(all meta),block.minecraft.coal_ore(all meta),block.minecraft.lapis_ore(all meta),block.minecraft.obsidian(all meta),block.minecraft.diamond_ore(all meta),block.minecraft.redstone_ore(all meta),block.minecraft.glowstone(all meta),block.minecraft.emerald_ore(all meta),block.minecraft.nether_quartz_ore(all meta),block.minecraft.granite(all meta),block.minecraft.diorite(all meta),block.minecraft.andesite(all meta),block.minecraft.ancient_debris(all meta),block.minecraft.nether_gold_ore(all meta),block.minecraft.sponge(all meta),block.minecraft.wet_sponge(all meta),block.minecraft.nether_wart_block(all meta),block.minecraft.warped_wart_block(all meta),block.minecraft.crying_obsidian(all meta),block.minecraft.ancient_debris(all meta),block.minecraft.deepslate_coal_ore(all meta),block.minecraft.deepslate_copper_ore(all meta),block.minecraft.deepslate_diamond_ore(all meta),block.minecraft.deepslate_emerald_ore(all meta),block.minecraft.deepslate_gold_ore(all meta),block.minecraft.deepslate_iron_ore(all meta),block.minecraft.deepslate_lapis_ore(all meta),block.minecraft.deepslate_redstone_ore(all meta)
+[28Feb2024 02:35:12.642] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:granite}(pos=BlockPos{x=-1300, y=61, z=296}) is not Tags.Blocks.ORES.
+[28Feb2024 02:35:43.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> みすった
+[28Feb2024 02:36:43.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> Mineallがonになってて花崗岩掘りつくして空洞に繋がった
+[28Feb2024 02:37:26.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> 焼き鳥機の下
+[28Feb2024 02:37:43.591] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:coal_ore}(pos=BlockPos{x=-1293, y=57, z=288}) is Tags.Blocks.ORES.
+[28Feb2024 02:38:42.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> 空洞じゃなかった
+[28Feb2024 02:42:12.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> myoooooooo
+[28Feb2024 02:42:24.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> ren
+[28Feb2024 02:42:55.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> nryou
+[28Feb2024 02:43:07.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mante2O> neyou
+[28Feb2024 02:43:08.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> ?
+[28Feb2024 02:54:37.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mante2O lost connection: Disconnected
+[28Feb2024 02:54:37.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O left the game
+[28Feb2024 03:00:01.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] お知らせ: 本日7:30(AM)に再起動を行います
+[28Feb2024 03:00:01.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[28Feb2024 03:00:01.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
