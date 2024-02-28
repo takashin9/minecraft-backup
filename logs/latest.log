@@ -101,3 +101,27 @@
 [28Feb2024 18:45:20.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 318.8343700521052,-5.0,-328.156539208176
 [28Feb2024 19:00:01.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [28Feb2024 19:00:01.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[28Feb2024 19:04:28.801] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17923, l='ServerLevel[world]', x=-1310.39, y=62.94, z=310.18] died, message: 'Villager was slain by souta21054 using [パクセロイ]'
+[28Feb2024 19:12:40.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> 村人、トラップドアの位置一個あげたらふえたのだけど
+[28Feb2024 19:13:01.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> e
+[28Feb2024 19:13:06.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> ちなひとりパクセロイであの世送りなった
+[28Feb2024 19:18:23.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> 一人司書で草
+[28Feb2024 19:18:38.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> パクセロイでボート壊してたらしんだ
+[28Feb2024 19:18:53.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> naruhodo
+[28Feb2024 19:19:16.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> パクセロイ便利すぎてつかいづらい
+[28Feb2024 19:19:33.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> どういうことだよw
+[28Feb2024 19:20:02.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> いろんなところに使えるから、今まで想定してこなかった事故が起きる
+[28Feb2024 19:20:12.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> 低速モードとかで使えば？
+[28Feb2024 19:29:04.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 333.8670784531587,-18.0,-330.9919959322268
+[28Feb2024 19:41:27.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> あの橋ある建物って何
+[28Feb2024 19:51:47.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> 図書館らしいけどわからん。しぐに聞いて
+[28Feb2024 20:00:01.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[28Feb2024 20:00:01.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[28Feb2024 20:02:37.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -307.0,7.4375,288.0
+[28Feb2024 20:16:41.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -310.0,8.0,288.0
+[28Feb2024 20:24:07.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[28Feb2024 20:24:07.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[28Feb2024 20:52:21.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has reached the goal [Advanced Item Sorting]
+[28Feb2024 20:54:40.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has reached the goal [Trapped Inside]
+[28Feb2024 21:00:01.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[28Feb2024 21:00:01.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
