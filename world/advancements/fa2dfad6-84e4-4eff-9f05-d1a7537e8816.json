@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "mekanism:alloy_upgrading": {
+    "criteria": {
+      "upgrade": "2024-02-28 17:00:26 +0900"
+    },
+    "done": true
+  },
   "mekanism:injection_chamber": {
     "criteria": {
       "chemical_injection_chamber": "2024-02-23 23:15:26 +0900"
