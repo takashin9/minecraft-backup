@@ -2245,6 +2245,12 @@
     },
     "done": true
   },
+  "mekanism:qio_drive_array": {
+    "criteria": {
+      "qio_drive_array": "2024-02-29 00:11:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-02-19 21:40:05 +0900"
@@ -4746,6 +4752,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 13:55:33 +0900"
+    },
+    "done": true
+  },
+  "mekanism:basic_qio_drive": {
+    "criteria": {
+      "qio_drive_base": "2024-02-29 00:24:07 +0900"
     },
     "done": true
   },
