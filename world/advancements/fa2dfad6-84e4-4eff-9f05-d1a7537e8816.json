@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-02-28 22:23:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-02-19 21:05:50 +0900"
@@ -413,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2024-02-28 22:23:25 +0900"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 13:55:33 +0900"
@@ -482,6 +494,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-02-22 23:10:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2024-02-28 22:23:25 +0900"
     },
     "done": true
   },
@@ -583,6 +601,12 @@
     },
     "done": true
   },
+  "mekanism:network_reader": {
+    "criteria": {
+      "network_reader": "2024-02-28 22:18:24 +0900"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 13:55:33 +0900"
@@ -634,6 +658,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 13:55:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-02-28 22:23:25 +0900"
     },
     "done": true
   },
@@ -940,6 +970,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 13:55:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2024-02-28 22:23:25 +0900"
     },
     "done": true
   },
@@ -1411,6 +1447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-02-28 22:23:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-02-20 17:24:22 +0900"
@@ -1480,6 +1522,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-02-21 20:41:56 +0900"
+    },
+    "done": true
+  },
+  "mekanism:sna": {
+    "criteria": {
+      "solar_neutron_activator": "2024-02-28 22:43:59 +0900"
     },
     "done": true
   },
@@ -1618,6 +1666,12 @@
   "mekanism:atomic_alloy": {
     "criteria": {
       "alloy_atomic": "2024-02-23 01:02:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-02-28 22:23:25 +0900"
     },
     "done": true
   },
@@ -2062,6 +2116,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2024-02-19 21:14:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-02-28 22:23:25 +0900"
     },
     "done": true
   },
@@ -2617,6 +2677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-02-28 22:23:25 +0900"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/red_fluid_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 13:55:33 +0900"
@@ -2764,6 +2830,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-02-21 21:24:16 +0900"
+    },
+    "done": true
+  },
+  "mekanism:polonium": {
+    "criteria": {
+      "pellet_polonium": "2024-02-28 23:57:12 +0900"
     },
     "done": true
   },
@@ -3297,6 +3369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-02-28 22:23:25 +0900"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 13:55:33 +0900"
@@ -3720,6 +3798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-02-28 22:23:25 +0900"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 13:55:33 +0900"
@@ -3852,6 +3936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-02-28 22:23:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-02-22 15:30:12 +0900"
@@ -3903,6 +3993,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-02-19 20:56:31 +0900"
+    },
+    "done": true
+  },
+  "mekanism:waste_removal": {
+    "criteria": {
+      "radioactive_waste_barrel": "2024-02-28 23:02:27 +0900"
     },
     "done": true
   },
@@ -4425,6 +4521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-02-28 22:23:25 +0900"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_controller": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 13:55:33 +0900"
@@ -4470,6 +4572,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 13:55:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-02-28 22:23:25 +0900"
     },
     "done": true
   },
@@ -4680,6 +4788,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-02-22 23:19:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2024-02-28 22:23:25 +0900"
     },
     "done": true
   },
