@@ -69,3 +69,16 @@
 [28Feb2024 15:00:01.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] お知らせ: 本日7:30(AM)に再起動を行います
 [28Feb2024 15:00:01.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [28Feb2024 15:00:01.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[28Feb2024 15:16:36.180] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[28Feb2024 15:16:38.402] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3669064
+[28Feb2024 15:16:38.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:26056] logged in with entity id 1041 at (-1258.5, 63.0, 314.5)
+[28Feb2024 15:16:38.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[28Feb2024 15:16:44.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[28Feb2024 15:26:54.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -314.0,7.4375,300.0
+[28Feb2024 15:37:37.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 0.7059903010413109,2.0,12.800000011920929
+[28Feb2024 15:37:40.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 334.0,-6.0,-335.0
+[28Feb2024 15:38:05.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -315.0,8.0,300.0
+[28Feb2024 15:38:05.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -315.0,8.0,300.0
+[28Feb2024 16:00:01.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] お知らせ: 本日7:30(AM)に再起動を行います
+[28Feb2024 16:00:01.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[28Feb2024 16:00:02.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
