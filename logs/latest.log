@@ -1,101 +1,75 @@
-[28Feb2024 14:41:44.512] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, start]
-[28Feb2024 14:41:44.517] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.10 by Private Build; OS Linux arch amd64 version 5.15.0-1054-azure
-[28Feb2024 14:41:44.860] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/azureuser/minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[28Feb2024 14:41:45.354] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.3.0/fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
-[28Feb2024 14:41:45.357] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.3.0/javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
-[28Feb2024 14:41:45.361] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.3.0/lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
-[28Feb2024 14:41:45.363] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.3.0/mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
-[28Feb2024 14:41:45.489] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[28Feb2024 14:41:48.465] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [start]
-[28Feb2024 14:41:55.187] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[28Feb2024 14:41:58.109] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
-[28Feb2024 14:41:58.120] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.0 Initialized
-[28Feb2024 14:41:58.648] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
-[28Feb2024 14:42:02.622] [main/INFO] [net.minecraft.scalar.mineall.ModConfig/]: net.minecraft.scalar.mineall.ModConfig::onLoad file:/home/azureuser/minecraft/config/mineallsmp-common.toml
-[28Feb2024 14:42:02.625] [Thread-0/INFO] [net.minecraft.scalar.mineall.ModConfig/]: net.minecraft.scalar.mineall.mod_MineAllSMP config reload.
-[28Feb2024 14:42:02.626] [Thread-0/INFO] [net.minecraft.scalar.mineall.ModConfig/]: net.minecraft.scalar.mineall.mod_MineAllSMP config reload.
-[28Feb2024 14:42:02.628] [main/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.ModConfig::onLoad file:/home/azureuser/minecraft/config/digallsmp-common.toml
-[28Feb2024 14:42:02.629] [Thread-0/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.mod_DigAllSMP config reload.
-[28Feb2024 14:42:02.630] [Thread-0/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.mod_DigAllSMP config reload.
-[28Feb2024 14:42:02.630] [main/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.ModConfig::onLoad file:/home/azureuser/minecraft/config/cutallsmp-common.toml
-[28Feb2024 14:42:02.631] [Thread-0/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.mod_CutAllSMP config reload.
-[28Feb2024 14:42:02.632] [Thread-0/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.mod_CutAllSMP config reload.
-[28Feb2024 14:42:02.678] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.3.9 initializing...
-[28Feb2024 14:42:02.818] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
-[28Feb2024 14:42:02.831] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
-[28Feb2024 14:42:02.935] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[28Feb2024 14:42:02.935] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
-[28Feb2024 14:42:03.045] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[28Feb2024 14:42:04.186] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 43.3.0 Target: null
-[28Feb2024 14:42:07.943] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[28Feb2024 14:42:09.476] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/azureuser/minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23115!/assets/.mcassetsroot' uses unexpected schema
-[28Feb2024 14:42:09.476] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/azureuser/minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23115!/data/.mcassetsroot' uses unexpected schema
-[28Feb2024 14:42:13.678] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 33 recipes
-[28Feb2024 14:42:14.474] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1601 advancements
-[28Feb2024 14:42:15.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[28Feb2024 14:42:15.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[28Feb2024 14:42:15.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[28Feb2024 14:42:15.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[28Feb2024 14:42:16.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[28Feb2024 14:42:16.150] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[28Feb2024 14:42:16.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[28Feb2024 14:42:28.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[28Feb2024 14:42:36.371] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.380] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.381] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.382] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.385] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.389] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.392] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.394] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.397] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.398] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.400] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.401] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.403] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.406] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.407] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.408] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:36.654] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:37.153] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:37.696] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Feb2024 14:42:38.205] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
-[28Feb2024 14:42:39.267] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[28Feb2024 14:42:39.280] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[28Feb2024 14:42:39.668] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[28Feb2024 14:42:40.238] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11585 ms
-[28Feb2024 14:42:40.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.920s)! For help, type "help"
-[28Feb2024 14:42:40.261] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[28Feb2024 15:00:01.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] お知らせ: 本日7:30(AM)に再起動を行います
-[28Feb2024 15:00:01.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[28Feb2024 15:00:01.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[28Feb2024 15:16:36.180] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
-[28Feb2024 15:16:38.402] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3669064
-[28Feb2024 15:16:38.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:26056] logged in with entity id 1041 at (-1258.5, 63.0, 314.5)
-[28Feb2024 15:16:38.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
-[28Feb2024 15:16:44.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
-[28Feb2024 15:26:54.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -314.0,7.4375,300.0
-[28Feb2024 15:37:37.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 0.7059903010413109,2.0,12.800000011920929
-[28Feb2024 15:37:40.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 334.0,-6.0,-335.0
-[28Feb2024 15:38:05.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -315.0,8.0,300.0
-[28Feb2024 15:38:05.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -315.0,8.0,300.0
-[28Feb2024 16:00:01.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] お知らせ: 本日7:30(AM)に再起動を行います
-[28Feb2024 16:00:01.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[28Feb2024 16:00:02.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[28Feb2024 16:00:50.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 338.07113796261456,-5.0,-339.2951772081227
-[28Feb2024 16:30:01.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] お知らせ: 30秒後にサーバーを再起動します
-[28Feb2024 16:30:01.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[28Feb2024 16:30:01.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[28Feb2024 16:30:31.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[28Feb2024 16:30:31.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[28Feb2024 16:30:31.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[28Feb2024 16:30:31.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Server closed
-[28Feb2024 16:30:31.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
-[28Feb2024 16:30:31.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[28Feb2024 16:30:33.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[28Feb2024 16:30:33.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[28Feb2024 16:30:33.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[28Feb2024 16:30:34.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[28Feb2024 16:30:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[28Feb2024 16:30:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[28Feb2024 16:30:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Feb2024 16:31:43.435] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, start]
+[28Feb2024 16:31:43.441] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.10 by Private Build; OS Linux arch amd64 version 5.15.0-1054-azure
+[28Feb2024 16:31:43.797] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/azureuser/minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[28Feb2024 16:31:44.329] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.3.0/fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
+[28Feb2024 16:31:44.332] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.3.0/javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[28Feb2024 16:31:44.334] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.3.0/lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[28Feb2024 16:31:44.336] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.3.0/mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[28Feb2024 16:31:44.444] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[28Feb2024 16:31:47.242] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [start]
+[28Feb2024 16:31:54.761] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[28Feb2024 16:31:57.940] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
+[28Feb2024 16:31:57.940] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.0 Initialized
+[28Feb2024 16:31:58.508] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[28Feb2024 16:32:02.393] [main/INFO] [net.minecraft.scalar.mineall.ModConfig/]: net.minecraft.scalar.mineall.ModConfig::onLoad file:/home/azureuser/minecraft/config/mineallsmp-common.toml
+[28Feb2024 16:32:02.396] [Thread-0/INFO] [net.minecraft.scalar.mineall.ModConfig/]: net.minecraft.scalar.mineall.mod_MineAllSMP config reload.
+[28Feb2024 16:32:02.398] [Thread-0/INFO] [net.minecraft.scalar.mineall.ModConfig/]: net.minecraft.scalar.mineall.mod_MineAllSMP config reload.
+[28Feb2024 16:32:02.400] [main/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.ModConfig::onLoad file:/home/azureuser/minecraft/config/digallsmp-common.toml
+[28Feb2024 16:32:02.402] [Thread-0/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.mod_DigAllSMP config reload.
+[28Feb2024 16:32:02.403] [Thread-0/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.mod_DigAllSMP config reload.
+[28Feb2024 16:32:02.405] [main/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.ModConfig::onLoad file:/home/azureuser/minecraft/config/cutallsmp-common.toml
+[28Feb2024 16:32:02.406] [Thread-0/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.mod_CutAllSMP config reload.
+[28Feb2024 16:32:02.408] [Thread-0/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.mod_CutAllSMP config reload.
+[28Feb2024 16:32:02.454] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.3.9 initializing...
+[28Feb2024 16:32:02.649] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
+[28Feb2024 16:32:02.659] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[28Feb2024 16:32:02.746] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[28Feb2024 16:32:02.753] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[28Feb2024 16:32:02.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28Feb2024 16:32:03.946] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 43.3.0 Target: null
+[28Feb2024 16:32:06.531] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[28Feb2024 16:32:07.755] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/azureuser/minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23115!/assets/.mcassetsroot' uses unexpected schema
+[28Feb2024 16:32:07.756] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/azureuser/minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23115!/data/.mcassetsroot' uses unexpected schema
+[28Feb2024 16:32:12.212] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 33 recipes
+[28Feb2024 16:32:13.058] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1601 advancements
+[28Feb2024 16:32:13.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[28Feb2024 16:32:13.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28Feb2024 16:32:13.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28Feb2024 16:32:13.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28Feb2024 16:32:14.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[28Feb2024 16:32:14.434] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[28Feb2024 16:32:14.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28Feb2024 16:32:26.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28Feb2024 16:32:32.982] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 16:32:32.991] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 16:32:32.992] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 16:32:32.996] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 16:32:32.997] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 16:32:32.997] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 16:32:32.998] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 16:32:32.999] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 16:32:33.000] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 16:32:33.001] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 16:32:33.001] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 16:32:33.002] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 16:32:33.011] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 16:32:33.241] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 16:32:33.741] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 16:32:34.342] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[28Feb2024 16:32:35.094] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Feb2024 16:32:35.251] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Feb2024 16:32:35.746] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Feb2024 16:32:36.503] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Feb2024 16:32:36.760] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Feb2024 16:32:37.243] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Feb2024 16:32:37.744] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Feb2024 16:32:37.976] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11235 ms
+[28Feb2024 16:32:37.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.342s)! For help, type "help"
+[28Feb2024 16:32:38.021] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[28Feb2024 16:46:16.154] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[28Feb2024 16:46:18.353] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@125fb841
+[28Feb2024 16:46:18.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:26080] logged in with entity id 3377 at (-1242.211340246767, 65.0, 281.26070494500846)
+[28Feb2024 16:46:18.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[28Feb2024 16:46:26.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[28Feb2024 17:00:01.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[28Feb2024 17:00:01.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
