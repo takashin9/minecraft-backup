@@ -1,86 +1,95 @@
-[27Feb2024 00:00:01.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[27Feb2024 00:00:02.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[27Feb2024 00:45:26.136] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [forge:tier_sorting,mekanismgenerators:mekanismgenerators,mekanism:mekanism,refinedstorage:main_channel] rejected vanilla connections
-[27Feb2024 00:45:26.136] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[27Feb2024 01:00:01.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[27Feb2024 01:00:01.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[27Feb2024 02:00:01.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[27Feb2024 02:00:01.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[27Feb2024 03:00:01.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[27Feb2024 03:00:01.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[27Feb2024 04:00:01.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[27Feb2024 04:00:01.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[27Feb2024 05:00:01.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[27Feb2024 05:00:01.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[27Feb2024 06:00:01.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[27Feb2024 06:00:01.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[27Feb2024 07:00:01.441] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
-java.io.IOError: java.io.IOException: Cannot run program "stty": error=0, Failed to exec spawn helper: pid: 167543, signal: 11
-	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-reader-3.12.1.jar%2361!/:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2361!/:?]
-	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.19.2-43.3.0-universal.jar%23120!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23115!/:?]
-Caused by: java.io.IOException: Cannot run program "stty": error=0, Failed to exec spawn helper: pid: 167543, signal: 11
-	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1143) ~[?:?]
-	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1073) ~[?:?]
-	at org.jline.utils.ExecHelper.exec(ExecHelper.java:35) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	... 4 more
-Caused by: java.io.IOException: error=0, Failed to exec spawn helper: pid: 167543, signal: 11
-	at java.lang.ProcessImpl.forkAndExec(Native Method) ~[?:?]
-	at java.lang.ProcessImpl.<init>(ProcessImpl.java:314) ~[?:?]
-	at java.lang.ProcessImpl.start(ProcessImpl.java:244) ~[?:?]
-	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1110) ~[?:?]
-	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1073) ~[?:?]
-	at org.jline.utils.ExecHelper.exec(ExecHelper.java:35) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	... 4 more
-[27Feb2024 14:26:38.357] [User Authenticator #43/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
-[27Feb2024 14:26:40.390] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60af2ff2
-[27Feb2024 14:26:40.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:57726] logged in with entity id 772807 at (-1250.6178205207916, 64.0, 317.50747581504555)
-[27Feb2024 14:26:40.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
-[27Feb2024 14:28:36.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -109.60324810857924,0.0,-179.3488427133372
-[27Feb2024 14:28:53.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 92.94613873402182,0.0,194.39212739868805
-[27Feb2024 14:46:39.458] [User Authenticator #44/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
-[27Feb2024 14:46:39.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from takashin71DC: Location (-1249.4708433151245, 80.75, 312.3090366125107) too far away from hit block BlockPos{x=-1250, y=82, z=311}.
-[27Feb2024 14:46:40.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from takashin71DC: Location (-1249.5954627096653, 80.75, 312.31573152542114) too far away from hit block BlockPos{x=-1250, y=82, z=311}.
-[27Feb2024 14:46:41.502] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@33bf7335
-[27Feb2024 14:46:41.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:54074] logged in with entity id 778146 at (-1274.3056223395945, 65.5625, 245.31794238866837)
-[27Feb2024 14:46:41.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
-[27Feb2024 14:46:41.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from takashin71DC: Location (-1249.5478733778, 80.84506964683533, 312.375) too far away from hit block BlockPos{x=-1250, y=82, z=311}.
-[27Feb2024 14:46:43.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from takashin71DC: Location (-1249.5637970268726, 81.02490431070328, 312.375) too far away from hit block BlockPos{x=-1250, y=82, z=311}.
-[27Feb2024 14:46:57.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Signiturere> なんでやってんだ
-[27Feb2024 14:47:17.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> やるっていったじゃん
-[27Feb2024 14:47:37.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> 工場の立て直しをしてます
-[27Feb2024 14:50:10.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> discord imasu
-[27Feb2024 14:50:49.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1255, y=62, z=291} BlockPos{x=-1262, y=62, z=298}
-[27Feb2024 14:50:49.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1255, y=62, z=291} BlockPos{x=-1262, y=62, z=298}
-[27Feb2024 14:50:49.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1255, y=62, z=291} BlockPos{x=-1262, y=62, z=298}
-[27Feb2024 17:04:02.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
-[27Feb2024 17:04:02.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
-[27Feb2024 17:04:07.043] [User Authenticator #45/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
-[27Feb2024 17:04:09.097] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5bb74659
-[27Feb2024 17:04:09.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:54463] logged in with entity id 810480 at (-1245.055085975635, 63.0, 299.5681192754241)
-[27Feb2024 17:04:09.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
-[27Feb2024 17:04:28.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
-[27Feb2024 17:04:28.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
-[27Feb2024 17:05:33.298] [User Authenticator #46/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
-[27Feb2024 17:05:35.346] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6470b2c3
-[27Feb2024 17:05:35.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:54565] logged in with entity id 810815 at (-1243.9689227308743, 63.0, 299.01646465974676)
-[27Feb2024 17:05:35.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
-[27Feb2024 17:32:24.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 31.14268971281217,2.0,-19.26338963917766
-[27Feb2024 17:35:35.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
-[27Feb2024 17:35:35.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
-[27Feb2024 18:11:23.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1351, y=61, z=263} BlockPos{x=-1351, y=62, z=263}
-[27Feb2024 18:12:17.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1363, y=59, z=264} BlockPos{x=-1363, y=60, z=264}
-[27Feb2024 18:23:02.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
-[27Feb2024 18:23:02.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[28Feb2024 01:03:21.870] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, start]
+[28Feb2024 01:03:21.895] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.10 by Private Build; OS Linux arch amd64 version 5.15.0-1054-azure
+[28Feb2024 01:03:22.570] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/azureuser/minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[28Feb2024 01:03:23.438] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.3.0/fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
+[28Feb2024 01:03:23.449] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.3.0/javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[28Feb2024 01:03:23.457] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.3.0/lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[28Feb2024 01:03:23.465] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/azureuser/minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.3.0/mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[28Feb2024 01:03:23.708] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[28Feb2024 01:03:28.766] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [start]
+[28Feb2024 01:03:42.840] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[28Feb2024 01:03:49.113] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
+[28Feb2024 01:03:49.122] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.0 Initialized
+[28Feb2024 01:03:50.160] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[28Feb2024 01:03:58.039] [main/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.ModConfig::onLoad file:/home/azureuser/minecraft/config/digallsmp-common.toml
+[28Feb2024 01:03:58.043] [Thread-0/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.mod_DigAllSMP config reload.
+[28Feb2024 01:03:58.052] [Thread-0/INFO] [net.minecraft.scalar.digall.ModConfig/]: net.minecraft.scalar.digall.mod_DigAllSMP config reload.
+[28Feb2024 01:03:58.053] [main/INFO] [net.minecraft.scalar.mineall.ModConfig/]: net.minecraft.scalar.mineall.ModConfig::onLoad file:/home/azureuser/minecraft/config/mineallsmp-common.toml
+[28Feb2024 01:03:58.055] [Thread-0/INFO] [net.minecraft.scalar.mineall.ModConfig/]: net.minecraft.scalar.mineall.mod_MineAllSMP config reload.
+[28Feb2024 01:03:58.064] [Thread-0/INFO] [net.minecraft.scalar.mineall.ModConfig/]: net.minecraft.scalar.mineall.mod_MineAllSMP config reload.
+[28Feb2024 01:03:58.067] [main/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.ModConfig::onLoad file:/home/azureuser/minecraft/config/cutallsmp-common.toml
+[28Feb2024 01:03:58.069] [Thread-0/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.mod_CutAllSMP config reload.
+[28Feb2024 01:03:58.070] [Thread-0/INFO] [net.minecraft.scalar.cutall.ModConfig/]: net.minecraft.scalar.cutall.mod_CutAllSMP config reload.
+[28Feb2024 01:03:58.172] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.3.9 initializing...
+[28Feb2024 01:03:58.562] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
+[28Feb2024 01:03:58.565] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[28Feb2024 01:03:58.650] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[28Feb2024 01:03:58.651] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[28Feb2024 01:03:58.917] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28Feb2024 01:04:00.452] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 43.3.0 Target: null
+[28Feb2024 01:04:06.659] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[28Feb2024 01:04:09.624] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/azureuser/minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23115!/assets/.mcassetsroot' uses unexpected schema
+[28Feb2024 01:04:09.624] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/azureuser/minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23115!/data/.mcassetsroot' uses unexpected schema
+[28Feb2024 01:04:18.172] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 33 recipes
+[28Feb2024 01:04:19.633] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1601 advancements
+[28Feb2024 01:04:21.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[28Feb2024 01:04:21.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28Feb2024 01:04:21.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28Feb2024 01:04:21.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28Feb2024 01:04:22.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[28Feb2024 01:04:22.228] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[28Feb2024 01:04:22.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28Feb2024 01:04:43.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28Feb2024 01:04:58.236] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:58.238] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:58.282] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:58.295] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:58.348] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:58.387] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:58.478] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:58.627] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:58.705] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:58.784] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:58.799] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:58.809] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:58.827] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:58.885] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:58.928] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.085] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.119] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.129] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.130] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.130] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.132] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.132] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.135] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.136] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.137] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.145] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.146] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.149] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.160] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.167] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.176] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.178] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.279] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:04:59.781] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:05:00.280] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:05:00.780] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:05:01.285] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Feb2024 01:05:01.781] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[28Feb2024 01:05:02.302] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[28Feb2024 01:05:02.780] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[28Feb2024 01:05:04.298] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Feb2024 01:05:04.304] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Feb2024 01:05:04.334] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Feb2024 01:05:04.822] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Feb2024 01:05:05.287] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Feb2024 01:05:05.802] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Feb2024 01:05:06.289] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Feb2024 01:05:06.790] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Feb2024 01:05:07.155] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 23876 ms
+[28Feb2024 01:05:07.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (44.616s)! For help, type "help"
+[28Feb2024 01:05:07.221] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[28Feb2024 02:00:01.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[28Feb2024 02:00:01.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
