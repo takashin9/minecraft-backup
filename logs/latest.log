@@ -153,3 +153,24 @@
 [29Feb2024 17:12:56.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
 [29Feb2024 18:00:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [29Feb2024 18:00:01.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[29Feb2024 18:06:48.493] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1253, y=-55, z=257}) is not Tags.Blocks.ORES.
+[29Feb2024 18:06:54.243] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1253, y=-56, z=257}) is not Tags.Blocks.ORES.
+[29Feb2024 18:07:15.393] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1245, y=-55, z=259}) is not Tags.Blocks.ORES.
+[29Feb2024 18:07:27.645] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1245, y=-57, z=258}) is not Tags.Blocks.ORES.
+[29Feb2024 18:07:47.692] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1251, y=-57, z=259}) is not Tags.Blocks.ORES.
+[29Feb2024 18:07:54.291] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1250, y=-58, z=258}) is not Tags.Blocks.ORES.
+[29Feb2024 18:08:26.842] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1239, y=-55, z=260}) is not Tags.Blocks.ORES.
+[29Feb2024 18:08:33.342] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1236, y=-55, z=260}) is not Tags.Blocks.ORES.
+[29Feb2024 18:08:39.642] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1239, y=-56, z=258}) is not Tags.Blocks.ORES.
+[29Feb2024 18:08:44.543] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1238, y=-57, z=259}) is not Tags.Blocks.ORES.
+[29Feb2024 18:09:05.943] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1235, y=-56, z=259}) is not Tags.Blocks.ORES.
+[29Feb2024 18:09:20.744] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1236, y=-57, z=261}) is not Tags.Blocks.ORES.
+[29Feb2024 18:09:48.941] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1234, y=-56, z=259}) is not Tags.Blocks.ORES.
+[29Feb2024 18:10:40.392] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1269, y=-55, z=263}) is not Tags.Blocks.ORES.
+[29Feb2024 18:10:45.393] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1270, y=-56, z=263}) is not Tags.Blocks.ORES.
+[29Feb2024 18:10:57.647] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1267, y=-55, z=262}) is not Tags.Blocks.ORES.
+[29Feb2024 18:11:51.641] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1266, y=-55, z=262}) is not Tags.Blocks.ORES.
+[29Feb2024 18:12:00.544] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1271, y=-57, z=264}) is not Tags.Blocks.ORES.
+[29Feb2024 18:12:05.892] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:obsidian}(pos=BlockPos{x=-1271, y=-58, z=264}) is not Tags.Blocks.ORES.
+[29Feb2024 19:00:01.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[29Feb2024 19:00:01.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game

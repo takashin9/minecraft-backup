@@ -3712,6 +3712,12 @@
     },
     "done": true
   },
+  "mekanism:simple_mass_storage": {
+    "criteria": {
+      "basic_bin": "2024-02-29 18:29:15 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2024-02-29 13:56:09 +0900"
