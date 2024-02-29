@@ -40,3 +40,41 @@
 [29Feb2024 11:00:01.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
 [29Feb2024 12:00:01.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [29Feb2024 12:00:01.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[29Feb2024 12:55:31.386] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player souta21054 is d16a56eb-4bde-4352-8b69-4bc9cc4e8923
+[29Feb2024 12:55:33.435] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@69f45b
+[29Feb2024 12:55:33.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: souta21054[/110.134.160.253:50562] logged in with entity id 195699 at (-1318.8587582667417, 63.0, 274.92835129689615)
+[29Feb2024 12:55:33.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 joined the game
+[29Feb2024 13:00:01.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[29Feb2024 13:00:01.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[29Feb2024 13:56:41.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Into Fire]
+[29Feb2024 13:56:56.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has completed the challenge [Hot Tourist Destinations]
+[29Feb2024 13:58:07.433] [Server thread/INFO] [net.minecraft.scalar.mineall.mod_MineAllSMP/]: mod_MineAllSMP.canMine:Block{minecraft:warped_wart_block}(pos=BlockPos{x=184, y=64, z=507}) is not Tags.Blocks.ORES.
+[29Feb2024 14:00:01.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[29Feb2024 14:00:01.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[29Feb2024 14:25:08.513] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[29Feb2024 14:25:10.554] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b85f515
+[29Feb2024 14:25:10.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:46934] logged in with entity id 284402 at (-1230.231431424711, 63.0, 291.78732327010493)
+[29Feb2024 14:25:10.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[29Feb2024 14:28:05.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> そうたもしかしてめちゃくちゃはいってた？
+[29Feb2024 14:28:28.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> なんじからはいったかおぼえてない
+[29Feb2024 14:28:47.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> バイオマス燃料めちゃくちゃ消えててビビったよ
+[29Feb2024 14:28:58.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> 1時間半くらい?
+[29Feb2024 14:30:10.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> そんなもんでなくなっちゃうのか
+[29Feb2024 14:32:07.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -341.7555931000079,6.0,326.2747335439328
+[29Feb2024 14:33:32.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 343.76790745009157,-6.0,-328.20827205880937
+[29Feb2024 14:38:52.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has made the advancement [So Much More Than a Monitor]
+[29Feb2024 14:52:47.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -343.32842222711656,6.0,326.12598215099626
+[29Feb2024 14:58:41.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[29Feb2024 14:58:41.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[29Feb2024 14:58:46.884] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[29Feb2024 14:58:48.905] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@85470b0
+[29Feb2024 14:58:48.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:64826] logged in with entity id 345888 at (-1583.9304270571988, 70.0, 611.0016574793694)
+[29Feb2024 14:58:48.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[29Feb2024 14:58:53.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[29Feb2024 14:58:53.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[29Feb2024 14:59:02.301] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[29Feb2024 14:59:04.352] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3f50850d
+[29Feb2024 14:59:04.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:59652] logged in with entity id 346141 at (-1583.9304270571988, 70.0, 611.0016574793694)
+[29Feb2024 14:59:04.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[29Feb2024 15:00:01.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[29Feb2024 15:00:01.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game

@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-02-29 13:56:09 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-02-20 17:36:50 +0900"
@@ -764,6 +770,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-02-25 13:03:14 +0900",
+      "minecraft:blaze": "2024-02-29 13:56:40 +0900",
       "minecraft:skeleton": "2024-02-20 19:59:20 +0900",
       "minecraft:hoglin": "2024-02-22 14:53:37 +0900",
       "minecraft:vindicator": "2024-02-25 13:03:12 +0900",
@@ -772,6 +779,7 @@
       "minecraft:creeper": "2024-02-20 21:42:04 +0900",
       "minecraft:slime": "2024-02-20 21:26:09 +0900",
       "minecraft:phantom": "2024-02-20 23:26:14 +0900",
+      "minecraft:wither_skeleton": "2024-02-29 13:56:22 +0900",
       "minecraft:cave_spider": "2024-02-20 21:10:32 +0900",
       "minecraft:zombie": "2024-02-20 17:36:21 +0900",
       "minecraft:drowned": "2024-02-22 18:55:32 +0900",
@@ -881,6 +889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-02-29 13:56:09 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2024-02-28 22:29:05 +0900"
@@ -938,6 +952,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2024-02-24 09:41:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-02-29 13:56:09 +0900"
     },
     "done": true
   },
@@ -1061,6 +1081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-02-29 13:56:41 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-02-20 17:19:28 +0900"
@@ -1136,6 +1162,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-02-23 15:35:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-02-29 13:56:09 +0900"
     },
     "done": true
   },
@@ -1466,6 +1498,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-02-20 18:33:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-02-29 13:56:09 +0900"
     },
     "done": true
   },
@@ -1811,9 +1849,10 @@
       "minecraft:crimson_forest": "2024-02-22 14:42:59 +0900",
       "minecraft:nether_wastes": "2024-02-22 14:54:02 +0900",
       "minecraft:soul_sand_valley": "2024-02-22 14:58:44 +0900",
-      "minecraft:basalt_deltas": "2024-02-22 15:00:16 +0900"
+      "minecraft:basalt_deltas": "2024-02-22 15:00:16 +0900",
+      "minecraft:warped_forest": "2024-02-29 13:56:56 +0900"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -2085,6 +2124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-02-29 13:56:09 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-02-20 17:25:36 +0900"
@@ -2163,6 +2208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2024-02-29 13:49:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-02-20 17:19:28 +0900"
@@ -2203,15 +2254,15 @@
     },
     "done": false
   },
-  "mekanism:stone_generator": {
-    "criteria": {
-      "upgrade_stone_generator": "2024-02-28 22:22:38 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2024-02-28 20:47:32 +0900"
+    },
+    "done": true
+  },
+  "mekanism:stone_generator": {
+    "criteria": {
+      "upgrade_stone_generator": "2024-02-28 22:22:38 +0900"
     },
     "done": true
   },
@@ -2995,6 +3046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-02-29 13:56:09 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-02-20 17:37:54 +0900"
@@ -3325,6 +3382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-02-29 13:56:41 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2024-02-20 17:08:10 +0900"
@@ -3358,6 +3421,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-02-20 19:08:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-02-29 13:56:41 +0900"
     },
     "done": true
   },
@@ -3412,6 +3481,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-02-20 17:14:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-02-29 13:56:09 +0900"
     },
     "done": true
   },
@@ -3532,6 +3607,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2024-02-20 17:08:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-02-29 13:56:09 +0900"
     },
     "done": true
   },

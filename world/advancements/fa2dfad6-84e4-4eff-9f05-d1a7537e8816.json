@@ -4143,6 +4143,12 @@
     },
     "done": true
   },
+  "mekanism:qio_dashboard": {
+    "criteria": {
+      "qio_dashboard": "2024-02-29 14:38:52 +0900"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_fluid_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-02-24 13:55:33 +0900"
