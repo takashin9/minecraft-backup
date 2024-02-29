@@ -563,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-02-29 17:26:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-02-20 17:46:22 +0900"
@@ -584,6 +590,12 @@
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2024-02-28 19:22:58 +0900"
+    },
+    "done": true
+  },
+  "mekanism:polonium": {
+    "criteria": {
+      "pellet_polonium": "2024-02-29 16:06:45 +0900"
     },
     "done": true
   },
@@ -1231,6 +1243,12 @@
     },
     "done": true
   },
+  "mekanism:advanced_qio_drive": {
+    "criteria": {
+      "qio_drive_hyper_dense": "2024-02-29 16:54:40 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-02-20 19:31:47 +0900"
@@ -1573,6 +1591,12 @@
     },
     "done": true
   },
+  "mekanism:portable_qio_dashboard": {
+    "criteria": {
+      "portable_qio_dashboard": "2024-02-29 16:55:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-02-20 17:46:22 +0900"
@@ -1790,6 +1814,12 @@
     },
     "done": true
   },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2024-02-29 16:22:28 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-02-20 17:55:35 +0900"
@@ -1841,6 +1871,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2024-02-28 19:22:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-02-29 17:28:50 +0900"
     },
     "done": true
   },
@@ -2154,6 +2190,12 @@
     },
     "done": true
   },
+  "mekanism:elite_control_circuit": {
+    "criteria": {
+      "elite_control_circuit": "2024-02-29 16:17:54 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-02-20 17:46:22 +0900"
@@ -2253,6 +2295,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-02-22 14:34:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-02-29 17:28:50 +0900"
     },
     "done": true
   },
@@ -2377,6 +2425,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-02-20 17:58:29 +0900"
+    },
+    "done": true
+  },
+  "mekanism:qio_dashboard": {
+    "criteria": {
+      "qio_dashboard": "2024-02-29 16:17:21 +0900"
     },
     "done": true
   },
@@ -3226,6 +3280,12 @@
     },
     "done": true
   },
+  "mekanism:basic_qio_drive": {
+    "criteria": {
+      "qio_drive_base": "2024-02-29 16:36:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-02-20 17:44:06 +0900"
@@ -3382,6 +3442,18 @@
     },
     "done": true
   },
+  "mekanism:ultimate_control_circuit": {
+    "criteria": {
+      "ultimate_control_circuit": "2024-02-29 16:18:13 +0900"
+    },
+    "done": true
+  },
+  "mekanism:qio_drive_array": {
+    "criteria": {
+      "qio_drive_array": "2024-02-29 16:29:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-02-20 17:13:23 +0900"
@@ -3397,6 +3469,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-02-20 20:33:17 +0900"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2024-02-29 16:22:09 +0900"
     },
     "done": true
   },
@@ -3493,6 +3571,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-02-22 18:08:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-02-29 17:26:56 +0900"
     },
     "done": true
   },
