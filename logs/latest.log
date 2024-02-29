@@ -78,3 +78,32 @@
 [29Feb2024 14:59:04.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
 [29Feb2024 15:00:01.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [29Feb2024 15:00:01.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[29Feb2024 15:06:42.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -343.64188027953855,6.0,327.6149651525733
+[29Feb2024 15:10:15.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 337.7918490527843,-6.0,-329.56725745302924
+[29Feb2024 15:16:41.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC has reached the goal [Who Needs Backpacks]
+[29Feb2024 15:21:36.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[29Feb2024 15:21:36.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[29Feb2024 15:21:45.768] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[29Feb2024 15:21:47.804] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ea51ab
+[29Feb2024 15:21:47.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:59883] logged in with entity id 355131 at (-1222.7302475785443, 65.0, 280.21221761181016)
+[29Feb2024 15:21:47.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[29Feb2024 15:24:51.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> エネルギー20GJとかのオーダーに乗った
+[29Feb2024 15:25:08.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> 桁が違いすぎる
+[29Feb2024 15:25:24.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -344.3962797494228,5.0,304.3580795756559
+[29Feb2024 15:25:24.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -344.3962797494228,5.0,304.3580795756559
+[29Feb2024 15:25:53.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> 1.02MJ/t
+[29Feb2024 15:26:45.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 337.4667299247026,-6.0,-329.46190254247165
+[29Feb2024 15:28:24.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 88.23501272615158,2.0,111.73609573380722
+[29Feb2024 15:29:36.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -347.239549684733,6.0,326.56828241330953
+[29Feb2024 15:32:23.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC lost connection: Disconnected
+[29Feb2024 15:32:23.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC left the game
+[29Feb2024 15:32:35.001] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player takashin71DC is fa2dfad6-84e4-4eff-9f05-d1a7537e8816
+[29Feb2024 15:32:37.051] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5eff6d
+[29Feb2024 15:32:37.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takashin71DC[/217.178.20.230:59697] logged in with entity id 359128 at (-1579.3392107685659, 70.0, 608.561306861215)
+[29Feb2024 15:32:37.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takashin71DC joined the game
+[29Feb2024 15:48:03.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <takashin71DC> eegui
+[29Feb2024 15:48:18.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <souta21054> 無限って出たからつけたらこれ
+[29Feb2024 15:53:54.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! -321.85854543302844,7.4375,292.6943020033716
+[29Feb2024 15:55:22.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takashin71DC moved too quickly! 340.9548148245335,-12.0,-318.26246907851635
+[29Feb2024 16:00:01.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[29Feb2024 16:00:01.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
