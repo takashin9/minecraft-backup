@@ -24,3 +24,11 @@
 [01Mar2024 11:00:01.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
 [01Mar2024 12:00:01.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [01Mar2024 12:00:01.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[01Mar2024 12:02:29.003] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player souta21054 is d16a56eb-4bde-4352-8b69-4bc9cc4e8923
+[01Mar2024 12:02:31.036] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3224f2d5
+[01Mar2024 12:02:31.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: souta21054[/110.134.160.253:50088] logged in with entity id 495274 at (-1246.6149075699661, 63.5625, 295.03378177260225)
+[01Mar2024 12:02:31.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 joined the game
+[01Mar2024 12:57:11.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: souta21054 lost connection: Disconnected
+[01Mar2024 12:57:11.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 left the game
+[01Mar2024 13:00:01.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[01Mar2024 13:00:01.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
