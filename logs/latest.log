@@ -36,3 +36,7 @@
 [02Mar2024 14:49:45.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 has made the advancement [Quantum Entanglement]
 [02Mar2024 15:00:01.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [02Mar2024 15:00:01.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[02Mar2024 15:04:52.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: souta21054 lost connection: Disconnected
+[02Mar2024 15:04:52.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: souta21054 left the game
+[02Mar2024 16:00:01.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[02Mar2024 16:00:01.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
