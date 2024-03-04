@@ -53,3 +53,14 @@
 [05Mar2024 02:37:04.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
 [05Mar2024 03:00:01.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [05Mar2024 03:00:01.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[05Mar2024 03:39:43.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1267, y=64, z=283} BlockPos{x=-1183, y=70, z=131}
+[05Mar2024 03:39:43.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1267, y=64, z=283} BlockPos{x=-1183, y=70, z=131}
+[05Mar2024 03:39:43.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1267, y=64, z=283} BlockPos{x=-1183, y=70, z=131}
+[05Mar2024 03:39:43.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1267, y=64, z=283} BlockPos{x=-1183, y=70, z=131}
+[05Mar2024 03:39:43.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1267, y=64, z=283} BlockPos{x=-1183, y=70, z=131}
+[05Mar2024 03:39:43.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1267, y=64, z=283} BlockPos{x=-1183, y=70, z=131}
+[05Mar2024 03:39:43.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1267, y=64, z=283} BlockPos{x=-1183, y=70, z=131}
+[05Mar2024 03:44:19.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[05Mar2024 03:44:19.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[05Mar2024 04:00:02.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[05Mar2024 04:00:02.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
