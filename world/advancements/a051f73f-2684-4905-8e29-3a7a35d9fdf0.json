@@ -989,6 +989,12 @@
     },
     "done": true
   },
+  "mekanism:running_free": {
+    "criteria": {
+      "free_runners": "2024-03-05 01:17:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-02-20 18:19:09 +0900"
@@ -3001,6 +3007,12 @@
     },
     "done": true
   },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2024-03-05 01:14:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2024-02-20 17:41:35 +0900"
@@ -3328,6 +3340,12 @@
   "mekanism:simple_mass_storage": {
     "criteria": {
       "basic_bin": "2024-02-25 02:21:29 +0900"
+    },
+    "done": true
+  },
+  "mekanism:portable_teleporter": {
+    "criteria": {
+      "portable_teleporter": "2024-03-05 01:02:14 +0900"
     },
     "done": true
   },
