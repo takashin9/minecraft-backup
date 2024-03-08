@@ -42,3 +42,14 @@
 [08Mar2024 20:00:01.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
 [08Mar2024 21:00:01.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [08Mar2024 21:00:01.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[08Mar2024 21:02:08.692] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[08Mar2024 21:02:11.034] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@8c7769e
+[08Mar2024 21:02:11.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:59979] logged in with entity id 211742 at (-1272.834289724995, 65.0, 246.06483611081995)
+[08Mar2024 21:02:11.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[08Mar2024 21:02:22.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08Mar2024 21:28:40.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[08Mar2024 21:28:40.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[08Mar2024 21:39:56.897] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [forge:tier_sorting,mekanismgenerators:mekanismgenerators,mekanism:mekanism,refinedstorage:main_channel] rejected vanilla connections
+[08Mar2024 21:39:56.897] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[08Mar2024 22:00:01.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[08Mar2024 22:00:01.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
