@@ -20,3 +20,11 @@
 [09Mar2024 09:00:01.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
 [09Mar2024 10:00:01.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [09Mar2024 10:00:01.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[09Mar2024 10:05:35.583] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Signiturere is a051f73f-2684-4905-8e29-3a7a35d9fdf0
+[09Mar2024 10:05:37.645] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a7a8bac
+[09Mar2024 10:05:37.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Signiturere[/116.64.76.171:61344] logged in with entity id 271566 at (-1272.4051669760338, 65.0, 244.32974081836042)
+[09Mar2024 10:05:37.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere joined the game
+[09Mar2024 10:23:40.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Signiturere lost connection: Disconnected
+[09Mar2024 10:23:40.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Signiturere left the game
+[09Mar2024 11:00:01.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[09Mar2024 11:00:01.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
