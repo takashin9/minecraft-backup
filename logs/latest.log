@@ -1,2 +1,6 @@
 [12Mar2024 00:00:01.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [12Mar2024 00:00:01.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[12Mar2024 00:59:41.315] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [forge:tier_sorting,mekanismgenerators:mekanismgenerators,mekanism:mekanism,refinedstorage:main_channel] rejected vanilla connections
+[12Mar2024 00:59:41.316] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[12Mar2024 01:00:01.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[12Mar2024 01:00:01.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
