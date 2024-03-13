@@ -9,3 +9,7 @@
 [14Mar2024 00:52:49.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O joined the game
 [14Mar2024 01:00:02.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [14Mar2024 01:00:02.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[14Mar2024 01:05:59.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mante2O lost connection: Disconnected
+[14Mar2024 01:05:59.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mante2O left the game
+[14Mar2024 02:00:01.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[14Mar2024 02:00:02.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
