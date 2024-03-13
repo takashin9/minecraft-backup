@@ -37,3 +37,17 @@
 [13Mar2024 16:00:01.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] お知らせ: 本日7:30(AM)に再起動を行います
 [13Mar2024 16:00:01.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [13Mar2024 16:00:01.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[13Mar2024 16:30:01.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] お知らせ: 30秒後にサーバーを再起動します
+[13Mar2024 16:30:01.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[13Mar2024 16:30:01.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[13Mar2024 16:30:31.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Mar2024 16:30:31.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Mar2024 16:30:31.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Mar2024 16:30:31.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Mar2024 16:30:32.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Mar2024 16:30:33.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Mar2024 16:30:33.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Mar2024 16:30:33.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Mar2024 16:30:33.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Mar2024 16:30:33.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Mar2024 16:30:33.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
